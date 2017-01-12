@@ -231,13 +231,20 @@ h1 {
     background-image: url(../img/img_day03.jpg) ;
     background-size: cover; }
   #slide01 .bcg {
-    background: url(../img/img_mountains02.jpg) no-repeat center center;
+    background: url(../img/sky.jpg) no-repeat center center;
+    background-size: cover; }
+  #slide04 .bcg {
+    background: url(https://static.wixstatic.com/media/375882_d3b2a40c372e453080bbf8395c816c8e~mv2.jpg/v1/fill/w_1444,h_1082,al_c,q_85/375882_d3b2a40c372e453080bbf8395c816c8e~mv2.webp) no-repeat center center;
+    background-size: cover; }
+  #slide05 .bcg {
+    background: url(../img/mnm.jpg) no-repeat center center;
     background-size: cover; }
   #slide02 .bcg {
-    background: url(../img/img_mountains03.jpg) no-repeat center center;
-    background-size: cover; }
+    background: url(../img/cupcakes.jpg) no-repeat center center;
+    background-size: cover;
+  }
   #slide03 .bcg {
-    background: url(../img/img_mountains04.jpg) no-repeat center center;
+    background: url(../img/cupcakes.jpg) no-repeat center center;
     background-size: cover;
     opacity: 0.7; }
 
@@ -337,6 +344,12 @@ p {
   .slide#slide01 .wrapper {
     /*position: absolute;*/
     top: 10%; }
+  .slide#slide04 .wrapper {
+    /*position: absolute;*/
+    top: 10%; }
+  .slide#slide05 .wrapper {
+    /*position: absolute;*/
+    top: 10%; }
   .slide#slide02 .wrapper {
     /*position: absolute;*/
     bottom: 10%; }
@@ -352,6 +365,8 @@ p {
     padding-top: 100px; }
   .slide#slide04 {
     background-color: #be4c2c; }
+  .slide#slide05 {
+    background-color: black; }
 
 .button {
   text-decoration: none;
@@ -464,13 +479,15 @@ p {
       text-align: left;
       width: 100%;
       margin: 0; }
-    .slide#slide01, .slide#slide02, .slide#slide03 {
+    .slide#slide01, .slide#slide02, .slide#slide03, .slide#slide04, .slide#slide05 {
       color: #212121; }
-      .slide#slide01 .wrapper, .slide#slide02 .wrapper, .slide#slide03 .wrapper {
+      .slide#slide01 .wrapper, .slide#slide02 .wrapper, .slide#slide03 .wrapper, .slide#slide04 .wrapperm .slide#slide05 .wrapper {
         top: 20%;
         text-align: center; }
 
     .slide#slide01 {
+      color: #ffffff; }
+    .slide#slide04 {
       color: #ffffff; }
     .slide#slide02 {
       color: #ffffff; }
@@ -612,6 +629,7 @@ p {
 
 #titles {
   width: 100vw;
+  height: 600px;
 }
 
 #categoryClicksBubbles {
@@ -625,7 +643,7 @@ p {
     height: 70px;
     left: 150px;
     border-radius: 50px;
-    animation: myOrbit 10s linear infinite; /* Chrome, Firefox 16+, IE 10+, Safari 5 */
+    animation: myOrbit 30s linear infinite; /* Chrome, Firefox 16+, IE 10+, Safari 5 */
 }
 
 @keyframes myOrbit {
@@ -639,22 +657,49 @@ p {
 
 .moon {
     background: ghostwhite;
-    animation-delay: 5s;
+    animation-delay: 15s;
 }
 
 #slide01 .bcg {
-    animation: back-change 5s infinite;
+    animation: back-change 15s infinite;
     animation-direction: alternate;
-    animation-delay: 2.5s;
+    animation-delay: 7.5s;
 }
 
 @keyframes back-change {
     from { opacity: 1 }
-    to { opacity: 0.3}
+    to { opacity: 0.1}
 }
 
 #i {
-  width: 100vw;
+  width: 900px;
   height: 1000px;
+  margin-left: 190px;
   border: none;
+}
+
+#intro .title {
+  font-size: 90px;
+  color: white;
+}
+
+#intro .wrapper {
+  top: 700px;
+}
+
+#slide04 .slideInUp {
+  padding-left: 200px;
+}
+
+#slide05 .slideInUp {
+  padding-left: 100px;
+  color: white;
+}
+
+#slide05 .bcg {
+  opacity: 0.6;
+}
+
+#slide05 .slideInUp {
+  text-align: center;
 }
