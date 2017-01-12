@@ -228,7 +228,8 @@ d3.tsv("data/test_output.tsv", function(error, data) {
 	
 		// Update time
 		var true_minute = curr_minute % 1440;
-		d3.select("#current_time").text(minutesToTime(true_minute));
+        var united_states_minutes = (curr_minute-240) % 1440;
+		d3.select("#current_time").text(minutesToTime(united_states_minutes));
 		
 		// Update notes
 		// var true_minute = curr_minute % 1440;
