@@ -1,756 +1,2504 @@
 country,city,clicks,views,lat,lng
-United States of America,Los Angeles,3.0,1186,33.98997825,-118.1799805
-United States of America,New York,5.0,1893,40.74997906,-73.98001693
-United States of America,Seattle,1.0,695,47.57000205,-122.339985
-United States of America,Chicago,3.0,1160,41.82999066,-87.75005497
-United States of America,Portland,1.0,647,43.67216158,-70.2455274
-United States of America,Portland,1.0,647,45.52002382,-122.6799901
-United States of America,San Francisco,0.0,477,37.74000775,-122.4599777
-United States of America,Houston,2.0,685,29.81997438,-95.33997929
-United States of America,Philadelphia,3.0,567,39.99997316,-75.16999597
-United States of America,Austin,2.0,496,30.26694969,-97.74277836
-United States of America,San Diego,0.0,285,32.82002382,-117.1799899
-United States of America,Denver,1.0,496,39.73918805,-104.984016
-United States of America,Minneapolis,1.0,421,44.97997927,-93.25178634
-United States of America,San Jose,0.0,223,37.29998293,-121.8499891
-United States of America,Atlanta,1.0,391,33.83001385,-84.39994938
-Canada,Toronto,0.0,312,43.69997988,-79.42002079
-United States of America,Las Vegas,0.0,237,35.59701194,-105.2225027
-United States of America,Las Vegas,0.0,237,36.20999778,-115.2200061
-United States of America,Oakland,0.0,310,37.76892071,-122.2211034
-United States of America,Miami,0.0,318,25.7876107,-80.22410608
-United States of America,Columbus,0.0,273,32.47043276,-84.98001734
-United States of America,Columbus,0.0,273,39.97997438,-82.9900096
-Singapore,Singapore,0.0,88,1.293033466,103.8558207
-United States of America,Charlotte,2.0,204,35.20499453,-80.83003809
-United States of America,Phoenix,1.0,364,33.53997988,-112.0699917
-United States of America,Dallas,1.0,381,32.82002382,-96.84001693
-United States of America,Richmond,0.0,213,39.82889833,-84.89028121
-United States of America,Richmond,0.0,213,37.55001935,-77.449986
-United States of America,Arlington,0.0,272,32.68476076,-97.02023849
-United States of America,Rochester,1.0,229,44.02205324,-92.46968937
-United States of America,Rochester,1.0,229,43.17042564,-77.61994979
-United States of America,Orlando,0.0,96,28.50997683,-81.38003036
-United States of America,Boston,1.0,280,42.32996014,-71.07001367
-United States of America,Pittsburgh,0.0,196,40.4299986,-79.99998539
-United States of America,Indianapolis,0.0,190,39.74998842,-86.17004806
-United States of America,Louisville,1.0,205,38.22501691,-85.74870427
-United States of America,Cincinnati,0.0,161,39.16188479,-84.45692265
-United States of America,Sacramento,0.0,203,38.57502138,-121.4700381
-United States of America,Ann Arbor,0.0,50,42.30037539,-83.71999089
-United States of America,Madison,2.0,371,43.07301556,-89.40111699
-Canada,Calgary,0.0,142,51.08299176,-114.0799982
-United States of America,Springfield,0.0,170,44.05194806,-122.9780339
-United States of America,Springfield,0.0,170,42.12002464,-72.57999903
-United States of America,Springfield,0.0,170,39.92000388,-83.799986
-United States of America,Springfield,0.0,170,39.82000999,-89.65001652
-United States of America,Springfield,0.0,170,37.18001609,-93.31999923
-United States of America,San Antonio,0.0,200,29.48733319,-98.50730534
-United States of America,Salt Lake City,1.0,219,40.7750163,-111.9300519
-United States of America,Boise,0.0,159,43.60859011,-116.2274899
-Canada,Ottawa,0.0,90,45.4166968,-75.7000153
-United States of America,Wilmington,1.0,212,39.74626772,-75.54689803
-United States of America,Wilmington,1.0,212,34.22551943,-77.94502039
-Canada,Winnipeg,0.0,58,49.88298749,-97.16599186
-United States of America,Colorado Springs,0.0,77,38.86296246,-104.7919863
-United States of America,Newark,0.0,55,40.70042137,-74.17000533
-United States of America,Raleigh,1.0,145,35.81878135,-78.64469344
-United States of America,Fayetteville,2.0,75,36.06297833,-94.15720911
-United States of America,Fayetteville,2.0,75,35.06293601,-78.88359359
-United States of America,Buffalo,0.0,68,42.87997825,-78.88000208
-United States of America,Columbia,0.0,105,35.61499534,-87.03526656
-United States of America,Columbia,0.0,105,38.95207847,-92.33390955
-United States of America,Columbia,0.0,105,34.0399752,-80.89998214
-United States of America,Nashville,0.0,133,36.16997438,-86.77998499
-United States of America,Alexandria,0.0,79,38.82043276,-77.09998153
-United States of America,Alexandria,0.0,79,31.31109784,-92.44501388
-United States of America,Canton,0.0,54,40.79886497,-81.37863509
-United States of America,Kansas City,0.0,197,39.11358052,-94.63014638
-United States of America,Kansas City,0.0,197,39.10708851,-94.60409422
-United States of America,Baltimore,0.0,223,39.29999005,-76.61998499
-United States of America,Pasadena,0.0,65,29.66086265,-95.14774296
-United States of America,Pasadena,0.0,65,34.16038129,-118.1388719
-United States of America,Lynchburg,0.0,22,37.4136194,-79.14246668
-United States of America,Charleston,0.0,56,32.79237693,-79.99210474
-United States of America,Charleston,0.0,56,38.34973798,-81.63272811
-United States of America,Fort Lauderdale,0.0,202,26.13606488,-80.14178552
-United States of America,Bremerton,0.0,40,47.57359552,-122.6420175
-Ireland,Dublin,0.0,95,53.33306114,-6.248905682
-United States of America,Grand Rapids,0.0,127,42.96371991,-85.66994938
-United States of America,Medford,1.0,67,42.32662701,-122.8744227
-Canada,Edmonton,1.0,168,53.55002464,-113.4999819
-United States of America,Knoxville,0.0,44,35.97001243,-83.92003036
-United States of America,Honolulu,0.0,191,21.30687644,-157.8579979
-United States of America,Omaha,0.0,114,41.24000083,-96.00999007
-United States of America,Laurel,0.0,9,31.69737917,-89.1392725
-United States of America,Lancaster,0.0,59,39.71921511,-82.6053044
-United States of America,Lancaster,0.0,59,40.03777447,-76.30576644
-United States of America,Lancaster,0.0,59,34.69804873,-118.135823
-United States of America,Virginia Beach,0.0,89,36.85321433,-75.97831873
-United States of America,Durham,0.0,134,35.99995892,-78.91999964
-Peru,Lima,0.0,7,-12.04801268,-77.05006209
-United States of America,Duluth,0.0,41,46.78333173,-92.10637822
-United States of America,Milwaukee,0.0,212,43.05265505,-87.91996708
-United States of America,Olympia,0.0,140,47.03804486,-122.899434
-United States of America,Albuquerque,1.0,260,35.10497479,-106.6413308
-United States of America,Santa Cruz,3.0,137,36.97194629,-122.0263904
-United States of America,Asheville,0.0,51,35.60119773,-82.55414474
-United States of America,Scottsdale,0.0,91,33.69234784,-111.8680402
-United Kingdom,London,0.0,124,51.49999473,-0.116721844
-United States of America,Irvine,0.0,27,33.68041058,-117.8299502
-United States of America,Tallahassee,0.0,93,30.44998761,-84.28003422
-United States of America,Oklahoma City,0.0,75,35.47004295,-97.51868351
-United States of America,Greenville,0.0,26,33.41037539,-91.06168746
-United States of America,Greenville,0.0,26,34.85292299,-82.3941545
-United States of America,Greenville,0.0,26,35.61287661,-77.3666836
-United States of America,Birmingham,1.0,142,33.53000633,-86.82499516
-Canada,Vancouver,0.0,92,49.27341658,-123.1216442
-United States of America,Eureka,1.0,129,40.80222394,-124.1474974
-United States of America,Des Moines,0.0,40,41.57998008,-93.61998092
-United States of America,Boulder,0.0,33,40.03844627,-105.246093
-United States of America,Berkeley,0.0,97,37.87390139,-122.271152
-United States of America,New Orleans,0.0,87,29.99500246,-90.03996688
-United States of America,Riverside,0.0,85,33.94194501,-117.3980386
-United States of America,Lexington,0.0,129,38.05001467,-84.50002079
-United States of America,Aurora,0.0,174,39.69585736,-104.808497
-United States of America,Aurora,0.0,174,41.76539512,-88.29999557
-United States of America,Cleveland,0.0,146,41.4699868,-81.69499821
-United States of America,Lincoln,0.0,68,40.81997479,-96.68000086
-United States of America,Jackson,0.0,118,35.61486615,-88.81389185
-United States of America,Jackson,0.0,118,32.29881533,-90.18499679
-United States of America,Tampa,0.0,205,27.94698793,-82.45862085
-New Zealand,Auckland,0.0,71,-36.850013,174.7649808
-United States of America,Marietta,0.0,95,33.95561342,-84.54324813
-United States of America,Lansing,0.0,26,42.73352724,-84.54673629
-United States of America,Greensboro,0.0,77,36.07000633,-79.80002344
-Australia,Brisbane,0.0,8,-27.45503091,153.0350927
-United Kingdom,Glasgow,0.0,38,55.87440472,-4.250707236
-United States of America,Bloomington,0.0,76,40.48459475,-88.99359664
-United States of America,Bloomington,0.0,76,39.16565716,-86.52640873
-United States of America,Jacksonville,0.0,68,34.75432436,-77.43055567
-United States of America,Jacksonville,0.0,68,30.33002077,-81.66998682
-United States of America,Mobile,0.0,17,30.68002525,-88.04998499
-United States of America,Tucson,0.0,134,32.20499676,-110.8899862
-United States of America,Wichita,0.0,58,37.71998313,-97.32998702
-United States of America,Bozeman,0.0,7,45.68009157,-111.0378325
-United States of America,Las Cruces,0.0,28,32.31261293,-106.7778083
-United States of America,Bakersfield,0.0,68,35.36997154,-119.0199809
-Japan,Tokyo,0.0,4,35.68501691,139.7514074
-United States of America,San Marcos,0.0,78,29.88307131,-97.94111251
-United States of America,Decatur,0.0,78,39.8407064,-88.95473596
-South Korea,Seoul,0.0,5,37.5663491,126.999731
-United States of America,Vancouver,0.0,20,45.63030133,-122.6399925
-Germany,Berlin,0.0,74,52.52181866,13.40154862
-Canada,Courtenay,0.0,24,49.68333559,-124.9999777
-United States of America,Memphis,1.0,127,35.1199868,-89.99999516
-United States of America,Mesa,1.0,43,33.42391461,-111.7360844
-United States of America,Spokane,0.0,32,47.66999595,-117.4199494
-United States of America,Garden City,0.0,20,37.97521303,-100.8640866
-United States of America,Tacoma,0.0,20,47.21131594,-122.5150131
-United States of America,Charlottesville,0.0,98,38.02918907,-78.47692591
-Canada,Hamilton,0.0,20,43.24998151,-79.82999577
-United States of America,Whittier,0.0,8,60.78415672,-148.6776797
-United States of America,Chattanooga,0.0,52,35.06998985,-85.25000086
-United States of America,Farmington,0.0,49,36.75415061,-108.1860944
-United States of America,Salem,1.0,62,42.5224989,-70.88309175
-United States of America,Salem,1.0,62,44.92807029,-123.0238967
-United States of America,Fresno,0.0,124,36.7477169,-119.7729841
-United States of America,Anchorage,0.0,75,61.21996991,-149.9002149
-United States of America,Watertown,0.0,45,43.97515688,-75.91106185
-United States of America,Cedar Rapids,0.0,24,41.96998212,-91.66002303
-United States of America,West Palm Beach,0.0,104,26.74501996,-80.12362126
-United States of America,Allentown,0.0,10,40.59998822,-75.50002751
-United States of America,Long Beach,0.0,113,33.78696739,-118.1580439
-United States of America,Peoria,0.0,53,40.69998212,-89.67004114
-United States of America,Modesto,0.0,64,37.65541343,-120.9899899
-Canada,Saskatoon,2.0,44,52.17003135,-106.6699854
-United States of America,Sarasota,0.0,80,27.33612083,-82.53078699
-Sweden,Stockholm,0.0,18,59.35075995,18.09733473
-United States of America,Everett,0.0,54,47.9604175,-122.1999677
-United States of America,Mansfield,0.0,20,40.75832481,-82.51554244
-United States of America,Glendale,2.0,252,33.58194114,-112.1958238
-United States of America,Hilo,0.0,16,19.69999778,-155.0900273
-United States of America,Redding,0.0,18,40.58704327,-122.3905762
-United States of America,Bowling Green,0.0,8,41.37474713,-83.65139042
-United States of America,Bowling Green,0.0,8,36.99069948,-86.44364893
-United States of America,Florence,0.0,56,34.79969627,-87.67724288
-United States of America,Florence,0.0,56,34.19567629,-79.76279057
-United States of America,Detroit,0.0,38,42.32996014,-83.08005579
-United States of America,Dayton,0.0,152,39.750376,-84.19998743
-United States of America,Anderson,0.0,18,34.50374534,-82.6502629
-United States of America,Athens,0.0,32,33.96129783,-83.3780221
-United States of America,Evansville,0.0,4,37.97469627,-87.5558291
-Canada,Victoria,0.0,70,48.43328269,-123.3500009
-United States of America,Baton Rouge,0.0,55,30.45794578,-91.14015812
-Canada,London,0.0,38,42.9699986,-81.24998661
-United States of America,Huntsville,0.0,19,30.72376935,-95.55058659
-United States of America,Huntsville,0.0,19,34.71995953,-86.60999536
-United States of America,Stamford,0.0,41,41.05334556,-73.53919112
-United States of America,Lafayette,0.0,73,40.41720868,-86.87824772
-United States of America,Lafayette,0.0,73,30.19997703,-92.01994938
-United States of America,Appleton,0.0,30,44.26867902,-88.40050623
-United States of America,Concord,1.0,60,43.20807192,-71.53804712
-United States of America,Norfolk,0.0,44,42.02871238,-97.43359827
-United States of America,Norfolk,0.0,44,36.84995872,-76.28000574
-United States of America,Beaufort,0.0,4,32.43216636,-80.68950403
-United States of America,Burlington,0.0,70,40.80793418,-91.11276961
-United States of America,Burlington,0.0,70,44.47579816,-73.21246688
-United States of America,Murfreesboro,0.0,16,35.84596315,-86.39026717
-United States of America,Pocatello,0.0,26,42.87134829,-112.4447234
-United States of America,Davenport,0.0,18,41.55398684,-90.58753036
-United States of America,New Haven,0.0,50,41.33038291,-72.90000533
-United States of America,San Mateo,0.0,26,37.55691815,-122.3130616
-United States of America,Annapolis,0.0,33,38.9783301,-76.49249923
-United States of America,Arcata,0.0,22,40.88519045,-124.0882245
-United States of America,Syracuse,0.0,76,43.04999371,-76.15001367
-United Kingdom,Leeds,0.0,18,53.83000755,-1.580017539
-United States of America,Lubbock,0.0,34,33.58000327,-101.8799677
-United States of America,Erie,0.0,14,42.12992067,-80.08499313
-United States of America,Spring Hill,0.0,77,28.47894513,-82.54771102
-United States of America,Clarksville,0.0,49,36.5300816,-87.35943282
-United States of America,Reno,0.0,76,39.52997601,-119.8200096
-United States of America,Albany,0.0,52,44.62049217,-123.086942
-United States of America,Albany,0.0,52,31.57873008,-84.15582992
-United States of America,Albany,0.0,52,42.67001691,-73.81994918
-United States of America,Toledo,0.0,37,41.67002626,-83.57997359
-United States of America,Santa Barbara,0.0,33,34.43498985,-119.7199899
-United States of America,Harrisburg,0.0,4,40.27359987,-76.88474919
-United States of America,Roswell,0.0,54,33.39453656,-104.5224679
-United States of America,Bay City,0.0,38,43.5944566,-83.88889531
-United States of America,Bay City,0.0,38,28.98111086,-95.96435978
-Malaysia,Kuala Lumpur,0.0,4,3.166665872,101.6999833
-United States of America,Dover,0.0,69,39.15808657,-75.524703
-United States of America,Trenton,0.0,86,40.2169625,-74.74335535
-United States of America,Belleville,0.0,40,38.52515362,-90.0002277
-United States of America,New Braunfels,0.0,14,29.6978113,-98.12632084
-United States of America,Sioux Falls,0.0,31,43.54998903,-96.7299978
-United States of America,Helena,0.0,12,46.59274904,-112.035291
-United States of America,Santa Rosa,0.0,68,38.45040367,-122.6999889
-United States of America,Eugene,0.0,68,44.05001019,-123.1000161
-United Kingdom,Nottingham,0.0,16,52.97034426,-1.170016725
-United States of America,Jonesboro,0.0,26,35.84257835,-90.70416406
-United Kingdom,Manchester,0.0,20,53.50041526,-2.247987103
-United States of America,Evanston,0.0,34,42.04834943,-87.69995467
-United States of America,Grants Pass,0.0,46,42.43954002,-123.3271857
-United Kingdom,Aberdeen,0.0,24,57.17039797,-2.079987021
-United States of America,Palm Springs,0.0,10,33.77735557,-116.5330526
-United States of America,Fredericksburg,0.0,26,38.30351341,-77.46078638
-United States of America,Frankfort,0.0,11,38.2008065,-84.87335718
-Guyana,Georgetown,0.0,13,6.801973693,-58.16702865
-United States of America,Clarksburg,0.0,11,39.28327272,-80.33691573
-United States of America,Youngstown,0.0,22,41.09969932,-80.64973902
-Canada,Halifax,0.0,34,44.65002525,-63.60000452
-Canada,Kitchener,0.0,28,43.44999514,-80.50000655
-United States of America,Carson City,0.0,19,39.16384849,-119.7663953
-United States of America,New Bedford,0.0,1,41.6561253,-70.94469833
-United States of America,State College,0.0,18,40.79372316,-77.8602452
-United States of America,Bellingham,0.0,49,48.76013613,-122.4869269
-United States of America,Ithaca,0.0,24,42.44057355,-76.4969434
-United States of America,Denton,1.0,22,33.21576194,-97.12883651
-United States of America,Bend,0.0,19,44.071921,-121.3099962
-United States of America,Little Rock,0.0,78,34.73608258,-92.33109318
-United States of America,Grand Island,0.0,40,40.92226829,-98.35798629
-United States of America,Covington,0.0,17,39.0840084,-84.50859908
-United States of America,Auburn,0.0,58,32.60970074,-85.48083948
-United States of America,Odessa,0.0,4,31.84556134,-102.3672248
-United States of America,Spartanburg,0.0,33,34.94942873,-81.93227055
-Indonesia,Jakarta,0.0,14,-6.174417705,106.8294376
-United Kingdom,Liverpool,0.0,28,53.41600181,-2.917997886
-United States of America,Bangor,0.0,6,44.80115297,-68.77834477
-United States of America,Laredo,0.0,4,27.50613629,-99.50721847
-United States of America,Rockford,0.0,17,42.26970542,-89.06969019
-France,Paris,0.0,52,48.86669293,2.333335326
-United States of America,Chico,0.0,14,39.72862022,-121.8363982
-Australia,Sydney,0.0,10,-33.92001097,151.1851798
-United States of America,Monroe,0.0,21,32.50960349,-92.11919397
-United States of America,Muskegon,0.0,6,43.23458193,-86.24836369
-United States of America,Marion,0.0,52,40.55833701,-85.65917485
-United States of America,Lawrence,0.0,22,38.95975242,-95.25522994
-United States of America,Iowa City,0.0,24,41.66108624,-91.52997929
-United States of America,Astoria,0.0,20,46.18838096,-123.8299974
-United States of America,Akron,0.0,59,41.07039878,-81.51999597
-Barbados,Bridgetown,0.0,6,13.10200258,-59.61652674
-United States of America,Newport,0.0,10,41.49039899,-71.31335799
-United States of America,Gainesville,0.0,125,29.65138002,-82.32503727
-United States of America,Altoona,0.0,10,40.51859784,-78.39496708
-United States of America,Rapid City,0.0,6,44.08055096,-103.2305571
-United States of America,Pensacola,0.0,44,30.42112632,-87.21693506
-United States of America,Naples,0.0,38,26.14205935,-81.79499211
-United Kingdom,Birmingham,0.0,34,52.47497398,-1.919996787
-Canada,Moncton,0.0,8,46.08334861,-64.76667749
-United States of America,Melbourne,0.0,6,28.08331036,-80.60832035
-Canada,Nanaimo,1.0,30,49.14602021,-123.9342911
-United States of America,Racine,0.0,22,42.72771364,-87.81183415
-United States of America,York,0.0,41,39.96292116,-76.72804041
-United States of America,Roanoke,0.0,28,37.27119916,-79.94161686
-China,Beijing,0.0,4,39.92889223,116.3882857
-United States of America,Augusta,0.0,23,33.46081158,-81.98498051
-United States of America,Augusta,0.0,23,44.31056276,-69.77998906
-United States of America,Clovis,0.0,14,34.40506919,-103.2047706
-United States of America,Midland,0.0,32,32.030718,-102.0974996
-United States of America,Myrtle Beach,0.0,28,33.68891136,-78.8869784
-United States of America,San Bernardino,0.0,6,34.12038373,-117.3000342
-United States of America,Kingsport,0.0,16,36.54832338,-82.56194788
-United Arab Emirates,Dubai,0.0,88,25.22999615,55.27997432
-Greece,Athens,0.0,48,37.98332623,23.73332108
-United States of America,Waterville,0.0,4,44.5518917,-69.64578536
-United States of America,Ocala,0.0,4,29.1873515,-82.14026819
-United States of America,Monticello,0.0,6,37.87178265,-109.3421995
-United States of America,Hampton,0.0,24,37.03002525,-76.34994979
-United States of America,Utica,0.0,13,43.10117922,-75.23306706
-United States of America,Winchester,0.0,19,39.1787313,-78.16663477
-Spain,Madrid,0.0,32,40.40002626,-3.683351686
-United States of America,Stillwater,0.0,19,36.13535118,-97.06829757
-United States of America,El Paso,0.0,38,31.77998395,-106.5099952
-United States of America,Miami Beach,0.0,67,25.80991953,-80.13178111
-United States of America,Owensboro,0.0,7,37.77457928,-87.11332381
-United States of America,Cape Coral,0.0,11,26.60290977,-81.97968368
-United States of America,Traverse City,0.0,5,44.76844179,-85.62217452
-United States of America,Kalamazoo,0.0,9,42.29215883,-85.58718958
-Canada,Kelowna,0.0,18,49.89998903,-119.4833118
-United States of America,Lakeville,0.0,6,44.65010276,-93.24251042
-United Kingdom,Reading,0.0,22,51.46997072,-0.980028322
-United States of America,Cheyenne,0.0,7,41.14000694,-104.8197107
-Canada,Regina,0.0,24,50.45003298,-104.6170099
-United Kingdom,Belfast,0.0,20,54.60001223,-5.960034425
-Belgium,Brussels,0.0,6,50.83331708,4.333316608
-United States of America,Oceanside,0.0,38,33.2204645,-117.3349675
-United States of America,Oshkosh,0.0,4,44.02510215,-88.54251306
-Norway,Oslo,0.0,47,59.91669029,10.74997921
-Canada,Kingston,0.0,10,44.23371991,-76.48330082
-United States of America,Morgantown,0.0,25,39.62981488,-79.95606043
-United States of America,Carlsbad,0.0,37,32.420565,-104.2282998
-United States of America,Beaumont,0.0,5,30.08626304,-94.10168278
-United States of America,Dublin,0.0,30,32.53745709,-82.91828272
-Venezuela,Caracas,0.0,4,10.50099855,-66.91703719
-United States of America,Topeka,0.0,29,39.05000531,-95.66998499
-United Kingdom,Leicester,0.0,18,52.62997744,-1.133248943
-United States of America,Metairie,0.0,11,29.98386619,-90.15277653
-United States of America,Wichita Falls,0.0,22,33.91362632,-98.49306848
-United States of America,Hagerstown,0.0,7,39.64164878,-77.72027958
-United States of America,Janesville,0.0,8,42.68262596,-89.02157943
-United States of America,Abilene,0.0,5,32.4486253,-99.73278609
-Norway,Trondheim,0.0,4,63.41665753,10.41666622
-United States of America,Danville,0.0,20,36.58625388,-79.39531946
-Australia,Melbourne,0.0,8,-37.82003131,144.9750162
-United States of America,Worcester,0.0,10,42.27042889,-71.80002079
-Canada,Windsor,0.0,32,44.98059938,-64.12911951
-Canada,Windsor,0.0,32,42.33329327,-83.03334029
-United States of America,Pueblo,0.0,22,38.2803882,-104.6300066
-United States of America,Wausau,0.0,20,44.95915367,-89.6299919
-Dominican Republic,Santo Domingo,0.0,12,18.47007285,-69.90008508
-United Kingdom,Oxford,0.0,42,51.7704175,-1.249986004
-United States of America,Stockton,0.0,18,37.95813397,-121.289739
-Belgium,Antwerpen,0.0,10,51.22037355,4.415017048
-United States of America,Independence,0.0,1,39.09111391,-94.41528121
-United States of America,Monterey,0.0,12,36.6002582,-121.8935781
-Kenya,Nairobi,0.0,10,-1.283346742,36.81665686
-United States of America,Providence,0.0,59,41.82110231,-71.4149797
-United States of America,Powell,0.0,6,44.75867495,-108.7584367
-United States of America,Missoula,0.0,21,46.87224103,-113.9930526
-United Kingdom,Southampton,0.0,28,50.90003135,-1.399976849
-Ecuador,Quito,0.0,4,-0.214988181,-78.50005111
-Canada,Chilliwack,0.0,10,49.16664878,-121.949983
-United States of America,Vallejo,0.0,1,38.11194887,-122.258052
-United States of America,Longview,0.0,10,32.50053428,-94.74027429
-United States of America,Longview,0.0,10,46.13871991,-122.9369511
-Portugal,Lisbon,0.0,11,38.72272288,-9.144866305
-Australia,Canberra,0.0,6,-35.28302855,149.1290262
-Puerto Rico,San Juan,0.0,27,18.44002301,-66.12997929
-United States of America,Grand Forks,0.0,10,47.92527753,-97.0324858
-United States of America,Killeen,0.0,4,31.11728538,-97.72748214
-United States of America,Fort Wayne,0.0,33,41.08039817,-85.12998234
-Spain,Granada,0.0,36,37.16497825,-3.585011435
-United States of America,Green Bay,0.0,30,44.5299809,-88.00001388
-United States of America,Hartford,0.0,14,41.77002016,-72.67996708
-Austria,Vienna,0.0,14,48.20001528,16.36663896
-Serbia,Belgrade,0.0,18,44.81864545,20.46799068
-United States of America,Panama City,0.0,16,30.15861005,-85.65527328
-United Kingdom,Brighton,0.0,16,50.83034568,-0.169974407
-Turkey,Istanbul,0.0,58,41.10499615,29.01000159
-Ecuador,Cuenca,0.0,4,-2.89999225,-78.99999475
-United States of America,Manchester,0.0,59,42.99599184,-71.45528731
-United States of America,Eau Claire,0.0,17,44.81135907,-91.49835331
-Nigeria,Lagos,0.0,14,6.443261653,3.391531071
-United Kingdom,Sheffield,0.0,20,53.36667666,-1.499996583
-United States of America,Jefferson City,0.0,6,38.57662335,-92.17332503
-United States of America,Brunswick,0.0,41,31.1496865,-81.49165145
-United States of America,Salisbury,0.0,18,35.67078005,-80.4744784
-United Kingdom,Norwich,0.0,32,52.63036501,1.300013386
-United States of America,Poughkeepsie,0.0,4,41.70023114,-73.92141585
-Netherlands,Rotterdam,0.0,4,51.9199691,4.479974323
-United States of America,Homer,0.0,6,59.64293439,-151.5482797
-United States of America,Meridian,0.0,22,32.36418601,-88.70361434
-Jamaica,Kingston,0.0,6,17.97707662,-76.76743371
-United States of America,Quincy,0.0,24,39.9359719,-91.40972823
-United States of America,Idaho Falls,0.0,34,43.46668662,-112.0333014
-Russia,Moscow,0.0,6,55.75216412,37.61552283
-United States of America,Montgomery,0.0,17,32.36160219,-86.27918868
-United States of America,Visalia,0.0,39,36.32502952,-119.3160094
-United States of America,Waterloo,0.0,12,42.49315432,-92.34279789
-United States of America,Crestview,0.0,6,30.75420677,-86.57260746
-Canada,Fredericton,0.0,14,45.94999758,-66.63330774
-United States of America,Sheboygan,0.0,36,43.75082949,-87.71442407
-United States of America,Provo,0.0,34,40.24889854,-111.63777
-United States of America,Yakima,0.0,10,46.60223167,-120.5046965
-Poland,Warsaw,0.0,18,52.25000063,20.99999955
-United States of America,Kokomo,0.0,6,40.48676516,-86.13364201
-United States of America,Harrisonburg,0.0,18,38.44942181,-78.86917586
-United States of America,Amarillo,0.0,8,35.22998008,-101.8299966
-United States of America,Manhattan,0.0,21,39.19402753,-96.59243514
-United States of America,Shreveport,0.0,19,32.50001752,-93.77002344
-New Zealand,Whangarei,0.0,13,-35.71995278,174.3100215
-United States of America,Coral Gables,0.0,13,25.71541872,-80.29107874
-Estonia,Tallinn,1.0,26,59.43387738,24.72804073
-Ireland,Cork,0.0,10,51.89860089,-8.49577112
-United States of America,Norman,0.0,18,35.22791302,-97.34414636
-United States of America,New London,0.0,4,41.3555235,-72.10002832
-United States of America,Goldsboro,0.0,4,35.38513857,-77.99305363
-Saudi Arabia,Jeddah,0.0,8,21.51688946,39.21919755
-United States of America,Houma,0.0,4,29.59593121,-90.71948613
-United States of America,Daytona Beach,0.0,5,29.21055422,-81.0230754
-United States of America,Vero Beach,0.0,11,27.64225201,-80.39112431
-United Kingdom,Edinburgh,0.0,6,55.94832786,-3.219090618
-United States of America,Rocky Mount,0.0,4,35.93799888,-77.79076624
-Honduras,Tegucigalpa,0.0,4,14.1020449,-87.21752934
-Italy,Milan,0.0,18,45.4699752,9.20500891
-Italy,Rome,0.0,10,41.89595563,12.48325842
-United Kingdom,Cambridge,0.0,4,52.20039125,0.116623086
-India,Hyderabad,0.0,8,17.39998313,78.47995357
-United States of America,Eagle,0.0,1,64.78799501,-141.1999966
-Canada,Lethbridge,3.0,6,49.70049217,-112.8332784
-United States of America,Macon,0.0,11,32.85038373,-83.63004806
-United States of America,Waukesha,0.0,19,43.0116498,-88.23136926
-United States of America,Freeport,0.0,8,28.95948427,-95.35687748
-United States of America,Corpus Christi,0.0,10,27.74281435,-97.40189478
-United States of America,Dodge City,0.0,2,37.76005821,-100.018195
-Bolivia,La Paz,0.0,19,-16.49797361,-68.14998519
-United States of America,Johnson City,0.0,14,36.31332481,-82.35361434
-United States of America,Montpelier,0.0,4,44.25997154,-72.57581323
-United States of America,Montpelier,0.0,4,42.32262209,-111.2969123
-Egypt,Cairo,1.0,18,30.04996035,31.24996822
-United States of America,Muncie,0.0,6,40.19375979,-85.38637496
-United States of America,Salinas,0.0,6,36.68221702,-121.6416555
-United States of America,Kissimmee,0.0,35,28.29205731,-81.4077806
-United States of America,Casper,0.0,19,42.86661989,-106.3124878
-Portugal,Porto,0.0,12,41.15000633,-8.620001263
-United States of America,Moorhead,0.0,13,46.87430808,-96.74219344
-United States of America,Conroe,0.0,11,30.31206321,-95.45586369
-United States of America,Pittsfield,0.0,42,42.44819582,-73.25982833
-United States of America,Hattiesburg,0.0,17,31.32727256,-89.2902452
-United States of America,Texarkana,0.0,6,33.44210472,-94.03747481
-United States of America,Minot,0.0,4,48.23249392,-101.2958173
-United States of America,Santa Maria,0.0,7,34.94012697,-120.4366386
-United States of America,Rock Hill,0.0,6,34.94038535,-81.03000004
-United States of America,Cleburne,0.0,4,32.35152529,-97.39248967
-United States of America,Victorville,0.0,33,34.5365082,-117.2903191
-United States of America,Palmer,0.0,7,61.59971417,-149.1126919
-Slovenia,Ljubljana,0.0,10,46.05528831,14.51496903
-United States of America,Fort Collins,0.0,19,40.56068829,-105.0588693
-United States of America,La Grange,0.0,10,33.03647056,-85.03187464
-United States of America,Leesburg,0.0,24,28.81050112,-81.88333297
-Canada,Kamloops,0.0,12,50.66666058,-120.3332858
-Sweden,Helsingborg,0.0,28,56.05049217,12.70004106
-United States of America,Corvallis,0.0,16,44.57235557,-123.2799793
-Canada,Brandon,0.0,6,49.83327476,-99.94998214
-United States of America,Kennewick,1.0,4,46.21137697,-119.1360979
-Finland,Helsinki,1.0,42,60.17556337,24.93412634
-South Africa,Cape Town,0.0,30,-33.92001097,18.43498816
-United States of America,Salina,0.0,4,38.82467023,-97.6071794
-Italy,Naples,0.0,6,40.84002525,14.24501135
-United States of America,Hancock,0.0,17,47.12729006,-88.5808053
-United States of America,Pierre,0.0,6,44.36833701,-100.350552
-Brazil,Belo Horizonte,0.0,4,-19.91502602,-43.91500452
-Croatia,Zagreb,0.0,16,45.80000673,15.99999467
-Suriname,Paramaribo,0.0,4,5.83503013,-55.16703089
-United States of America,Gillette,0.0,24,44.28317425,-105.5052503
-Germany,Hamburg,0.0,32,53.55002464,9.999999144
-United States of America,Tulsa,0.0,39,36.12000327,-95.93002079
-United States of America,Billings,0.0,36,45.78830202,-108.5400004
-Pakistan,Lahore,0.0,15,31.55997154,74.35002478
-United States of America,Wailuku,0.0,6,20.89147544,-156.5047213
-Canada,Camrose,0.0,4,53.01669802,-112.8166386
-United States of America,Fargo,0.0,42,46.8772278,-96.7894257
-United States of America,Joplin,0.0,2,37.08459556,-94.51307886
-Netherlands,Haarlem,0.0,12,52.38043194,4.629991006
-United States of America,Fort Pierce,0.0,16,27.44678591,-80.3258053
-Vietnam,Hanoi,0.0,6,21.03332725,105.8500142
-United States of America,Glasgow,0.0,6,48.18396975,-106.6352588
-Argentina,Buenos Aires,0.0,6,-34.60250161,-58.39753137
-United States of America,Sidney,0.0,4,41.13980023,-102.9782727
-United States of America,Casa Grande,0.0,4,32.87937421,-111.7566258
-Bulgaria,Varna,0.0,18,43.21564252,27.89528926
-United States of America,Shawnee,0.0,18,35.34278973,-96.93378382
-United States of America,San Luis Obispo,0.0,27,35.28318097,-120.6585889
-Ghana,Accra,0.0,8,5.550034606,-0.21671574
-Romania,Bucharest,0.0,36,44.4333718,26.09994665
-Netherlands,Amsterdam,0.0,70,52.34996869,4.916640176
-South Africa,Johannesburg,0.0,34,-26.17004474,28.03000972
-United States of America,Richland,0.0,43,46.29181134,-119.2911013
-Canada,Red Deer,0.0,10,52.26664044,-113.8000411
-United States of America,Schenectady,0.0,28,42.81458173,-73.93996769
-United States of America,Ogden,0.0,24,41.23237856,-111.9680341
-United Kingdom,Cardiff,0.0,4,51.49999473,-3.22500757
-India,Delhi,0.0,12,28.6699929,77.23000403
-New Zealand,Wellington,0.0,34,-41.29997394,174.7832743
-United States of America,Dickinson,0.0,20,46.88399742,-102.7888011
-United States of America,Greeley,0.0,7,40.41919822,-104.739974
-United States of America,Conway,0.0,4,35.09128054,-92.4513184
-United States of America,Waterbury,0.0,4,41.55000775,-73.05002202
-United States of America,Harlingen,0.0,4,26.19755983,-97.69019759
-Canada,Barrie,0.0,6,44.38376243,-79.7000037
-United States of America,Brainerd,0.0,6,46.35800885,-94.20084986
-Norway,Bergen,0.0,6,60.39100242,5.324522256
-United States of America,Saginaw,0.0,10,43.4194802,-83.95082951
-United States of America,New Albany,0.0,16,38.3108773,-85.82128382
-United Kingdom,Bournemouth,0.0,6,50.72999005,-1.900049684
-United States of America,Lake Charles,0.0,14,30.22638369,-93.21718897
-Canada,Orillia,0.0,12,44.59997662,-79.41666183
-Chile,Santiago,0.0,23,-33.45001382,-70.66704085
-United States of America,Coos Bay,0.0,6,43.36661521,-124.2165888
-United States of America,Dalton,0.0,18,34.76972394,-84.97030217
-Spain,Barcelona,1.0,54,41.38329958,2.183370319
-India,Bangalore,0.0,12,12.96999514,77.56000972
-Switzerland,Lausanne,0.0,1,46.53042727,6.650022744
-Jordan,Amman,0.0,4,31.95002525,35.93329993
-United States of America,Gary,0.0,6,41.58039349,-87.33000309
-United States of America,Bristol,0.0,18,36.61152366,-82.17600244
-Germany,Stuttgart,0.0,14,48.77997988,9.199996296
-United States of America,Edinburg,0.0,12,26.30318646,-98.1599622
-United States of America,Lander,0.0,21,42.83300437,-108.7325985
-Lithuania,Vilnius,0.0,6,54.68336631,25.31663529
-Ireland,Galway,0.0,6,53.272393,-9.048812298
-United States of America,Johnstown,0.0,4,40.32708498,-78.92222172
-United Kingdom,Blackpool,0.0,10,53.83039512,-3.050005332
-United States of America,Dubuque,0.0,16,42.50093162,-90.66445073
-Bulgaria,Sofia,0.0,44,42.68334943,23.31665401
-United States of America,Hickory,0.0,38,35.7334894,-81.34140222
-United Kingdom,Chester,0.0,6,53.20002016,-2.919987428
-United States of America,Merced,0.0,12,37.30261843,-120.481933
-United States of America,London,0.0,12,37.12888226,-84.08335372
-New Zealand,Tauranga,0.0,4,-37.69642129,176.1536299
-United States of America,Bismarck,0.0,1,46.80831728,-100.7833163
-Germany,Munich,0.0,10,48.12994204,11.57499345
-Czech Republic,Prague,0.0,20,50.08333701,14.46597978
-United States of America,Savannah,0.0,98,32.02110618,-81.10999516
-United Kingdom,Bristol,0.0,40,51.44999778,-2.583315472
-United Kingdom,Ipswich,0.0,12,52.07034751,1.169995482
-United States of America,Sherman,0.0,12,33.63599469,-96.60858403
-Saint Lucia,Castries,0.0,12,14.00197349,-61.00000818
-India,New Delhi,0.0,4,28.60002301,77.19998002
-Canada,North Battleford,0.0,4,52.76663576,-108.2833494
-South Africa,Port Elizabeth,0.0,4,-33.97003375,25.60002885
-United States of America,Niagara Falls,0.0,27,43.09482302,-79.0369434
-United States of America,Battle Creek,0.0,10,42.32109764,-85.17974675
-United States of America,Alliance,0.0,12,42.10139528,-102.8701915
-Norway,Moss,0.0,5,59.43697797,10.66915727
-United States of America,Juneau,0.0,4,58.31412661,-134.419997
-United States of America,Williston,0.0,4,48.15678794,-103.6280005
-United States of America,Paso Robles,0.0,4,35.6265967,-120.6899823
-United States of America,Cumberland,0.0,13,39.65317263,-78.76277409
-United States of America,Montrose,0.0,6,38.47727541,-107.8655197
-United States of America,San Angelo,0.0,5,31.4640084,-100.4366966
-New Zealand,Christchurch,0.0,5,-43.53503131,172.6300207
-United States of America,Prescott,0.0,14,34.59001914,-112.4477723
-United States of America,Palm Coast,0.0,7,29.53800193,-81.22329574
-United States of America,Wenatchee,0.0,26,47.42362856,-120.3090237
-United States of America,Ardmore,0.0,4,34.1810777,-97.12940495
-United States of America,Flint,0.0,16,43.0128642,-83.68753809
-United States of America,Huntington,0.0,26,38.41957867,-82.44528833
-United States of America,Enterprise,0.0,6,31.32781516,-85.84399561
-United States of America,Key West,0.0,10,24.55523114,-81.78274479
-United States of America,Logan,0.0,18,41.73593955,-111.8335979
-Canada,Oshawa,0.0,24,43.87999473,-78.84997807
-United States of America,Tulare,0.0,4,36.20702639,-119.3441213
-United States of America,Bartlesville,0.0,6,36.74720013,-95.98058618
-Turkey,Ankara,0.0,20,39.92723859,32.86439164
-United States of America,Ames,0.0,69,42.05385297,-93.61972254
-Canada,Yorkton,0.0,6,51.21706626,-102.4665469
-Canada,Saint John,0.0,12,45.26704185,-66.07667505
-United States of America,Lima,0.0,4,40.74287355,-84.10526453
-Canada,Thunder Bay,0.0,4,48.44615013,-89.27497481
-Canada,Shelburne,0.0,6,43.76560895,-65.31935694
-United States of America,Saratoga Springs,0.0,4,43.08296328,-73.78501591
-Hungary,Budapest,0.0,40,47.50000633,19.08332068
-United States of America,Scranton,0.0,26,41.40929283,-75.66267908
-Philippines,Manila,0.0,10,14.60415895,120.9822172
-Qatar,Doha,0.0,14,25.28655601,51.53296789
-United States of America,Bemidji,0.0,4,47.47357383,-94.88018823
-United States of America,Waukegan,0.0,8,42.36404075,-87.8447262
-United States of America,Lewiston,0.0,4,44.10070477,-70.21525965
-United States of America,Lewiston,0.0,4,46.41660992,-117.016589
-India,Mumbai,0.0,30,19.01699038,72.8569893
-Canada,Charlottetown,0.0,6,46.24928164,-63.13132512
-United States of America,Riverton,0.0,8,43.02816042,-108.3950481
-Philippines,Cebu,0.0,41,10.31997601,123.9000752
-New Zealand,Taupo,0.0,6,-38.69300128,176.0770455
-United States of America,Brookings,0.0,12,44.30676455,-96.78803044
-Pakistan,Karachi,0.0,16,24.86999229,66.99000891
-United States of America,Tuscaloosa,0.0,10,33.22511538,-87.54417607
-Canada,Revelstoke,0.0,6,51.0004645,-118.1833395
-New Zealand,Invercargill,0.0,4,-46.40942951,168.3650097
-United States of America,Urbana,0.0,32,40.10999229,-88.20418746
-Mexico,Celaya,1.0,17,20.53002464,-100.8000078
-New Zealand,New Plymouth,0.0,4,-39.0641931,174.0805265
-United States of America,Hopkinsville,0.0,8,36.86548749,-87.4886239
-Belgium,Gent,0.0,18,51.02999758,3.700021931
-Poland,Poznan,0.0,6,52.4057534,16.89993974
-United States of America,Galesburg,0.0,6,40.94777061,-90.37108362
-United States of America,Richfield,0.0,6,38.77247703,-112.0832984
-United States of America,Waco,0.0,6,31.54917116,-97.14638066
-United States of America,Victoria,0.0,10,28.80499758,-97.00334029
-United States of America,Cody,0.0,6,44.52321128,-109.0571007
-United States of America,Marquette,1.0,19,46.54673118,-87.40658757
-Costa Rica,Heredia,0.0,6,9.991997986,-84.12000251
-United Kingdom,Coventry,0.0,22,52.42040367,-1.499996583
-United Kingdom,Plymouth,0.0,6,50.38538576,-4.159989259
-Canada,Steinbach,0.0,10,49.51709251,-96.68330815
-Norway,Drammen,0.0,4,59.75724265,10.19073686
-United States of America,Superior,0.0,20,46.72124249,-92.10389775
-United States of America,Biloxi,0.0,6,30.39580487,-88.88530868
-United States of America,Benton Harbor,0.0,6,42.11663983,-86.45419092
-United States of America,Tyler,0.0,33,32.35108604,-95.30078272
-Namibia,Windhoek,0.0,4,-22.57000608,17.0835461
-United States of America,Gulfport,0.0,4,30.3675637,-89.09276371
-United States of America,Wasilla,0.0,6,61.58173077,-149.439442
-Germany,Oldenburg,0.0,12,53.1299986,8.220004434
-South Africa,Pretoria,0.0,7,-25.70692055,28.22942908
-Zambia,Lusaka,0.0,4,-15.41664427,28.28332759
-Canada,Gander,0.0,4,48.94999534,-54.54998845
-Canada,Orangeville,0.0,8,43.91707257,-80.08333948
-Saudi Arabia,Riyadh,0.0,14,24.64083315,46.77274166
-United Kingdom,York,0.0,8,53.97038658,-1.080022218
-Mexico,Tijuana,0.0,7,32.50001752,-117.079996
-Mexico,Cuernavaca,0.0,2,18.92110476,-99.23999964
-Switzerland,Bern,0.0,4,46.91668276,7.466975462
-Brazil,Ponta Grossa,0.0,14,-25.09000731,-50.16004968
-United States of America,Iron Mountain,0.0,39,45.82246014,-88.06409265
-Vietnam,Ho Chi Minh City,0.0,6,10.78002545,106.6950272
-Canada,Sudbury,0.0,8,46.49998985,-80.96664474
-United States of America,Flagstaff,0.0,6,35.19809572,-111.6505083
-United States of America,Sioux City,0.0,14,42.50038902,-96.39999211
-Kuwait,Kuwait,0.0,10,29.36971763,47.97830115
-United States of America,Carbondale,0.0,34,37.72683026,-89.22024947
-United States of America,Del Rio,0.0,4,29.36294802,-100.8963843
-Canada,Moose Jaw,0.0,8,50.39998435,-105.5500021
-United States of America,Roseburg,0.0,6,43.21843304,-123.3560987
-Canada,Terrace,0.0,6,54.49999249,-128.5833248
-Dominica,Roseau,0.0,7,15.30101564,-61.38701298
-Canada,Cornwall,0.0,6,45.01705711,-74.73333012
-Canada,Nelson,0.0,24,49.48365786,-117.2832911
-Bangladesh,Dhaka,0.0,10,23.72305971,90.40857947
-Bermuda,Hamilton,0.0,12,32.29419029,-64.78393742
-Trinidad and Tobago,San Fernando,0.0,6,10.28046166,-61.45937678
-United States of America,Paducah,0.0,4,37.08371706,-88.60000309
-United States of America,Fairbanks,0.0,6,64.83698427,-147.7106586
-United States of America,Emporia,0.0,10,38.40423077,-96.18137496
-United States of America,Bryan,0.0,6,30.67418581,-96.36968388
-India,Pune,0.0,4,18.53001752,73.85000362
-Lebanon,Beirut,0.0,10,33.87197512,35.50970821
-United Kingdom,Bath,0.0,4,51.3837486,-2.350022218
-United Arab Emirates,Abu Dhabi,0.0,10,24.46668357,54.36659338
-United States of America,Walla Walla,0.0,10,46.06515851,-118.3418828
-United States of America,Mitchell,0.0,8,43.71429425,-98.02619776
-United States of America,Council Bluffs,0.0,4,41.26227338,-95.86080021
-United States of America,Cordova,0.0,12,60.5427761,-145.7574962
-Canada,Belleville,0.0,4,44.16666974,-77.38334924
-United States of America,Beckley,0.0,8,37.78018618,-81.18301396
-South Africa,Durban,0.0,4,-29.865013,30.98001054
-Pakistan,Islamabad,0.0,16,33.69999595,73.16663448
-Mexico,Monterrey,0.0,4,25.66999514,-100.3299848
-Aruba,Oranjestad,0.0,7,12.53038373,-70.02899195
-New Zealand,Napier,0.0,4,-39.4900069,176.9150305
-Morocco,Rabat,0.0,6,34.02529909,-6.83613082
-Australia,Launceston,0.0,4,-41.44983559,147.1301818
-Canada,Cranbrook,0.0,6,49.5166791,-115.7666653
-Slovenia,Maribor,0.0,6,46.54047833,15.65004187
-Mexico,Guanajuato,0.0,3,21.02040814,-101.2799785
-New Zealand,Palmerston North,0.0,4,-40.35269326,175.6072033
-Oman,Muscat,0.0,10,23.61332481,58.59331213
-United States of America,Texas City,0.0,6,29.41087791,-94.96276717
-Nicaragua,Managua,0.0,6,12.15301658,-86.26849166
-United States of America,Zanesville,0.0,6,39.94028688,-82.01332503
-United States of America,Marinette,0.0,1,45.10038535,-87.63047571
-Germany,Wiesbaden,0.0,4,50.08039146,8.250028441
-Bahrain,Manama,0.0,4,26.23613629,50.58305172
-United States of America,Pendleton,0.0,6,45.67259849,-118.7874886
-United States of America,Ponca City,0.0,4,36.7073576,-97.08527328
-United States of America,Williamsport,0.0,6,41.24108604,-77.0013829
-United States of America,Escanaba,0.0,6,45.7456948,-87.06436039
-Brazil,Salvador,0.0,18,-12.9699719,-38.47998743
-Netherlands,Utrecht,0.0,10,52.10034568,5.120038614
-United States of America,Port Charlotte,0.0,5,27.00004315,-82.10569666
-United States of America,Lufkin,0.0,6,31.33843467,-94.72887964
-United Kingdom,Exeter,0.0,12,50.70040529,-3.529950197
-Switzerland,Basel,0.0,6,47.58038902,7.590017048
-Netherlands,Maastricht,0.0,2,50.85299707,5.677002477
-Canada,Prince George,0.0,18,53.91666892,-122.7666515
-Turkey,Kayseri,0.0,6,38.73495994,35.49001949
-Liberia,Monrovia,0.0,7,6.31055666,-10.80475163
-United States of America,Bethel,0.0,6,60.79330345,-161.7557961
-United Kingdom,Peterborough,0.0,8,52.58041974,-0.249995363
-Canada,Atikokan,0.0,6,48.75039512,-91.61658899
-India,Lucknow,1.0,17,26.85503908,80.91499874
-India,Jaipur,0.0,4,26.92113324,75.80998734
-Spain,Albacete,0.0,6,39.00034426,-1.869999839
-Germany,Mainz,1.0,4,49.98247246,8.273219156
-Norway,Stavanger,1.0,14,58.97000389,5.680004434
-Germany,Dortmund,0.0,4,51.52996706,7.450025593
-Switzerland,Luzern,0.0,12,47.05042137,8.280000772
-Denmark,Odense,1.0,6,55.40037681,10.38333492
-Cameroon,Douala,0.0,4,4.060409769,9.709991006
-France,Nice,0.0,6,43.71501772,7.265023965
-Turkey,Mugla,0.0,5,37.21637046,28.36389115
-Finland,Turku,0.0,6,60.4538668,22.25496171
-Netherlands,Groningen,0.0,12,53.22040651,6.580001179
-Sweden,Uppsala,0.0,7,59.86005292,17.63999792
-United States of America,Rhinelander,0.0,6,45.63991315,-89.41207239
-France,Marseille,0.0,4,43.28997906,5.37501013
-Botswana,Gaborone,0.0,6,-24.64631346,25.91194779
-United Kingdom,Inverness,0.0,4,57.46712404,-4.23326644
-Brazil,Manaus,0.0,6,-3.100031719,-60.00001754
-Canada,Creston,0.0,6,49.09996035,-116.516697
-Latvia,Riga,0.0,10,56.95002382,24.09996537
-Poland,Wroclaw,0.0,6,51.11043194,17.03000932
-United States of America,Spencer,0.0,8,43.14528505,-95.14717452
-Germany,Augsburg,0.0,12,48.35000612,10.89999589
-Ukraine,Odessa,0.0,4,46.4900163,30.71000118
-Brazil,Piracicaba,0.0,12,-22.70999754,-47.63999679
-Spain,Cadiz,0.0,6,36.53499086,-6.225005332
-Puerto Rico,Ponce,0.0,6,18.00038576,-66.61664209
-Canada,New Liskeard,0.0,6,47.50000633,-79.66664657
-Belize,Belize City,0.0,1,17.49871096,-88.18837447
-Jamaica,Montego Bay,0.0,6,18.46668805,-77.91667586
-Romania,Brasov,0.0,6,45.64753542,25.6071602
-Romania,Slatina,0.0,6,44.43499814,24.37100156
-Canada,Yarmouth,0.0,6,43.83079447,-66.1125812
-France,Montpellier,0.0,4,43.61039878,3.869985716
-United Kingdom,Dover,0.0,4,51.13371218,1.300013386
-Brazil,Uberaba,0.0,6,-19.7799955,-47.9500037
-United States of America,El Centro,0.0,8,32.79237693,-115.5580475
-Mexico,Ensenada,0.0,4,31.86997845,-116.6199982
-Canada,Flin Flon,0.0,4,54.76659121,-101.8833008
-Mauritius,Port Louis,0.0,8,-20.16663857,57.49999385
-New Zealand,Wanganui,0.0,20,-39.9311686,175.0288407
-Taiwan,Pingtung,0.0,18,22.68170209,120.4816792
-France,Tarbes,0.0,6,43.23329002,0.083343464
-Germany,Gera,0.0,6,50.87036908,12.07000199
-Netherlands,Leeuwarden,0.0,6,53.25037884,5.783357298
-United States of America,Safford,0.0,6,32.83382143,-109.7068801
-Albania,Fier,0.0,6,40.73000402,19.5730026
-United States of America,Dillingham,0.0,6,59.05656031,-158.4803121
-Chile,Antofagasta,0.0,6,-23.64999184,-70.40000289
-New Zealand,Queenstown,0.0,6,-45.02997882,168.6625109
-Italy,Pisa,0.0,6,43.72046958,10.40002641
-Denmark,Frederikshavn,0.0,6,57.43368939,10.53329993
-Canada,Joliette,0.0,6,46.03332583,-73.43330611
-Canada,Smithers,0.0,6,54.76659121,-127.1665896
+United States of America,Los Angeles,381.0,216564,33.98997825,-118.1799805
+United States of America,New York,680.0,293249,40.74997906,-73.98001693
+United States of America,Chicago,357.0,206318,41.82999066,-87.75005497
+United States of America,Seattle,193.0,135033,47.57000205,-122.339985
+United States of America,Portland,198.0,128722,43.67216158,-70.2455274
+United States of America,Portland,198.0,128722,45.52002382,-122.6799901
+United States of America,San Francisco,170.0,106128,37.74000775,-122.4599777
+United States of America,Denver,218.0,112507,39.73918805,-104.984016
+United States of America,Houston,252.0,112477,29.81997438,-95.33997929
+United States of America,Philadelphia,220.0,98761,39.99997316,-75.16999597
+United States of America,Minneapolis,148.0,91458,44.97997927,-93.25178634
+United States of America,Austin,176.0,87565,30.26694969,-97.74277836
+Canada,Toronto,149.0,75251,43.69997988,-79.42002079
+United States of America,San Diego,121.0,70931,32.82002382,-117.1799899
+United States of America,Atlanta,183.0,82728,33.83001385,-84.39994938
+United States of America,San Jose,118.0,66527,37.29998293,-121.8499891
+United States of America,Phoenix,124.0,61075,33.53997988,-112.0699917
+United States of America,Arlington,102.0,48812,32.68476076,-97.02023849
+United States of America,Miami,126.0,52903,25.7876107,-80.22410608
+United States of America,Charlotte,97.0,50273,35.20499453,-80.83003809
+United States of America,Dallas,117.0,64759,32.82002382,-96.84001693
+United States of America,Las Vegas,88.0,44120,35.59701194,-105.2225027
+United States of America,Las Vegas,88.0,44120,36.20999778,-115.2200061
+United States of America,Oakland,72.0,46311,37.76892071,-122.2211034
+United States of America,Columbus,94.0,52920,32.47043276,-84.98001734
+United States of America,Columbus,94.0,52920,39.97997438,-82.9900096
+Singapore,Singapore,10.0,16290,1.293033466,103.8558207
+United States of America,Pittsburgh,64.0,45430,40.4299986,-79.99998539
+United States of America,Sacramento,93.0,42308,38.57502138,-121.4700381
+United States of America,Louisville,101.0,40272,38.22501691,-85.74870427
+United States of America,Salt Lake City,70.0,42778,40.7750163,-111.9300519
+United States of America,Boston,94.0,60110,42.32996014,-71.07001367
+United States of America,Madison,82.0,46572,43.07301556,-89.40111699
+United States of America,Tucson,85.0,39631,32.20499676,-110.8899862
+United States of America,Albuquerque,90.0,37088,35.10497479,-106.6413308
+United States of America,Richmond,86.0,39199,39.82889833,-84.89028121
+United States of America,Richmond,86.0,39199,37.55001935,-77.449986
+United States of America,San Antonio,76.0,35346,29.48733319,-98.50730534
+United States of America,Baltimore,87.0,47065,39.29999005,-76.61998499
+United States of America,Orlando,94.0,35632,28.50997683,-81.38003036
+United States of America,Rochester,78.0,36988,44.02205324,-92.46968937
+United States of America,Rochester,78.0,36988,43.17042564,-77.61994979
+Canada,Vancouver,46.0,29655,49.27341658,-123.1216442
+United States of America,Tampa,68.0,33453,27.94698793,-82.45862085
+United States of America,Indianapolis,64.0,33647,39.74998842,-86.17004806
+United States of America,Cleveland,70.0,35895,41.4699868,-81.69499821
+United States of America,Cincinnati,53.0,34194,39.16188479,-84.45692265
+United States of America,Springfield,62.0,32853,44.05194806,-122.9780339
+United States of America,Springfield,62.0,32853,42.12002464,-72.57999903
+United States of America,Springfield,62.0,32853,39.92000388,-83.799986
+United States of America,Springfield,62.0,32853,39.82000999,-89.65001652
+United States of America,Springfield,62.0,32853,37.18001609,-93.31999923
+Canada,Calgary,75.0,28769,51.08299176,-114.0799982
+United States of America,Raleigh,47.0,33177,35.81878135,-78.64469344
+United States of America,Columbia,60.0,29080,35.61499534,-87.03526656
+United States of America,Columbia,60.0,29080,38.95207847,-92.33390955
+United States of America,Columbia,60.0,29080,34.0399752,-80.89998214
+United States of America,Alexandria,52.0,30245,38.82043276,-77.09998153
+United States of America,Alexandria,52.0,30245,31.31109784,-92.44501388
+United States of America,Milwaukee,65.0,33978,43.05265505,-87.91996708
+United States of America,Kansas City,61.0,32380,39.11358052,-94.63014638
+United States of America,Kansas City,61.0,32380,39.10708851,-94.60409422
+United States of America,Jacksonville,55.0,22801,34.75432436,-77.43055567
+United States of America,Jacksonville,55.0,22801,30.33002077,-81.66998682
+United States of America,Honolulu,51.0,23843,21.30687644,-157.8579979
+United States of America,Nashville,51.0,29121,36.16997438,-86.77998499
+United States of America,Lexington,58.0,21735,38.05001467,-84.50002079
+United States of America,Fort Lauderdale,57.0,25812,26.13606488,-80.14178552
+United States of America,Omaha,47.0,27878,41.24000083,-96.00999007
+United States of America,Buffalo,50.0,21190,42.87997825,-78.88000208
+Canada,Ottawa,63.0,22233,45.4166968,-75.7000153
+United States of America,Wilmington,38.0,20987,39.74626772,-75.54689803
+United States of America,Wilmington,38.0,20987,34.22551943,-77.94502039
+United States of America,Colorado Springs,34.0,19326,38.86296246,-104.7919863
+United States of America,Durham,35.0,23195,35.99995892,-78.91999964
+United States of America,Long Beach,42.0,19666,33.78696739,-118.1580439
+Ireland,Dublin,33.0,18228,53.33306114,-6.248905682
+United States of America,Aurora,41.0,19499,39.69585736,-104.808497
+United States of America,Aurora,41.0,19499,41.76539512,-88.29999557
+United States of America,Irvine,27.0,19352,33.68041058,-117.8299502
+Canada,Edmonton,29.0,21762,53.55002464,-113.4999819
+United States of America,Eugene,33.0,19574,44.05001019,-123.1000161
+United States of America,Newark,52.0,19165,40.70042137,-74.17000533
+United States of America,Dayton,29.0,19342,39.750376,-84.19998743
+United States of America,Ann Arbor,26.0,19117,42.30037539,-83.71999089
+United States of America,Glendale,42.0,18011,33.58194114,-112.1958238
+New Zealand,Auckland,62.0,17843,-36.850013,174.7649808
+United States of America,Birmingham,35.0,20066,33.53000633,-86.82499516
+United States of America,Pasadena,30.0,15435,29.66086265,-95.14774296
+United States of America,Pasadena,30.0,15435,34.16038129,-118.1388719
+United States of America,Berkeley,37.0,18779,37.87390139,-122.271152
+United Kingdom,London,54.0,23770,51.49999473,-0.116721844
+United States of America,Vancouver,20.0,15979,45.63030133,-122.6399925
+United States of America,Virginia Beach,46.0,18425,36.85321433,-75.97831873
+United States of America,Knoxville,28.0,15915,35.97001243,-83.92003036
+Canada,Winnipeg,33.0,15212,49.88298749,-97.16599186
+United States of America,Spokane,30.0,15410,47.66999595,-117.4199494
+United States of America,New Orleans,33.0,19734,29.99500246,-90.03996688
+United States of America,Concord,30.0,15779,43.20807192,-71.53804712
+United States of America,Scottsdale,28.0,18158,33.69234784,-111.8680402
+United States of America,Tacoma,27.0,15051,47.21131594,-122.5150131
+United States of America,Grand Rapids,28.0,16493,42.96371991,-85.66994938
+United States of America,Riverside,32.0,15073,33.94194501,-117.3980386
+United States of America,Santa Barbara,30.0,15155,34.43498985,-119.7199899
+United States of America,Gainesville,35.0,16233,29.65138002,-82.32503727
+United States of America,Oklahoma City,37.0,17388,35.47004295,-97.51868351
+United States of America,Salem,26.0,13396,42.5224989,-70.88309175
+United States of America,Salem,26.0,13396,44.92807029,-123.0238967
+United States of America,Marietta,39.0,13770,33.95561342,-84.54324813
+United States of America,Fayetteville,29.0,14057,36.06297833,-94.15720911
+United States of America,Fayetteville,29.0,14057,35.06293601,-78.88359359
+United States of America,Decatur,37.0,14046,39.8407064,-88.95473596
+United States of America,Anchorage,28.0,15841,61.21996991,-149.9002149
+United States of America,Boise,29.0,17014,43.60859011,-116.2274899
+United States of America,Boulder,28.0,16176,40.03844627,-105.246093
+United States of America,Memphis,44.0,16074,35.1199868,-89.99999516
+United States of America,Lancaster,23.0,12395,39.71921511,-82.6053044
+United States of America,Lancaster,23.0,12395,40.03777447,-76.30576644
+United States of America,Lancaster,23.0,12395,34.69804873,-118.135823
+United States of America,Lincoln,24.0,16286,40.81997479,-96.68000086
+United States of America,Mesa,30.0,14789,33.42391461,-111.7360844
+United States of America,Santa Cruz,20.0,13087,36.97194629,-122.0263904
+United States of America,Charlottesville,28.0,12998,38.02918907,-78.47692591
+United States of America,Detroit,37.0,15283,42.32996014,-83.08005579
+United States of America,Albany,37.0,16779,44.62049217,-123.086942
+United States of America,Albany,37.0,16779,31.57873008,-84.15582992
+United States of America,Albany,37.0,16779,42.67001691,-73.81994918
+United States of America,Greensboro,32.0,12500,36.07000633,-79.80002344
+United States of America,Farmington,29.0,11651,36.75415061,-108.1860944
+United States of America,Bloomington,20.0,13366,40.48459475,-88.99359664
+United States of America,Bloomington,20.0,13366,39.16565716,-86.52640873
+United States of America,Jackson,29.0,12534,35.61486615,-88.81389185
+United States of America,Jackson,29.0,12534,32.29881533,-90.18499679
+United States of America,Reno,23.0,13303,39.52997601,-119.8200096
+United States of America,Greenville,27.0,12251,33.41037539,-91.06168746
+United States of America,Greenville,27.0,12251,34.85292299,-82.3941545
+United States of America,Greenville,27.0,12251,35.61287661,-77.3666836
+United States of America,Medford,21.0,11043,42.32662701,-122.8744227
+United States of America,Canton,22.0,11795,40.79886497,-81.37863509
+United States of America,Charleston,17.0,13128,32.79237693,-79.99210474
+United States of America,Charleston,17.0,13128,38.34973798,-81.63272811
+United States of America,Auburn,23.0,10731,32.60970074,-85.48083948
+United States of America,Olympia,27.0,11641,47.03804486,-122.899434
+Canada,Victoria,30.0,10360,48.43328269,-123.3500009
+United States of America,Bellingham,22.0,10801,48.76013613,-122.4869269
+United States of America,Burlington,30.0,12135,40.80793418,-91.11276961
+United States of America,Burlington,30.0,12135,44.47579816,-73.21246688
+United States of America,Santa Rosa,24.0,11642,38.45040367,-122.6999889
+United States of America,Fresno,18.0,9985,36.7477169,-119.7729841
+United States of America,Lafayette,20.0,11629,40.41720868,-86.87824772
+United States of America,Lafayette,20.0,11629,30.19997703,-92.01994938
+United States of America,Sarasota,26.0,11496,27.33612083,-82.53078699
+United States of America,Tallahassee,32.0,14232,30.44998761,-84.28003422
+United States of America,Athens,27.0,10876,33.96129783,-83.3780221
+United States of America,Des Moines,22.0,13095,41.57998008,-93.61998092
+United States of America,San Mateo,15.0,9944,37.55691815,-122.3130616
+United States of America,Naples,31.0,9545,26.14205935,-81.79499211
+United States of America,Syracuse,32.0,10685,43.04999371,-76.15001367
+United States of America,Watertown,17.0,10535,43.97515688,-75.91106185
+Canada,London,13.0,7963,42.9699986,-81.24998661
+United States of America,Akron,25.0,10795,41.07039878,-81.51999597
+Malaysia,Kuala Lumpur,1.0,2452,3.166665872,101.6999833
+United States of America,Asheville,15.0,9348,35.60119773,-82.55414474
+United States of America,Manchester,18.0,9079,42.99599184,-71.45528731
+Japan,Tokyo,1.0,1873,35.68501691,139.7514074
+United States of America,Belleville,19.0,9395,38.52515362,-90.0002277
+United Kingdom,Glasgow,23.0,9894,55.87440472,-4.250707236
+United States of America,Tulsa,30.0,12041,36.12000327,-95.93002079
+Canada,Kitchener,19.0,7410,43.44999514,-80.50000655
+United States of America,Peoria,23.0,9143,40.69998212,-89.67004114
+Spain,Granada,1.0,9002,37.16497825,-3.585011435
+United States of America,Trenton,20.0,11589,40.2169625,-74.74335535
+United States of America,Astoria,15.0,7412,46.18838096,-123.8299974
+United States of America,West Palm Beach,37.0,10251,26.74501996,-80.12362126
+United States of America,Duluth,24.0,11234,46.78333173,-92.10637822
+United States of America,Santa Fe,26.0,11372,35.68692893,-105.9372394
+Canada,Halifax,18.0,7284,44.65002525,-63.60000452
+United States of America,Wichita,14.0,10693,37.71998313,-97.32998702
+United States of America,El Paso,30.0,9118,31.77998395,-106.5099952
+United States of America,Baton Rouge,12.0,10029,30.45794578,-91.14015812
+United States of America,Lansing,15.0,10542,42.73352724,-84.54673629
+United States of America,Fort Wayne,13.0,6921,41.08039817,-85.12998234
+United States of America,Carlsbad,13.0,8458,32.420565,-104.2282998
+United States of America,Laurel,14.0,7219,31.69737917,-89.1392725
+United States of America,Dover,14.0,7939,39.15808657,-75.524703
+United States of America,Everett,10.0,6553,47.9604175,-122.1999677
+United States of America,Roanoke,18.0,7311,37.27119916,-79.94161686
+Indonesia,Jakarta,2.0,2638,-6.174417705,106.8294376
+United States of America,Monroe,18.0,7397,32.50960349,-92.11919397
+United States of America,Fort Collins,11.0,9729,40.56068829,-105.0588693
+United States of America,Providence,11.0,9199,41.82110231,-71.4149797
+United States of America,Worcester,17.0,8416,42.27042889,-71.80002079
+United States of America,Evanston,20.0,10612,42.04834943,-87.69995467
+United States of America,Dublin,18.0,7346,32.53745709,-82.91828272
+United Kingdom,Manchester,16.0,8519,53.50041526,-2.247987103
+United States of America,Rockford,21.0,6495,42.26970542,-89.06969019
+United States of America,Stockton,19.0,7003,37.95813397,-121.289739
+United States of America,Roswell,26.0,6756,33.39453656,-104.5224679
+United States of America,Oceanside,15.0,6691,33.2204645,-117.3349675
+United States of America,Stamford,30.0,7469,41.05334556,-73.53919112
+United States of America,Ithaca,10.0,7936,42.44057355,-76.4969434
+United Kingdom,Birmingham,17.0,10120,52.47497398,-1.919996787
+United States of America,Marion,15.0,6651,40.55833701,-85.65917485
+United States of America,York,14.0,5843,39.96292116,-76.72804041
+United States of America,Norfolk,16.0,7328,42.02871238,-97.43359827
+United States of America,Norfolk,16.0,7328,36.84995872,-76.28000574
+United States of America,Florence,19.0,6109,34.79969627,-87.67724288
+United States of America,Florence,19.0,6109,34.19567629,-79.76279057
+United States of America,Bakersfield,15.0,7328,35.36997154,-119.0199809
+United States of America,Bend,14.0,6649,44.071921,-121.3099962
+United States of America,Cape Coral,26.0,5820,26.60290977,-81.97968368
+South Korea,Seoul,1.0,1312,37.5663491,126.999731
+United States of America,Missoula,12.0,7847,46.87224103,-113.9930526
+United States of America,Fredericksburg,16.0,5103,38.30351341,-77.46078638
+Thailand,Bangkok,5.0,2012,13.74999921,100.5166447
+Australia,Melbourne,4.0,1690,-37.82003131,144.9750162
+Canada,Saskatoon,15.0,5854,52.17003135,-106.6699854
+Canada,Hamilton,14.0,5676,43.24998151,-79.82999577
+United States of America,Schenectady,13.0,5614,42.81458173,-73.93996769
+United States of America,Little Rock,20.0,9666,34.73608258,-92.33109318
+United States of America,San Marcos,18.0,6911,29.88307131,-97.94111251
+United States of America,Kalamazoo,11.0,5846,42.29215883,-85.58718958
+United States of America,Brunswick,11.0,5008,31.1496865,-81.49165145
+Jamaica,Kingston,13.0,5306,17.97707662,-76.76743371
+United States of America,Huntsville,10.0,7521,30.72376935,-95.55058659
+United States of America,Huntsville,10.0,7521,34.71995953,-86.60999536
+United States of America,Bristol,10.0,5175,36.61152366,-82.17600244
+Australia,Sydney,3.0,1814,-33.92001097,151.1851798
+Chile,Santiago,5.0,6367,-33.45001382,-70.66704085
+United States of America,Toledo,14.0,6929,41.67002626,-83.57997359
+United States of America,New Haven,14.0,8317,41.33038291,-72.90000533
+United States of America,Danville,20.0,5170,36.58625388,-79.39531946
+United States of America,Harrisburg,16.0,6646,40.27359987,-76.88474919
+United States of America,Leesburg,10.0,4978,28.81050112,-81.88333297
+United States of America,Cedar Rapids,12.0,7236,41.96998212,-91.66002303
+United States of America,Lawrence,10.0,6720,38.95975242,-95.25522994
+United States of America,Winchester,7.0,5400,39.1787313,-78.16663477
+United States of America,Erie,7.0,5509,42.12992067,-80.08499313
+United States of America,Allentown,11.0,5788,40.59998822,-75.50002751
+United States of America,Clarksville,6.0,4185,36.5300816,-87.35943282
+United States of America,Chattanooga,11.0,7349,35.06998985,-85.25000086
+France,Paris,15.0,10694,48.86669293,2.333335326
+Australia,Brisbane,6.0,1871,-27.45503091,153.0350927
+United States of America,Newport,8.0,6186,41.49039899,-71.31335799
+United States of America,Chico,12.0,5727,39.72862022,-121.8363982
+United States of America,Sioux Falls,12.0,6254,43.54998903,-96.7299978
+United States of America,Augusta,14.0,5949,33.46081158,-81.98498051
+United States of America,Augusta,14.0,5949,44.31056276,-69.77998906
+Germany,Berlin,25.0,10894,52.52181866,13.40154862
+United States of America,Davenport,12.0,5266,41.55398684,-90.58753036
+United States of America,Sanford,9.0,4249,28.78995974,-81.27998478
+United States of America,Denton,12.0,5239,33.21576194,-97.12883651
+United States of America,Murfreesboro,15.0,6085,35.84596315,-86.39026717
+United States of America,Eureka,13.0,5822,40.80222394,-124.1474974
+United States of America,Covington,6.0,5177,39.0840084,-84.50859908
+United States of America,Savannah,16.0,6265,32.02110618,-81.10999516
+United States of America,Iowa City,10.0,8121,41.66108624,-91.52997929
+United States of America,Pensacola,11.0,5241,30.42112632,-87.21693506
+United States of America,Lynchburg,12.0,4256,37.4136194,-79.14246668
+United States of America,Corvallis,8.0,5599,44.57235557,-123.2799793
+United States of America,Annapolis,17.0,5996,38.9783301,-76.49249923
+Canada,Regina,14.0,5476,50.45003298,-104.6170099
+United States of America,Appleton,10.0,5311,44.26867902,-88.40050623
+United States of America,Mansfield,13.0,4853,40.75832481,-82.51554244
+United States of America,Hartford,11.0,6141,41.77002016,-72.67996708
+United States of America,Midland,6.0,4418,32.030718,-102.0974996
+United States of America,Melbourne,8.0,4882,28.08331036,-80.60832035
+United States of America,Whittier,8.0,4890,60.78415672,-148.6776797
+United States of America,Traverse City,9.0,4738,44.76844179,-85.62217452
+United States of America,State College,13.0,5295,40.79372316,-77.8602452
+United States of America,Hampton,9.0,4933,37.03002525,-76.34994979
+United States of America,Bozeman,9.0,5105,45.68009157,-111.0378325
+Taiwan,Taipei,1.0,1212,25.03583333,121.5683333
+Netherlands,Amsterdam,29.0,9962,52.34996869,4.916640176
+United Kingdom,Liverpool,15.0,5784,53.41600181,-2.917997886
+United States of America,Montgomery,9.0,5949,32.36160219,-86.27918868
+Barbados,Bridgetown,6.0,3278,13.10200258,-59.61652674
+United States of America,Modesto,7.0,4737,37.65541343,-120.9899899
+United Kingdom,Edinburgh,11.0,6454,55.94832786,-3.219090618
+United States of America,Utica,6.0,3991,43.10117922,-75.23306706
+United States of America,Topeka,18.0,5847,39.05000531,-95.66998499
+Norway,Oslo,23.0,8984,59.91669029,10.74997921
+New Zealand,Wellington,8.0,4874,-41.29997394,174.7832743
+United States of America,Spring Hill,2.0,3380,28.47894513,-82.54771102
+Spain,Madrid,19.0,5950,40.40002626,-3.683351686
+United States of America,Quincy,11.0,4675,39.9359719,-91.40972823
+United Kingdom,Belfast,13.0,4717,54.60001223,-5.960034425
+United States of America,Jonesboro,10.0,3592,35.84257835,-90.70416406
+Australia,Perth,4.0,546,-31.95501463,115.8399987
+United States of America,Johnson City,7.0,3485,36.31332481,-82.35361434
+United States of America,Youngstown,5.0,3652,41.09969932,-80.64973902
+United States of America,Meridian,14.0,4546,32.36418601,-88.70361434
+United States of America,Norman,7.0,4528,35.22791302,-97.34414636
+United States of America,San Luis Obispo,10.0,4144,35.28318097,-120.6585889
+United Kingdom,Bristol,23.0,7610,51.44999778,-2.583315472
+United States of America,Miami Beach,9.0,4603,25.80991953,-80.13178111
+United States of America,Mobile,8.0,4818,30.68002525,-88.04998499
+United States of America,Fargo,8.0,5186,46.8772278,-96.7894257
+United States of America,Myrtle Beach,6.0,3873,33.68891136,-78.8869784
+United States of America,Billings,7.0,4128,45.78830202,-108.5400004
+United States of America,Monterey,10.0,4227,36.6002582,-121.8935781
+New Zealand,Christchurch,15.0,4533,-43.53503131,172.6300207
+United States of America,Lubbock,7.0,4662,33.58000327,-101.8799677
+United States of America,Palm Springs,7.0,4314,33.77735557,-116.5330526
+United States of America,Huntington,11.0,4042,38.41957867,-82.44528833
+Sweden,Stockholm,22.0,8068,59.35075995,18.09733473
+United States of America,Independence,6.0,4021,39.09111391,-94.41528121
+United States of America,Salisbury,13.0,3546,35.67078005,-80.4744784
+United States of America,Green Bay,4.0,5179,44.5299809,-88.00001388
+Canada,Windsor,10.0,3673,44.98059938,-64.12911951
+Canada,Windsor,10.0,3673,42.33329327,-83.03334029
+Canada,Kingston,9.0,3113,44.23371991,-76.48330082
+Canada,Barrie,5.0,3158,44.38376243,-79.7000037
+Peru,Lima,6.0,3547,-12.04801268,-77.05006209
+Greece,Athens,16.0,7319,37.98332623,23.73332108
+United States of America,Redding,7.0,3892,40.58704327,-122.3905762
+United States of America,Kissimmee,9.0,3840,28.29205731,-81.4077806
+United States of America,Ocala,14.0,4164,29.1873515,-82.14026819
+United States of America,Evansville,10.0,5102,37.97469627,-87.5558291
+United States of America,Corpus Christi,11.0,4348,27.74281435,-97.40189478
+United Kingdom,Leeds,15.0,5922,53.83000755,-1.580017539
+United States of America,Helena,12.0,5139,46.59274904,-112.035291
+Portugal,Porto,2.0,2904,41.15000633,-8.620001263
+Canada,Kelowna,8.0,3525,49.89998903,-119.4833118
+Philippines,Quezon City,6.0,1293,14.6504352,121.0299662
+United States of America,Vallejo,3.0,4016,38.11194887,-122.258052
+United States of America,Eau Claire,10.0,3502,44.81135907,-91.49835331
+United States of America,Anderson,5.0,3044,34.50374534,-82.6502629
+United States of America,Salinas,9.0,3105,36.68221702,-121.6416555
+United States of America,Hagerstown,3.0,2266,39.64164878,-77.72027958
+United States of America,Metairie,6.0,4064,29.98386619,-90.15277653
+United States of America,Kalispell,9.0,3313,48.19776735,-114.3159786
+United States of America,Macon,8.0,3296,32.85038373,-83.63004806
+United States of America,Bremerton,7.0,3474,47.57359552,-122.6420175
+United States of America,Bowling Green,6.0,3619,41.37474713,-83.65139042
+United States of America,Bowling Green,6.0,3619,36.99069948,-86.44364893
+United States of America,Garden City,11.0,3776,37.97521303,-100.8640866
+Puerto Rico,San Juan,6.0,3657,18.44002301,-66.12997929
+United States of America,Ogden,9.0,3626,41.23237856,-111.9680341
+United States of America,Vero Beach,11.0,3558,27.64225201,-80.39112431
+United States of America,Juneau,8.0,3342,58.31412661,-134.419997
+United States of America,Lowell,11.0,3827,42.63368837,-71.31669112
+United States of America,Morgantown,7.0,3774,39.62981488,-79.95606043
+United States of America,Clovis,7.0,3301,34.40506919,-103.2047706
+United States of America,Lakeville,4.0,2816,44.65010276,-93.24251042
+Portugal,Lisbon,12.0,4005,38.72272288,-9.144866305
+United Kingdom,Nottingham,22.0,5430,52.97034426,-1.170016725
+United States of America,Poughkeepsie,8.0,3293,41.70023114,-73.92141585
+United States of America,Ontario,4.0,2646,44.02662661,-116.9618895
+United States of America,Racine,6.0,2902,42.72771364,-87.81183415
+United States of America,Elgin,9.0,3198,42.03946108,-88.28991866
+United States of America,Richland,6.0,3151,46.29181134,-119.2911013
+Canada,Moncton,6.0,2844,46.08334861,-64.76667749
+United States of America,Saginaw,8.0,2995,43.4194802,-83.95082951
+United States of America,Conway,9.0,3075,35.09128054,-92.4513184
+United States of America,South Bend,4.0,3395,41.68330711,-86.25001734
+United Kingdom,Sheffield,13.0,4468,53.36667666,-1.499996583
+United States of America,Ambler,4.0,2607,67.08648521,-157.8514091
+United States of America,Saratoga Springs,9.0,2588,43.08296328,-73.78501591
+United States of America,La Crosse,4.0,3334,43.80136904,-91.23942855
+United States of America,New Albany,7.0,2281,38.3108773,-85.82128382
+United States of America,Lewiston,10.0,2601,44.10070477,-70.21525965
+United States of America,Lewiston,10.0,2601,46.41660992,-117.016589
+Vietnam,Ho Chi Minh City,0.0,824,10.78002545,106.6950272
+United States of America,Shawnee,5.0,3040,35.34278973,-96.93378382
+United States of America,Muskegon,7.0,2574,43.23458193,-86.24836369
+United States of America,Palm Coast,12.0,2788,29.53800193,-81.22329574
+Dominican Republic,Santo Domingo,4.0,2997,18.47007285,-69.90008508
+United States of America,Waukesha,10.0,4003,43.0116498,-88.23136926
+Turkey,Istanbul,17.0,7993,41.10499615,29.01000159
+Spain,Barcelona,11.0,5086,41.38329958,2.183370319
+United States of America,Janesville,5.0,2181,42.68262596,-89.02157943
+United States of America,Bridgeport,5.0,3143,41.17997866,-73.19996118
+United States of America,Great Falls,7.0,3050,47.50029055,-111.299987
+Canada,Fredericton,5.0,2557,45.94999758,-66.63330774
+United States of America,Urbana,11.0,4790,40.10999229,-88.20418746
+United States of America,Spartanburg,3.0,2810,34.94942873,-81.93227055
+United States of America,Amarillo,4.0,2940,35.22998008,-101.8299966
+United States of America,Freeport,3.0,2192,28.95948427,-95.35687748
+United States of America,Bangor,7.0,2651,44.80115297,-68.77834477
+United States of America,Powell,6.0,2075,44.75867495,-108.7584367
+United States of America,Aberdeen,2.0,2094,46.97489626,-123.8143911
+United States of America,Aberdeen,2.0,2094,45.46511761,-98.48640222
+United States of America,Visalia,9.0,2028,36.32502952,-119.3160094
+United States of America,Blacksburg,5.0,2940,37.22941876,-80.41419784
+United States of America,Shreveport,7.0,3368,32.50001752,-93.77002344
+United States of America,Grand Junction,3.0,3445,39.09385276,-108.5499998
+United States of America,Stillwater,3.0,2688,36.13535118,-97.06829757
+United States of America,Mankato,10.0,2715,44.16362083,-93.99915674
+United States of America,Harrisonburg,4.0,2590,38.44942181,-78.86917586
+United States of America,Santa Maria,6.0,2967,34.94012697,-120.4366386
+Austria,Vienna,20.0,5873,48.20001528,16.36663896
+Canada,Nanaimo,10.0,2594,49.14602021,-123.9342911
+United States of America,Johnstown,9.0,2533,40.32708498,-78.92222172
+United States of America,La Grange,5.0,2056,33.03647056,-85.03187464
+United States of America,Tuscaloosa,4.0,2434,33.22511538,-87.54417607
+United States of America,Yakima,3.0,2579,46.60223167,-120.5046965
+United States of America,Binghamton,5.0,3156,42.09901817,-75.91832239
+United States of America,Flagstaff,8.0,3003,35.19809572,-111.6505083
+United States of America,Durango,3.0,2631,37.27564333,-107.8799891
+United States of America,Bay City,6.0,2164,43.5944566,-83.88889531
+United States of America,Bay City,6.0,2164,28.98111086,-95.96435978
+United States of America,Killeen,1.0,2571,31.11728538,-97.72748214
+United States of America,Kennewick,4.0,2313,46.21137697,-119.1360979
+United States of America,Rock Hill,2.0,2501,34.94038535,-81.03000004
+United States of America,Jamestown,5.0,2087,46.90601158,-98.70297815
+United States of America,Jamestown,5.0,2087,42.09736452,-79.23553593
+United States of America,Pueblo,5.0,2220,38.2803882,-104.6300066
+United States of America,Cheyenne,7.0,2969,41.14000694,-104.8197107
+Belgium,Brussels,18.0,5650,50.83331708,4.333316608
+United States of America,Scranton,8.0,2550,41.40929283,-75.66267908
+United Kingdom,Leicester,14.0,4033,52.62997744,-1.133248943
+United States of America,Beaumont,6.0,2369,30.08626304,-94.10168278
+Australia,Adelaide,2.0,610,-34.93498777,138.6000048
+United States of America,Panama City,8.0,1913,30.15861005,-85.65527328
+United States of America,Wheeling,5.0,2931,40.06431032,-80.72107833
+United States of America,Provo,2.0,3188,40.24889854,-111.63777
+United States of America,Frankfort,5.0,3468,38.2008065,-84.87335718
+United States of America,Longview,8.0,2634,32.50053428,-94.74027429
+United States of America,Longview,8.0,2634,46.13871991,-122.9369511
+United States of America,Carbondale,4.0,3015,37.72683026,-89.22024947
+United States of America,Las Cruces,3.0,3047,32.31261293,-106.7778083
+United States of America,Montpelier,6.0,2334,44.25997154,-72.57581323
+United States of America,Montpelier,6.0,2334,42.32262209,-111.2969123
+United Kingdom,Cardiff,7.0,2896,51.49999473,-3.22500757
+Argentina,Buenos Aires,11.0,3818,-34.60250161,-58.39753137
+Canada,Sudbury,7.0,1929,46.49998985,-80.96664474
+United States of America,Waterbury,3.0,2472,41.55000775,-73.05002202
+United States of America,Council Bluffs,9.0,3108,41.26227338,-95.86080021
+Bermuda,Hamilton,9.0,2279,32.29419029,-64.78393742
+Philippines,Manila,0.0,760,14.60415895,120.9822172
+Italy,Rome,7.0,3457,41.89595563,12.48325842
+United States of America,Rapid City,3.0,2348,44.08055096,-103.2305571
+United States of America,Waterloo,1.0,2106,42.49315432,-92.34279789
+United States of America,New Braunfels,7.0,2015,29.6978113,-98.12632084
+United Kingdom,Oxford,11.0,3468,51.7704175,-1.249986004
+Egypt,Cairo,5.0,3346,30.04996035,31.24996822
+Canada,Peterborough,3.0,1664,44.29996909,-78.33326542
+United Kingdom,Cambridge,6.0,3828,52.20039125,0.116623086
+United States of America,Tyler,1.0,2442,32.35108604,-95.30078272
+United States of America,Homestead,3.0,1586,25.46830202,-80.47778569
+United States of America,Cumberland,5.0,2041,39.65317263,-78.76277409
+Ireland,Cork,7.0,2124,51.89860089,-8.49577112
+United States of America,Hilo,3.0,3171,19.69999778,-155.0900273
+United States of America,Pittsfield,10.0,2317,42.44819582,-73.25982833
+United States of America,Coral Gables,8.0,3449,25.71541872,-80.29107874
+Germany,Munich,10.0,4497,48.12994204,11.57499345
+United States of America,Wasilla,3.0,2425,61.58173077,-149.439442
+United States of America,Ames,1.0,3145,42.05385297,-93.61972254
+Romania,Bucharest,6.0,5556,44.4333718,26.09994665
+Finland,Helsinki,12.0,6198,60.17556337,24.93412634
+United States of America,Manhattan,4.0,2635,39.19402753,-96.59243514
+United Kingdom,Aberdeen,6.0,2558,57.17039797,-2.079987021
+United States of America,New London,2.0,1944,41.3555235,-72.10002832
+China,Beijing,3.0,454,39.92889223,116.3882857
+Canada,Thunder Bay,3.0,1882,48.44615013,-89.27497481
+United Kingdom,Southampton,11.0,4159,50.90003135,-1.399976849
+United States of America,Conroe,8.0,1909,30.31206321,-95.45586369
+United States of America,Altoona,6.0,1873,40.51859784,-78.39496708
+United States of America,Jefferson City,5.0,2075,38.57662335,-92.17332503
+United States of America,Caldwell,1.0,2108,43.66096417,-116.6705378
+United States of America,Bismarck,8.0,2390,46.80831728,-100.7833163
+Serbia,Belgrade,9.0,2868,44.81864545,20.46799068
+United States of America,Oshkosh,4.0,2676,44.02510215,-88.54251306
+United States of America,Muncie,4.0,2226,40.19375979,-85.38637496
+United States of America,Logan,2.0,2473,41.73593955,-111.8335979
+United States of America,Aiken,1.0,1640,33.5494625,-81.72060388
+United Kingdom,Brighton,10.0,3626,50.83034568,-0.169974407
+United States of America,San Bernardino,9.0,2004,34.12038373,-117.3000342
+United States of America,Prescott,5.0,2585,34.59001914,-112.4477723
+United States of America,Battle Creek,3.0,1747,42.32109764,-85.17974675
+Canada,Red Deer,4.0,2099,52.26664044,-113.8000411
+Canada,Lethbridge,8.0,2086,49.70049217,-112.8332784
+Canada,Abbotsford,4.0,2140,49.05037681,-122.2999874
+United States of America,Grants Pass,7.0,2666,42.43954002,-123.3271857
+United States of America,Odessa,1.0,2205,31.84556134,-102.3672248
+United States of America,New Bedford,2.0,1420,41.6561253,-70.94469833
+United States of America,Kingsport,3.0,1601,36.54832338,-82.56194788
+United States of America,Sioux City,2.0,2233,42.50038902,-96.39999211
+United States of America,Riverton,3.0,1633,43.02816042,-108.3950481
+United States of America,Carson City,6.0,2346,39.16384849,-119.7663953
+Canada,Kamloops,5.0,1798,50.66666058,-120.3332858
+United States of America,Waco,4.0,2514,31.54917116,-97.14638066
+United States of America,Wenatchee,3.0,1909,47.42362856,-120.3090237
+Croatia,Zagreb,2.0,3372,45.80000673,15.99999467
+Nigeria,Lagos,10.0,3049,6.443261653,3.391531071
+United States of America,Sheboygan,5.0,2169,43.75082949,-87.71442407
+Canada,Saint John,3.0,1979,45.26704185,-66.07667505
+United Arab Emirates,Dubai,30.0,10782,25.22999615,55.27997432
+United States of America,Greeley,5.0,2642,40.41919822,-104.739974
+Russia,Moscow,3.0,3779,55.75216412,37.61552283
+United States of America,Yuba City,12.0,1941,39.14103334,-121.6157656
+United States of America,Fairbanks,5.0,2403,64.83698427,-147.7106586
+New Zealand,Hamilton,8.0,1928,-37.77000853,175.3000386
+United States of America,Key West,5.0,2124,24.55523114,-81.78274479
+United States of America,Lima,5.0,1472,40.74287355,-84.10526453
+United States of America,Merced,3.0,1793,37.30261843,-120.481933
+United States of America,Rocky Mount,3.0,1584,35.93799888,-77.79076624
+Hungary,Budapest,3.0,4148,47.50000633,19.08332068
+United States of America,Hickory,5.0,1730,35.7334894,-81.34140222
+United States of America,Wausau,1.0,2058,44.95915367,-89.6299919
+Philippines,Cebu,0.0,566,10.31997601,123.9000752
+United States of America,Marquette,2.0,1931,46.54673118,-87.40658757
+United States of America,Dubuque,5.0,2029,42.50093162,-90.66445073
+United States of America,Paso Robles,3.0,1752,35.6265967,-120.6899823
+United States of America,Ardmore,4.0,1564,34.1810777,-97.12940495
+United States of America,Cordova,10.0,2175,60.5427761,-145.7574962
+United Kingdom,Coventry,10.0,2676,52.42040367,-1.499996583
+Cayman Islands,George Town,0.0,1579,19.28043683,-81.32998173
+United Kingdom,Reading,5.0,2792,51.46997072,-0.980028322
+United States of America,Clarksburg,2.0,1488,39.28327272,-80.33691573
+Germany,Hamburg,12.0,3728,53.55002464,9.999999144
+Vietnam,Hanoi,1.0,730,21.03332725,105.8500142
+China,Shanghai,3.0,294,31.21645245,121.4365047
+United States of America,Grand Island,1.0,1462,40.92226829,-98.35798629
+United States of America,Titusville,8.0,1620,28.61234784,-80.80779138
+United States of America,Terre Haute,2.0,1833,39.46664654,-87.41387394
+Thailand,Chiang Mai,1.0,319,18.7999752,98.98004594
+United States of America,Hattiesburg,8.0,1753,31.32727256,-89.2902452
+United States of America,Port Charlotte,3.0,1465,27.00004315,-82.10569666
+United States of America,Montrose,0.0,1233,38.47727541,-107.8655197
+United States of America,Laramie,6.0,1825,41.31136599,-105.5905681
+United States of America,Oak Ridge,4.0,1530,36.01065594,-84.26972477
+Poland,Warsaw,3.0,3260,52.25000063,20.99999955
+United Kingdom,Bradford,7.0,2488,53.80003522,-1.749981325
+Canada,Chilliwack,4.0,1236,49.16664878,-121.949983
+Ecuador,Quito,0.0,1456,-0.214988181,-78.50005111
+United States of America,Dalton,3.0,1593,34.76972394,-84.97030217
+United States of America,Valdosta,4.0,1175,30.8328583,-83.27859664
+United States of America,Waterville,5.0,1459,44.5518917,-69.64578536
+United States of America,Owensboro,4.0,1376,37.77457928,-87.11332381
+Canada,Prince George,2.0,1105,53.91666892,-122.7666515
+United Kingdom,Norwich,10.0,2872,52.63036501,1.300013386
+United States of America,Casper,0.0,1624,42.86661989,-106.3124878
+United States of America,Kokomo,2.0,1359,40.48676516,-86.13364201
+United States of America,Flint,4.0,2154,43.0128642,-83.68753809
+United States of America,Fort Smith,4.0,1716,35.38622377,-94.39835718
+United States of America,Walla Walla,3.0,1569,46.06515851,-118.3418828
+United States of America,Ukiah,0.0,1812,39.15423667,-123.2108621
+United States of America,Winona,4.0,1370,44.0504236,-91.63919743
+United States of America,Lumberton,3.0,1288,34.62720034,-79.01190617
+United States of America,Sherman,2.0,1768,33.63599469,-96.60858403
+United States of America,Roseburg,5.0,1600,43.21843304,-123.3560987
+United States of America,Texarkana,6.0,1475,33.44210472,-94.03747481
+United States of America,Brownsville,5.0,1546,25.91997988,-97.50000248
+United States of America,Sumter,3.0,1177,33.92065432,-80.34172164
+New Zealand,Dunedin,4.0,1346,-45.87995278,170.4799711
+United States of America,Winter Haven,0.0,1054,28.02191876,-81.73300623
+United States of America,Abilene,0.0,1412,32.4486253,-99.73278609
+Czech Republic,Prague,6.0,3845,50.08333701,14.46597978
+United States of America,Waukegan,2.0,1710,42.36404075,-87.8447262
+United States of America,Edinburg,3.0,1616,26.30318646,-98.1599622
+Uruguay,Montevideo,1.0,1294,-34.85804157,-56.17105229
+United States of America,Joplin,5.0,1645,37.08459556,-94.51307886
+United States of America,Brookings,3.0,1522,44.30676455,-96.78803044
+United States of America,Victoria,2.0,1647,28.80499758,-97.00334029
+Italy,Milan,1.0,2468,45.4699752,9.20500891
+United States of America,Temple,4.0,2148,31.10209251,-97.36300826
+Canada,Oshawa,3.0,1428,43.87999473,-78.84997807
+United States of America,Wichita Falls,2.0,1725,33.91362632,-98.49306848
+United States of America,Monticello,3.0,1274,37.87178265,-109.3421995
+Cambodia,Phnom Penh,2.0,215,11.55003013,104.9166345
+Lebanon,Beirut,6.0,3071,33.87197512,35.50970821
+Canada,Charlottetown,3.0,1000,46.24928164,-63.13132512
+United States of America,Lake Charles,2.0,1393,30.22638369,-93.21718897
+United States of America,Grand Forks,2.0,1954,47.92527753,-97.0324858
+United States of America,Bethel,5.0,1119,60.79330345,-161.7557961
+United States of America,Pocatello,8.0,1821,42.87134829,-112.4447234
+United States of America,Fort Pierce,5.0,1344,27.44678591,-80.3258053
+United States of America,San Angelo,3.0,1405,31.4640084,-100.4366966
+United States of America,Gulfport,6.0,1197,30.3675637,-89.09276371
+Canada,Sarnia,2.0,1070,42.96663963,-82.3999681
+United States of America,Victorville,1.0,1246,34.5365082,-117.2903191
+United States of America,Daytona Beach,5.0,1552,29.21055422,-81.0230754
+United Kingdom,Plymouth,6.0,1912,50.38538576,-4.159989259
+United States of America,Idaho Falls,2.0,1731,43.46668662,-112.0333014
+United States of America,Yuma,6.0,1736,32.68527753,-114.6236084
+United States of America,Lawton,6.0,1069,34.59903668,-98.40997278
+South Africa,Johannesburg,21.0,6570,-26.17004474,28.03000972
+United States of America,Goldsboro,8.0,801,35.38513857,-77.99305363
+United States of America,Joliet,4.0,1679,41.52998313,-88.10667403
+United States of America,Slidell,1.0,1158,30.27495953,-89.78109379
+United States of America,Eagle,2.0,1472,64.78799501,-141.1999966
+United States of America,Coos Bay,1.0,1154,43.36661521,-124.2165888
+United States of America,West Bend,1.0,1344,43.42570721,-88.18333602
+United States of America,Elkhart,0.0,1305,41.68294537,-85.96879419
+United States of America,Lake Havasu City,8.0,1074,34.49829348,-114.3082789
+United States of America,Galveston,7.0,2197,29.301143,-94.7974801
+United States of America,Hutchinson,1.0,1390,38.06549176,-97.92349085
+New Zealand,Tauranga,4.0,1643,-37.69642129,176.1536299
+United States of America,Kearney,0.0,940,40.70070559,-99.08114628
+United States of America,Laredo,7.0,1206,27.50613629,-99.50721847
+United States of America,Parkersburg,0.0,1294,39.26665875,-81.56164718
+United States of America,Niagara Falls,0.0,1247,43.09482302,-79.0369434
+Japan,Yokohama,0.0,178,35.32002626,139.5800484
+United States of America,Klamath Falls,1.0,817,42.22500531,-121.7805359
+Ghana,Accra,3.0,1670,5.550034606,-0.21671574
+Saudi Arabia,Riyadh,2.0,3414,24.64083315,46.77274166
+United States of America,London,0.0,926,37.12888226,-84.08335372
+Netherlands,Rotterdam,10.0,2923,51.9199691,4.479974323
+Canada,Courtenay,4.0,1187,49.68333559,-124.9999777
+United States of America,Baytown,4.0,1109,29.75584393,-94.96772811
+United States of America,Rock Island,2.0,1705,41.49339622,-90.53461369
+United States of America,Galesburg,2.0,995,40.94777061,-90.37108362
+United States of America,Dothan,2.0,1238,31.22345461,-85.39058659
+United States of America,Beckley,3.0,949,37.78018618,-81.18301396
+United States of America,Zanesville,4.0,910,39.94028688,-82.01332503
+United States of America,Paterson,6.0,1314,40.91999453,-74.17000533
+United States of America,Williamsport,4.0,1032,41.24108604,-77.0013829
+United States of America,Minot,3.0,1398,48.23249392,-101.2958173
+United States of America,Moorhead,1.0,1162,46.87430808,-96.74219344
+Canada,Sydney,2.0,806,46.06611452,-60.17998071
+Indonesia,Surabaya,1.0,425,-7.249235821,112.7508333
+Canada,North Bay,2.0,882,46.30000205,-79.44999313
+India,Bangalore,14.0,3241,12.96999514,77.56000972
+Canada,Orangeville,1.0,876,43.91707257,-80.08333948
+Venezuela,Caracas,2.0,1247,10.50099855,-66.91703719
+Ecuador,Guayaquil,0.0,894,-2.220033754,-79.92004195
+United Kingdom,Swansea,5.0,1656,51.6299868,-3.950002077
+United States of America,Elmira,2.0,1356,42.09012982,-76.80803552
+Brazil,Belo Horizonte,0.0,815,-19.91502602,-43.91500452
+United States of America,Beaufort,3.0,948,32.43216636,-80.68950403
+Japan,Osaka,0.0,230,34.75003522,135.4601448
+Jordan,Amman,5.0,2627,31.95002525,35.93329993
+Norway,Bergen,4.0,1766,60.39100242,5.324522256
+United States of America,Rhinelander,0.0,851,45.63991315,-89.41207239
+India,Mumbai,10.0,3550,19.01699038,72.8569893
+Netherlands,Utrecht,0.0,2061,52.10034568,5.120038614
+United States of America,Bryan,3.0,800,30.67418581,-96.36968388
+United States of America,Pontiac,3.0,936,42.65185264,-83.29022384
+United States of America,Kingman,7.0,919,35.18987917,-114.0522221
+United States of America,Sidney,3.0,883,41.13980023,-102.9782727
+United States of America,Madisonville,3.0,786,37.33274579,-87.5022148
+Canada,Belleville,2.0,696,44.16666974,-77.38334924
+United States of America,Bartlesville,4.0,1064,36.74720013,-95.98058618
+United States of America,Superior,0.0,938,46.72124249,-92.10389775
+United States of America,Arcata,5.0,1249,40.88519045,-124.0882245
+United States of America,Brainerd,1.0,1217,46.35800885,-94.20084986
+United States of America,Salina,2.0,1116,38.82467023,-97.6071794
+Canada,Campbell River,2.0,926,50.01708783,-125.2499882
+United States of America,Lufkin,2.0,710,31.33843467,-94.72887964
+Saudi Arabia,Jeddah,3.0,1966,21.51688946,39.21919755
+United States of America,Bemidji,1.0,615,47.47357383,-94.88018823
+United Kingdom,Ipswich,3.0,1824,52.07034751,1.169995482
+United States of America,Southaven,2.0,767,34.96891075,-90.00345748
+United States of America,Biloxi,2.0,938,30.39580487,-88.88530868
+United Kingdom,York,3.0,1692,53.97038658,-1.080022218
+United States of America,Alpine,4.0,860,30.36071657,-103.6650009
+Canada,Penticton,0.0,816,49.50037518,-119.5832799
+Indonesia,Bandung,1.0,361,-6.950029278,107.5700126
+United States of America,Harlingen,0.0,902,26.19755983,-97.69019759
+Saint Lucia,Castries,0.0,896,14.00197349,-61.00000818
+United States of America,Centralia,2.0,733,46.71641075,-122.9529708
+New Zealand,Palmerston North,2.0,839,-40.35269326,175.6072033
+United States of America,Petoskey,0.0,672,45.37375368,-84.95518681
+Nicaragua,Managua,1.0,885,12.15301658,-86.26849166
+United States of America,Beaver Falls,0.0,545,40.75194277,-80.31942326
+United Kingdom,Bournemouth,6.0,1794,50.72999005,-1.900049684
+United States of America,Glasgow,0.0,653,48.18396975,-106.6352588
+Aruba,Oranjestad,1.0,895,12.53038373,-70.02899195
+United States of America,Williston,2.0,1163,48.15678794,-103.6280005
+United States of America,La Grande,0.0,767,45.32468691,-118.0866012
+United States of America,Lake City,3.0,835,30.18971926,-82.63974675
+United States of America,Spencer,3.0,884,43.14528505,-95.14717452
+United States of America,Hays,1.0,674,38.87936973,-99.322191
+Ireland,Galway,2.0,907,53.272393,-9.048812298
+Belgium,Antwerpen,7.0,1981,51.22037355,4.415017048
+United States of America,Bullhead City,5.0,815,35.14817629,-114.5674878
+United States of America,Alamogordo,2.0,659,32.89947634,-105.9597187
+Japan,Kyoto,0.0,172,35.02999229,135.7499979
+Malaysia,Shah Alam,0.0,214,3.066695996,101.5499977
+United Kingdom,Luton,2.0,1114,51.88035911,-0.420010825
+United States of America,Dillon,1.0,657,45.21567548,-112.6839852
+Canada,Whitehorse,0.0,856,60.71671897,-135.0499844
+Canada,Nelson,2.0,775,49.48365786,-117.2832911
+United States of America,Houma,4.0,904,29.59593121,-90.71948613
+United Arab Emirates,Abu Dhabi,5.0,3215,24.46668357,54.36659338
+United States of America,Mason City,3.0,494,43.15401837,-93.20083338
+United Kingdom,Sunderland,1.0,910,54.92001853,-1.380029746
+Qatar,Doha,12.0,3266,25.28655601,51.53296789
+Costa Rica,Heredia,0.0,601,9.991997986,-84.12000251
+United States of America,Paducah,5.0,1161,37.08371706,-88.60000309
+United States of America,Wilkes Barre,1.0,516,41.24904421,-75.87793726
+Bulgaria,Sofia,4.0,3138,42.68334943,23.31665401
+United States of America,Palmer,1.0,800,61.59971417,-149.1126919
+United States of America,Petersburg,0.0,887,37.22776512,-77.40223698
+Canada,Medicine Hat,0.0,692,50.03331423,-110.6833322
+New Zealand,Whangarei,1.0,1028,-35.71995278,174.3100215
+Macedonia,Skopje,2.0,1115,42.00000612,21.43346147
+United States of America,Hopkinsville,1.0,681,36.86548749,-87.4886239
+United States of America,Enid,3.0,645,36.39554201,-97.8780931
+United States of America,Gadsden,6.0,784,34.01455039,-86.00664718
+Guyana,Georgetown,3.0,859,6.801973693,-58.16702865
+United Kingdom,Dundee,2.0,964,56.47038902,-3.000008384
+Brazil,Curitiba,2.0,991,-25.420013,-49.3199976
+United States of America,El Centro,1.0,774,32.79237693,-115.5580475
+United States of America,Casa Grande,2.0,679,32.87937421,-111.7566258
+Brazil,Porto Alegre,1.0,920,-30.05001463,-51.20001205
+United States of America,Orangeburg,1.0,805,33.49680422,-80.86223251
+United States of America,Alton,2.0,626,38.89099693,-90.18422164
+United States of America,Tupelo,0.0,714,34.25792055,-88.70333012
+United States of America,Crestview,3.0,626,30.75420677,-86.57260746
+Canada,Cornwall,5.0,560,45.01705711,-74.73333012
+Kuwait,Kuwait,1.0,1973,29.36971763,47.97830115
+Germany,Stuttgart,3.0,1981,48.77997988,9.199996296
+United States of America,Wailuku,0.0,788,20.89147544,-156.5047213
+United Kingdom,Peterborough,6.0,1494,52.58041974,-0.249995363
+United Kingdom,Bath,1.0,1304,51.3837486,-2.350022218
+United States of America,Cedar City,3.0,732,37.67742759,-113.061094
+United States of America,Tillamook,1.0,886,45.45524742,-123.8425031
+United Kingdom,Portsmouth,2.0,1170,50.80034751,-1.080022218
+New Zealand,Nelson,6.0,1092,-41.29258421,173.2474507
+Sweden,Uppsala,2.0,1209,59.86005292,17.63999792
+Indonesia,Denpasar,0.0,71,-8.650028871,115.2199849
+United States of America,Nacogdoches,2.0,762,31.60374147,-94.65526656
+Fiji,Suva,2.0,586,-18.13301593,178.4417073
+United States of America,Vicksburg,3.0,478,32.3524813,-90.8777452
+Mexico,Monterrey,0.0,701,25.66999514,-100.3299848
+United States of America,Homer,0.0,746,59.64293439,-151.5482797
+United States of America,Enterprise,1.0,887,31.32781516,-85.84399561
+United Kingdom,Exeter,3.0,1064,50.70040529,-3.529950197
+United States of America,Pendleton,3.0,818,45.67259849,-118.7874886
+Canada,Brandon,1.0,681,49.83327476,-99.94998214
+Australia,Canberra,0.0,235,-35.28302855,149.1290262
+United States of America,Gillette,1.0,601,44.28317425,-105.5052503
+United States of America,Galena,1.0,417,64.73329551,-156.9269953
+United States of America,Cape Girardeau,1.0,839,37.30582237,-89.51808659
+Taiwan,Taichung,0.0,168,24.15207745,120.681667
+Bangladesh,Dhaka,3.0,2032,23.72305971,90.40857947
+Suriname,Paramaribo,2.0,524,5.83503013,-55.16703089
+Pakistan,Karachi,4.0,2195,24.86999229,66.99000891
+United States of America,Bishop,2.0,571,37.36395835,-118.394076
+United States of America,Alliance,0.0,550,42.10139528,-102.8701915
+United States of America,Bar Harbor,2.0,847,44.38789654,-68.20437464
+United States of America,Los Alamos,2.0,806,35.89110252,-106.2977084
+United States of America,Muskogee,1.0,564,35.74821718,-95.36943486
+China,Guangzhou,2.0,120,23.1449813,113.3250101
+El Salvador,San Salvador,2.0,796,13.71000165,-89.20304122
+Norway,Trondheim,0.0,1171,63.41665753,10.41666622
+South Africa,Cape Town,14.0,3926,-33.92001097,18.43498816
+United Kingdom,Middlesbrough,1.0,904,54.58037518,-1.230013063
+Estonia,Tallinn,2.0,1782,59.43387738,24.72804073
+Kenya,Nairobi,6.0,4002,-1.283346742,36.81665686
+Latvia,Riga,4.0,1574,56.95002382,24.09996537
+Turkey,Ankara,2.0,2154,39.92723859,32.86439164
+United States of America,Alpena,0.0,447,45.06160219,-83.43269576
+New Zealand,Napier,1.0,649,-39.4900069,176.9150305
+Canada,Sherbrooke,1.0,610,45.40000531,-71.89998885
+Sri Lanka,Colombo,2.0,730,6.931965758,79.85775061
+India,Chennai,4.0,1278,13.08998781,80.27999874
+Canada,Orillia,3.0,465,44.59997662,-79.41666183
+Belgium,Gent,4.0,1223,51.02999758,3.700021931
+Ireland,Limerick,3.0,623,52.664704,-8.623050172
+United States of America,Sitka,0.0,423,57.06039769,-135.3275494
+United States of America,Douglas,1.0,633,42.75647158,-105.3845341
+United States of America,Douglas,1.0,633,31.50777834,-82.85068994
+United States of America,Douglas,1.0,633,31.35864016,-109.5483627
+Slovakia,Bratislava,1.0,1408,48.15001833,17.11698075
+United States of America,Gary,2.0,662,41.58039349,-87.33000309
+Morocco,Casablanca,0.0,727,33.59997622,-7.616367433
+United States of America,Virginia,2.0,368,47.52367413,-92.53640365
+India,Delhi,3.0,2724,28.6699929,77.23000403
+United States of America,Butte,4.0,785,46.0038961,-112.5338394
+Ecuador,Cuenca,0.0,860,-2.89999225,-78.99999475
+New Zealand,New Plymouth,6.0,688,-39.0641931,174.0805265
+United States of America,Selma,0.0,348,32.40756838,-87.0211589
+United States of America,Twin Falls,0.0,832,42.5609538,-114.4605693
+United States of America,Palatka,1.0,663,29.64768516,-81.65130579
+Trinidad and Tobago,San Fernando,1.0,632,10.28046166,-61.45937678
+Italy,Florence,4.0,969,43.78000083,11.25000036
+United States of America,Benton Harbor,1.0,366,42.11663983,-86.45419092
+Slovenia,Ljubljana,0.0,2029,46.05528831,14.51496903
+United States of America,Crescent City,4.0,773,41.7564551,-124.2004916
+Brazil,Campinas,0.0,371,-22.90001178,-47.10002975
+Canada,Brockville,2.0,556,44.5892796,-75.69531275
+Honduras,Tegucigalpa,1.0,563,14.1020449,-87.21752934
+South Africa,Pretoria,9.0,2773,-25.70692055,28.22942908
+United States of America,Moab,2.0,788,38.57370363,-109.5491895
+Pakistan,Lahore,2.0,1901,31.55997154,74.35002478
+United Kingdom,Blackpool,3.0,586,53.83039512,-3.050005332
+Canada,Cranbrook,1.0,466,49.5166791,-115.7666653
+Mexico,Guadalajara,4.0,538,20.67001609,-103.3300342
+Ukraine,Kiev,2.0,1873,50.43336733,30.51662797
+Brazil,Salvador,1.0,437,-12.9699719,-38.47998743
+Hong Kong S.A.R.,Hong Kong,1.0,429,22.3049809,114.1850093
+United Kingdom,Chester,2.0,920,53.20002016,-2.919987428
+Mexico,Tijuana,0.0,545,32.50001752,-117.079996
+Brazil,Recife,0.0,416,-8.075645326,-34.91560551
+United States of America,Willmar,5.0,419,45.12188275,-95.04330489
+Italy,Turin,0.0,802,45.07038719,7.669960489
+Cyprus,Nicosia,3.0,1226,35.16667645,33.36663489
+United States of America,Emporia,1.0,533,38.40423077,-96.18137496
+United States of America,Kirksville,2.0,642,40.19368227,-92.58280908
+Netherlands,Groningen,4.0,1016,53.22040651,6.580001179
+Canada,Timmins,4.0,398,48.46658815,-81.33331486
+United States of America,Tulare,1.0,503,36.20702639,-119.3441213
+Mexico,Puerto Vallarta,1.0,452,20.67709576,-105.2449819
+Germany,Frankfurt,2.0,679,50.09997683,8.67501542
+United Kingdom,Carlisle,1.0,572,54.87999514,-2.929986818
+Bosnia and Herzegovina,Sarajevo,0.0,870,43.8500224,18.38300167
+United States of America,Dickinson,3.0,571,46.88399742,-102.7888011
+Switzerland,Lausanne,2.0,1220,46.53042727,6.650022744
+India,Hyderabad,2.0,1506,17.39998313,78.47995357
+France,Lyon,2.0,1121,45.77000856,4.830030475
+Lithuania,Vilnius,0.0,1963,54.68336631,25.31663529
+Canada,Corner Brook,0.0,436,48.94999534,-57.93334782
+Norway,Stavanger,4.0,1297,58.97000389,5.680004434
+Macau S.A.R,Macau,0.0,149,22.20299746,113.5450484
+United States of America,Wahiawa,1.0,859,21.50309186,-158.0236209
+United States of America,Cleburne,1.0,434,32.35152529,-97.39248967
+United States of America,Dodge City,0.0,374,37.76005821,-100.018195
+United States of America,El Dorado,1.0,667,33.21392743,-92.66251998
+Australia,Hobart,0.0,92,-42.85000853,147.2950297
+Spain,Valencia,3.0,1087,39.48501752,-0.400012046
+China,Shenzhen,0.0,69,22.55237051,114.1221231
+United States of America,Hobbs,1.0,413,32.71261436,-103.1406143
+Bolivia,La Paz,1.0,457,-16.49797361,-68.14998519
+Japan,Kawasaki,0.0,173,35.52998761,139.705002
+United States of America,Pierre,0.0,367,44.36833701,-100.350552
+Canada,Moose Jaw,0.0,400,50.39998435,-105.5500021
+United States of America,Hancock,0.0,518,47.12729006,-88.5808053
+Costa Rica,Alajuela,3.0,617,10.02002016,-84.23003727
+Puerto Rico,Ponce,0.0,287,18.00038576,-66.61664209
+United States of America,Kankakee,1.0,421,41.12036989,-87.86110763
+Malaysia,Kuching,0.0,111,1.529969909,110.3299991
+United States of America,Yankton,0.0,504,42.88201947,-97.39248967
+Taiwan,Kaohsiung,0.0,52,22.63330711,120.2666019
+Canada,Cochrane,3.0,533,49.06701662,-81.01656417
+United States of America,Vernal,0.0,419,40.45539756,-109.5280022
+Thailand,Phuket,0.0,148,7.876533426,98.3815295
+Canada,Powell River,0.0,470,49.88371096,-124.5499793
+United States of America,Texas City,1.0,345,29.41087791,-94.96276717
+Japan,Nagoya,0.0,85,35.15499758,136.9149914
+United States of America,Lihue,1.0,525,21.98151227,-159.3710063
+United States of America,Iron Mountain,0.0,585,45.82246014,-88.06409265
+New Zealand,Hastings,2.0,570,-39.63821491,176.8367924
+United States of America,Pilot Point,0.0,368,57.56455996,-157.5691266
+Brazil,Fortaleza,0.0,411,-3.750017884,-38.57998132
+United States of America,Gunnison,0.0,422,38.54476483,-106.92829
+Pakistan,Islamabad,4.0,2204,33.69999595,73.16663448
+United States of America,Elko,2.0,412,40.83250633,-115.7619886
+Dominica,Roseau,1.0,305,15.30101564,-61.38701298
+Nepal,Kathmandu,0.0,215,27.71669191,85.31664221
+United States of America,Seward,1.0,535,60.1261607,-149.4699827
+India,Pune,4.0,1195,18.53001752,73.85000362
+Canada,Prince Albert,0.0,422,53.20002016,-105.7499899
+Canada,Bathurst,1.0,256,47.59997438,-65.64998275
+United States of America,New Iberia,1.0,390,30.00358075,-91.81830794
+Germany,Essen,2.0,745,51.44999778,7.016615355
+Taiwan,Hsinchu,0.0,26,24.8167914,120.9767395
+Ireland,Waterford,1.0,311,52.2582947,-7.111927939
+Albania,Tirana,1.0,476,41.32754071,19.81888301
+Canada,Camrose,1.0,210,53.01669802,-112.8166386
+United States of America,Natchez,0.0,130,31.55480389,-91.38750737
+United States of America,Cody,1.0,469,44.52321128,-109.0571007
+United States of America,North Platte,2.0,361,41.13628623,-100.7705005
+United States of America,Richfield,0.0,233,38.77247703,-112.0832984
+United States of America,Tomah,0.0,416,43.98505292,-90.50389205
+United States of America,Glenwood Springs,1.0,449,39.54658999,-107.3247
+India,New Delhi,3.0,1517,28.60002301,77.19998002
+United States of America,Ottumwa,3.0,376,41.01288291,-92.414809
+United States of America,Cadillac,1.0,332,44.25121238,-85.41360844
+United States of America,Craig,0.0,286,40.51728009,-107.5503968
+United States of America,Faribault,0.0,202,44.29048647,-93.26801274
+South Africa,Durban,11.0,1902,-29.865013,30.98001054
+Canada,Antigonish,0.0,194,45.62691652,-61.99819015
+Thailand,Nonthaburi,0.0,58,13.83368919,100.4833134
+Denmark,Odense,6.0,867,55.40037681,10.38333492
+United States of America,Mitchell,1.0,585,43.71429425,-98.02619776
+New Zealand,Invercargill,0.0,476,-46.40942951,168.3650097
+Germany,Bonn,2.0,756,50.72045575,7.080022337
+Portugal,Coimbra,0.0,356,40.20037437,-8.41668034
+United States of America,Atlantic City,0.0,392,39.36463727,-74.4233232
+Canada,Terrace,2.0,370,54.49999249,-128.5833248
+Italy,Naples,0.0,456,40.84002525,14.24501135
+Canada,Steinbach,0.0,350,49.51709251,-96.68330815
+Poland,Wroclaw,0.0,636,51.11043194,17.03000932
+United States of America,Hereford,1.0,275,34.82191713,-102.3985924
+Canada,Yellowknife,1.0,298,62.44201418,-114.3969814
+Belize,Belize City,1.0,679,17.49871096,-88.18837447
+Poland,Poznan,0.0,708,52.4057534,16.89993974
+Japan,Sapporo,0.0,48,43.07497927,141.3400443
+United States of America,Escanaba,0.0,430,45.7456948,-87.06436039
+Germany,Bremen,0.0,678,53.08000165,8.80002071
+Netherlands,Eindhoven,5.0,992,51.42997316,5.50001542
+China,Hangzhou,1.0,96,30.24997398,120.1700187
+Germany,Karlsruhe,4.0,643,48.99999229,8.399993448
+Taiwan,Tainan,2.0,28,23.00000307,120.2000427
+Senegal,Dakar,1.0,381,14.71583173,-17.47313013
+United States of America,Scottsbluff,0.0,493,41.86750775,-103.6606859
+Italy,Bologna,2.0,538,44.50042198,11.34002071
+Egypt,Alexandria,0.0,366,31.20001935,29.94999589
+New Zealand,Rotorua,3.0,438,-38.13458576,176.2454073
+France,Montpellier,1.0,520,43.61039878,3.869985716
+United States of America,Albert Lea,0.0,232,43.64778668,-93.36870427
+United States of America,Port Arthur,0.0,68,29.89898765,-93.92859257
+United Kingdom,Inverness,4.0,406,57.46712404,-4.23326644
+South Korea,Busan,0.0,81,35.09505292,129.0100476
+United States of America,Havre,0.0,295,48.54523968,-109.6776829
+United Kingdom,Lisburn,0.0,330,54.52037884,-6.670016929
+Germany,Leipzig,3.0,727,51.33540529,12.40998124
+France,Toulouse,0.0,759,43.61995892,1.449926716
+Luxembourg,Luxembourg,2.0,895,49.61166038,6.130002806
+Venezuela,Valencia,1.0,111,10.22998151,-67.9800214
+United States of America,Barstow,0.0,218,34.89901837,-117.0218858
+United Kingdom,Perth,1.0,316,56.40034161,-3.469979697
+United States of America,National City,0.0,278,32.67194501,-117.0980052
+Canada,Selkirk,0.0,306,50.15002545,-96.88332178
+Canada,Pembroke,1.0,184,45.85026206,-77.11664718
+United States of America,Poplar Bluff,1.0,223,36.76019676,-90.40268376
+United States of America,Marinette,0.0,204,45.10038535,-87.63047571
+United States of America,Price,0.0,403,39.59979087,-110.8100169
+Germany,Mannheim,3.0,693,49.50037518,8.470015013
+Finland,Turku,2.0,549,60.4538668,22.25496171
+United States of America,Hot Springs,0.0,221,34.50395205,-93.05500248
+United States of America,Glendive,0.0,215,47.10858319,-104.7104926
+United States of America,Kanab,0.0,454,37.04738853,-112.5254936
+United Arab Emirates,Sharjah,3.0,923,25.37138287,55.40647823
+Spain,Zaragoza,3.0,248,41.65000165,-0.889982138
+South Korea,Daegu,0.0,47,35.86678876,128.6069714
+India,Kolkata,3.0,1077,22.4949693,88.32467566
+Chile,Concepcion,0.0,200,-36.83001422,-73.05002202
+Malaysia,Ipoh,0.0,84,4.599989236,101.0649833
+Jamaica,Montego Bay,2.0,306,18.46668805,-77.91667586
+Indonesia,Semarang,0.0,71,-6.966617412,110.4200195
+Australia,Richmond,0.0,83,-33.59951373,150.7399873
+Australia,Richmond,0.0,83,-20.71626911,143.1333199
+Malaysia,Kota Kinabalu,0.0,121,5.979982523,116.1100081
+France,Strasbourg,2.0,613,48.57996625,7.750007282
+United States of America,Green River,0.0,320,41.51455772,-109.4649827
+France,Bordeaux,0.0,510,44.85001304,-0.595013063
+United States of America,Safford,1.0,334,32.83382143,-109.7068801
+United States of America,Ketchikan,5.0,405,55.3562193,-131.6639895
+Nigeria,Abuja,0.0,419,9.083333149,7.533328002
+United States of America,Ironwood,0.0,296,46.4558065,-90.15939112
+United States of America,Coffeyville,0.0,171,37.03806093,-95.6263184
+United States of America,Del Rio,0.0,171,29.36294802,-100.8963843
+United States of America,Ponca City,0.0,232,36.7073576,-97.08527328
+Germany,Dortmund,3.0,536,51.52996706,7.450025593
+Bahrain,Manama,1.0,1235,26.23613629,50.58305172
+Dominican Republic,Santiago,2.0,329,19.50000999,-70.67001225
+Mexico,Hermosillo,1.0,263,29.09888145,-110.954065
+Switzerland,Bern,3.0,554,46.91668276,7.466975462
+Canada,Quesnel,0.0,196,52.98367678,-122.4832837
+French Polynesia,Papeete,1.0,202,-17.53336261,-149.5666694
+Jamaica,Mandeville,0.0,130,18.03300305,-77.49999851
+Colombia,Cali,0.0,256,3.399959126,-76.49996647
+Canada,Yarmouth,0.0,210,43.83079447,-66.1125812
+Ireland,Tralee,1.0,179,52.26669212,-9.716652671
+United States of America,Calais,1.0,128,45.16598859,-67.24239201
+Germany,Dresden,2.0,441,51.04997052,13.75000281
+United Kingdom,Dumfries,1.0,196,55.06708966,-3.550000652
+Austria,Innsbruck,2.0,347,47.28040733,11.4099906
+Netherlands,Arnhem,3.0,557,51.98799603,5.922999562
+Romania,Iasi,2.0,572,47.16834698,27.57494706
+Switzerland,Basel,4.0,947,47.58038902,7.590017048
+Mexico,Puebla,1.0,306,19.04995994,-98.20003727
+Indonesia,Bekasi,1.0,85,-6.217257468,106.972323
+Mongolia,Ulaanbaatar,0.0,111,47.9166734,106.9166158
+Canada,Banff,0.0,194,51.17799888,-115.5719227
+Germany,Wiesbaden,2.0,507,50.08039146,8.250028441
+Costa Rica,Cartago,0.0,195,9.86997764,-83.92997807
+United States of America,Ely,0.0,522,47.90042116,-91.82569767
+United States of America,Ely,0.0,522,39.24702171,-114.887675
+United States of America,Perryville,0.0,401,55.91861391,-159.1511489
+Canada,Wetaskiwin,1.0,188,52.96657188,-113.3832966
+United States of America,Delano,0.0,351,35.76193728,-119.2430681
+Georgia,Tbilisi,1.0,1129,41.72500999,44.79079545
+Japan,Kobe,0.0,94,34.67998781,135.1699816
+United States of America,Waycross,1.0,251,31.21381695,-82.35490625
+South Korea,Incheon,0.0,62,37.47614789,126.6422334
+United States of America,Polson,2.0,288,47.68800519,-114.156686
+United States of America,Vernon,1.0,341,34.15105369,-99.29038416
+United States of America,Houlton,0.0,169,46.12551658,-67.83971989
+Japan,Naha,0.0,43,26.20717165,127.6729716
+American Samoa,Pago Pago,1.0,69,-14.2766105,-170.7066451
+China,Nanjing,0.0,58,32.05001914,118.7799743
+Honduras,San Pedro Sula,0.0,178,15.50002159,-88.02998621
+Turkey,Izmir,0.0,1116,38.43614968,27.15179401
+Puerto Rico,Mayaguez,0.0,201,18.20151044,-67.13971094
+New Zealand,Queenstown,1.0,183,-45.02997882,168.6625109
+Vietnam,Da Nang,0.0,54,16.06003908,108.2499711
+United States of America,Big Spring,1.0,286,32.24318565,-101.4751862
+Ireland,Dundalk,0.0,124,54.00041058,-6.416673219
+Sweden,Halmstad,1.0,246,56.67177207,12.85558712
+Thailand,Khon Kaen,0.0,37,16.42004295,102.8300435
+United States of America,Kenai,2.0,200,60.55435162,-151.2580131
+Venezuela,Maracaibo,0.0,145,10.72997683,-71.65997766
+United States of America,Pine Bluff,2.0,354,34.22869753,-92.00305119
+Portugal,Braga,0.0,163,41.55499453,-8.421331219
+Canada,Williams Lake,0.0,166,52.1166496,-122.1499966
+Canada,Revelstoke,0.0,195,51.0004645,-118.1833395
+United States of America,Paragould,1.0,240,36.05708722,-90.50288436
+United States of America,Gallup,0.0,107,35.52407066,-108.7339938
+Canada,Peace River,0.0,284,56.23332338,-117.2832911
+Belize,Belmopan,1.0,181,17.25203351,-88.767073
+Sweden,Helsingborg,0.0,526,56.05049217,12.70004106
+United States of America,Brownwood,3.0,276,31.70789532,-98.98231511
+Norway,Drammen,0.0,483,59.75724265,10.19073686
+Malaysia,Johor Bahru,0.0,145,1.480024637,103.7300402
+Morocco,Rabat,0.0,264,34.02529909,-6.83613082
+Indonesia,Yogyakarta,0.0,140,-7.77995278,110.3750093
+United States of America,Alice,0.0,216,27.75046246,-98.07048446
+Canada,North Battleford,0.0,138,52.76663576,-108.2833494
+Grenada,Saint George's,1.0,250,12.0526334,-61.74164323
+United States of America,Presque Isle,0.0,184,46.79340863,-68.00216476
+Austria,Graz,0.0,414,47.0777582,15.41000484
+Canada,Amherst,0.0,82,45.81656903,-64.21658187
+Italy,Verona,0.0,288,45.44039044,10.99001623
+Canada,Dawson Creek,0.0,146,55.76696942,-120.233266
+Malaysia,Seremban,0.0,42,2.710492166,101.9400203
+Mexico,La Paz,1.0,222,24.13995933,-110.3199952
+Italy,Palermo,0.0,200,38.12502301,13.35002722
+United States of America,Winnemucca,0.0,164,40.97337628,-117.7346847
+United States of America,Eagle Pass,1.0,177,28.71102399,-100.4892774
+Portugal,Funchal,0.0,225,32.64998252,-16.88003972
+France,Rouen,0.0,178,49.43040529,1.079975137
+Thailand,Lampang,0.0,23,18.29155662,99.48125565
+Czech Republic,Brno,0.0,602,49.20039349,16.60998328
+China,Xiamen,0.0,47,24.44999208,118.080017
+Canada,Thompson,0.0,88,55.74994204,-97.86662093
+Canada,Owen Sound,0.0,212,44.56664532,-80.84998519
+Canada,Gander,0.0,80,48.94999534,-54.54998845
+Finland,Tampere,1.0,613,61.5000045,23.75001257
+China,Chengdu,0.0,46,30.67000002,104.0700195
+Papua New Guinea,Port Moresby,0.0,47,-9.464707826,147.1925036
+Netherlands,Haarlem,1.0,859,52.38043194,4.629991006
+Canada,Kenora,0.0,164,49.76668968,-94.46664758
+Ireland,Sligo,2.0,192,54.26706097,-8.483317099
+Sweden,Kristianstad,0.0,134,56.03367149,14.1332869
+Serbia,Novi Sad,0.0,297,45.2503762,19.84994055
+Armenia,Yerevan,0.0,497,40.18115074,44.51355139
+France,Nice,2.0,517,43.71501772,7.265023965
+Canada,Hinton,0.0,232,53.39998212,-117.5833503
+Norway,Lillehammer,1.0,177,61.13328269,10.5000203
+Germany,Freiburg,0.0,482,48.00041506,7.869948281
+United States of America,Kitty Hawk,0.0,130,36.07731854,-75.70471786
+South Korea,Daejeon,0.0,22,36.33554567,127.425028
+Spain,Las Palmas,0.0,183,28.09997601,-15.42999902
+Germany,Braunschweig,1.0,215,52.24997479,10.5000203
+Canada,Drummondville,0.0,98,45.88333498,-72.4833641
+Austria,Salzburg,1.0,369,47.81047833,13.0400203
+Canada,Brooks,1.0,112,50.56705426,-111.9000021
+United Kingdom,Greenock,2.0,246,55.93329002,-4.750030763
+Serbia,Nis,0.0,221,43.33041587,21.8999963
+Ireland,Drogheda,0.0,114,53.71926495,-6.347762697
+Australia,Launceston,1.0,74,-41.44983559,147.1301818
+Spain,Bilbao,0.0,329,43.24998151,-2.929986818
+Chile,Antofagasta,0.0,130,-23.64999184,-70.40000289
+United States of America,Lander,0.0,400,42.83300437,-108.7325985
+Spain,Alicante,1.0,349,38.3512199,-0.483640721
+United States of America,Port Lavaca,0.0,151,28.61601687,-96.62969385
+Brazil,Santos,0.0,138,-23.95372393,-46.33294266
+Thailand,Udon Thani,0.0,30,17.4047632,102.7893225
+Spain,Pamplona,0.0,179,42.82000775,-1.649987428
+Argentina,La Plata,1.0,238,-34.90961465,-57.95996118
+Moldova,Chisinau,2.0,421,47.00502362,28.85771114
+India,Jaipur,3.0,384,26.92113324,75.80998734
+Canada,Yorkton,0.0,200,51.21706626,-102.4665469
+Croatia,Split,0.0,282,43.52040428,16.46999182
+Romania,Timisoara,0.0,476,45.75882062,21.22344844
+United States of America,Lamar,1.0,249,38.08649823,-102.6194058
+Spain,Vigo,2.0,220,42.22001853,-8.729994549
+Germany,Kiel,1.0,419,54.33039044,10.13001705
+Canada,Chicoutimi,0.0,128,48.43330853,-71.06670638
+Germany,Mainz,2.0,400,49.98247246,8.273219156
+Germany,Heidelberg,0.0,282,49.41999249,8.699975137
+South Korea,Suwon,0.0,99,37.25778912,127.0108931
+Lithuania,Kaunas,1.0,572,54.95040428,23.88003048
+Malaysia,Sibu,0.0,26,2.302971821,111.8430334
+Canada,New Glasgow,1.0,208,45.58327578,-62.63331934
+United Kingdom,Scarborough,0.0,306,54.28039349,-0.429984376
+United States of America,Devils Lake,0.0,196,48.11221702,-98.85968693
+Switzerland,Luzern,2.0,293,47.05042137,8.280000772
+France,Marseille,1.0,469,43.28997906,5.37501013
+Netherlands,Maastricht,0.0,452,50.85299707,5.677002477
+Australia,Townsville,0.0,44,-19.24995034,146.7699971
+Germany,Augsburg,0.0,263,48.35000612,10.89999589
+Mexico,Mexicali,0.0,180,32.64998252,-115.4800161
+Poland,Gdansk,1.0,457,54.3599752,18.64004024
+United States of America,Willcox,0.0,65,32.25321088,-109.8313945
+Canada,Creston,0.0,168,49.09996035,-116.516697
+Norway,Kristiansand,2.0,430,58.16664207,8.000017862
+New Zealand,Wanganui,1.0,251,-39.9311686,175.0288407
+United States of America,International Falls,0.0,185,48.60112775,-93.4108464
+Norway,Moss,3.0,267,59.43697797,10.66915727
+United States of America,Dalhart,0.0,75,36.06080792,-102.5186109
+Morocco,Agadir,0.0,69,30.43998822,-9.620043581
+Sweden,Kalmar,0.0,198,56.66701784,16.36658728
+United States of America,Trinidad,1.0,178,37.17133445,-104.5063965
+Sweden,Karlstad,0.0,175,59.36713727,13.49994055
+Montenegro,Podgorica,0.0,273,42.46597251,19.26630692
+Poland,Katowice,0.0,407,50.26038047,19.02001705
+Sweden,Sundsvall,0.0,212,62.40005292,17.31665849
+Spain,Marbella,1.0,157,36.51661989,-4.88333012
+Estonia,Tartu,0.0,363,58.38394147,26.70988358
+Japan,Hiroshima,1.0,41,34.3878351,132.442913
+Mexico,Ensenada,1.0,235,31.86997845,-116.6199982
+Canada,Prince Rupert,1.0,124,54.31667035,-130.3299882
+Germany,Bielefeld,0.0,249,52.02998822,8.530011351
+Norway,Haugesund,0.0,326,59.4119149,5.277496703
+Japan,Kitakyushu,0.0,10,33.87039899,130.8200146
+Maldives,Male,1.0,306,4.16670819,73.49994747
+Mexico,Cuernavaca,1.0,140,18.92110476,-99.23999964
+China,Qingdao,0.0,20,36.08997927,120.3300089
+Mexico,Chihuahua,2.0,130,28.64498151,-106.0849823
+Oman,Muscat,1.0,806,23.61332481,58.59331213
+Chile,Valparaiso,0.0,133,-33.04776447,-71.62101363
+Thailand,Chiang Rai,0.0,5,19.91187115,99.82645422
+United States of America,Miles City,0.0,95,46.4088843,-105.8399844
+Croatia,Rijeka,0.0,301,45.32998374,14.45001176
+United Kingdom,Ayr,1.0,232,55.4503996,-4.61667973
+United States of America,Mendocino,0.0,139,39.30776735,-123.7994308
+United States of America,Woodward,0.0,177,36.43342084,-99.39769027
+France,Rennes,0.0,301,48.10002138,-1.670012046
+Costa Rica,Liberia,1.0,158,10.63375531,-85.433323
+Brazil,Sorocaba,0.0,114,-23.49000161,-47.46998132
+Canada,Weyburn,0.0,48,49.66656659,-103.8500025
+Brazil,Joinville,0.0,95,-26.31995807,-48.83994938
+United Kingdom,Londonderry,0.0,130,55.00037539,-7.333283937
+Malaysia,Miri,0.0,24,4.399923929,113.9845048
+Japan,Fukuoka,0.0,24,33.59501528,130.4100138
+United States of America,Deming,0.0,174,32.26109153,-107.7557848
+India,Ahmedabad,0.0,437,23.03005292,72.58000362
+Canada,Edmundston,0.0,128,47.37941937,-68.3332815
+Brazil,Londrina,0.0,121,-23.30003904,-51.17998743
+Malaysia,Putrajaya,0.0,38,2.914019795,101.701947
+Austria,Linz,2.0,313,48.31923281,14.28878129
+Pakistan,Faisalabad,1.0,315,31.40998069,73.10999711
+Brazil,Manaus,0.0,92,-3.100031719,-60.00001754
+Canada,Labrador City,0.0,98,52.94143129,-66.91587447
+Canada,Swift Current,0.0,148,50.28373822,-107.766611
+China,Fuzhou,0.0,6,26.07999595,119.3000459
+Guatemala,Quetzaltenango,0.0,42,14.82995913,-91.52000574
+Portugal,Aveiro,0.0,182,40.64100311,-8.650997534
+Canada,New Liskeard,2.0,144,47.50000633,-79.66664657
+Australia,Darwin,0.0,23,-12.42535398,130.8500386
+Germany,Wuppertal,1.0,214,51.25000999,7.169991006
+Australia,Gold Coast,0.0,68,-28.08150429,153.4482458
+Panama,David,0.0,75,8.433321146,-82.43332524
+China,Tianjin,0.0,38,39.13002626,117.2000191
+Ireland,Donegal,0.0,113,54.65000917,-8.116672812
+Bolivia,Cochabamba,1.0,110,-17.41001097,-66.16997685
+Bolivia,Santa Cruz,2.0,139,-17.75391762,-63.22599634
+United States of America,Rawlins,0.0,106,41.7906649,-107.234292
+France,Lille,0.0,275,50.64996909,3.080008096
+Thailand,Chon Buri,0.0,51,13.40040814,100.9999743
+United States of America,Lead,0.0,29,44.35084454,-103.7657699
+Spain,Murcia,0.0,225,37.9799931,-1.12996749
+Mexico,Toluca,0.0,139,19.3303821,-99.66999923
+Netherlands,Leeuwarden,0.0,150,53.25037884,5.783357298
+Romania,Constanta,0.0,197,44.20266237,28.60997432
+United States of America,Socorro,0.0,263,34.06211855,-106.8989895
+Brazil,Natal,0.0,148,-6.983825664,-60.26994938
+Brazil,Natal,0.0,148,-5.780023174,-35.24000431
+Canada,Sioux Lookout,0.0,50,50.26296429,-91.9166482
+Canada,Dryden,0.0,74,49.78332949,-92.83333643
+Zimbabwe,Harare,2.0,544,-17.81778969,31.04470943
+Namibia,Windhoek,2.0,600,-22.57000608,17.0835461
+Azerbaijan,Baku,2.0,526,40.39527203,49.86221716
+Brazil,Sete Lagoas,0.0,30,-19.44962807,-44.24999699
+Italy,Catania,0.0,154,37.49997072,15.07999914
+France,Nantes,0.0,416,47.21038576,-1.590016929
+Croatia,Osijek,0.0,155,45.55038373,18.6800378
+Vietnam,Vung Tau,0.0,10,10.35537437,107.0849776
+Chile,Temuco,0.0,136,-38.73000161,-72.57999903
+France,Toulon,1.0,139,43.13418645,5.918821566
+Japan,Sendai,0.0,28,38.28710614,141.0217175
+United States of America,Wales,0.0,133,65.60959861,-168.0875027
+Mexico,Cabo San Lucas,0.0,94,22.89275617,-109.9045164
+Gibraltar,Gibraltar,1.0,271,36.13243495,-5.37807483
+United States of America,Valdez,0.0,171,61.13599571,-146.348287
+France,Grenoble,1.0,345,45.18038047,5.720001992
+Argentina,Mendoza,0.0,110,-32.88333006,-68.81661117
+China,Suzhou,0.0,28,31.30047833,120.620017
+China,Suzhou,0.0,28,33.6361111,116.9788889
+Australia,Toowoomba,0.0,24,-27.56453327,151.9555204
+Venezuela,Barquisimeto,2.0,169,10.04999249,-69.29996668
+Macedonia,Bitola,1.0,73,41.03905703,21.33951371
+Canada,Meadow Lake,0.0,54,54.13011843,-108.4347356
+New Zealand,Taupo,0.0,113,-38.69300128,176.0770455
+Vietnam,Nha Trang,1.0,1,12.25003908,109.1700183
+Canada,Baddeck,0.0,122,46.09998842,-60.75397669
+United States of America,Falfurrias,0.0,37,27.22690269,-98.14489852
+Japan,Kumamoto,0.0,20,32.80092938,130.700642
+Algeria,Algiers,1.0,220,36.7630648,3.05055253
+Poland,Szczecin,0.0,125,53.42039431,14.53000688
+Slovakia,Kosice,0.0,266,48.73044802,21.25001013
+Slovenia,Maribor,0.0,293,46.54047833,15.65004187
+Botswana,Gaborone,2.0,498,-24.64631346,25.91194779
+Puerto Rico,Arecibo,0.0,68,18.44002301,-66.72999435
+Australia,Wollongong,0.0,18,-34.41538125,150.890004
+Spain,Oviedo,0.0,147,43.35049217,-5.829990683
+Italy,Pisa,0.0,129,43.72046958,10.40002641
+Mexico,Celaya,1.0,127,20.53002464,-100.8000078
+Mexico,Xalapa,1.0,72,19.52998232,-96.91998621
+Denmark,Esbjerg,0.0,295,55.46703941,8.450016234
+Canada,Kindersley,0.0,46,51.46697349,-109.1332976
+Spain,Valladolid,1.0,125,41.65000165,-4.750030763
+China,Xian,0.0,12,34.27502545,108.8949963
+Jamaica,Spanish Town,0.0,110,17.98333254,-76.94999068
+Pakistan,Rawalpindi,1.0,469,33.59997622,73.04002722
+Brazil,Teresina,0.0,71,-5.095000388,-42.7800092
+Denmark,Roskilde,0.0,441,55.64997398,12.08333451
+Bulgaria,Varna,0.0,366,43.21564252,27.89528926
+Australia,Geelong,0.0,15,-38.16749505,144.3956335
+Indonesia,Bogor,0.0,54,-6.570000795,106.7500109
+Canada,The Pas,0.0,126,53.81662335,-101.2333147
+Canada,Port Hardy,0.0,54,50.71707094,-127.4999801
+Taiwan,Hualien,0.0,6,23.98374147,121.6000089
+Canada,Jasper,0.0,100,52.88332115,-118.0833714
+Belarus,Minsk,2.0,411,53.89997744,27.56662716
+Norway,Sandnes,0.0,144,58.84541201,5.690029662
+Denmark,Vejle,1.0,221,55.70900103,9.534996498
+Ireland,Kilkenny,1.0,169,52.65454958,-7.252255291
+Switzerland,Lugano,0.0,132,46.0003821,8.966677204
+Spain,Burgos,0.0,61,42.35039817,-3.67996688
+Mexico,Oaxaca,0.0,115,17.08268984,-96.66994979
+Sweden,Karlskrona,1.0,101,56.20300219,15.29600461
+France,Le Havre,0.0,35,49.50497438,0.104970051
+Switzerland,Chur,0.0,153,46.85002016,9.500029662
+Australia,Kingston,0.0,21,-42.99113686,147.3084139
+Bulgaria,Burgas,0.0,114,42.51460004,27.47464311
+Israel,Haifa,1.0,312,32.8204114,34.98002478
+Japan,Okayama,0.0,14,34.67202964,133.9170865
+Mexico,Aguascalientes,0.0,117,21.87945992,-102.2904135
+Portugal,Ponta Delgada,0.0,110,37.74830182,-25.6665835
+Portugal,Faro,1.0,147,37.0170803,-7.933273154
+United States of America,Beeville,0.0,53,28.40597801,-97.75083989
+Romania,Craiova,0.0,116,44.3262724,23.82587357
+Switzerland,Fribourg,0.0,137,46.80000008,7.149996522
+China,Dongguan,0.0,42,23.0488889,113.7447222
+Romania,Ploiesti,0.0,156,44.94690635,26.036488
+Mexico,Morelia,0.0,82,19.73338076,-101.189493
+Germany,Regensburg,0.0,143,49.02040448,12.12002478
+Spain,Santander,0.0,60,43.3804645,-3.799985394
+Mauritius,Port Louis,0.0,354,-20.16663857,57.49999385
+Canada,Shelburne,1.0,54,43.76560895,-65.31935694
+China,Harbin,0.0,30,45.74998395,126.6499849
+South Korea,Ulsan,0.0,27,35.54673077,129.3169539
+Italy,Venice,0.0,192,45.43865928,12.33499874
+Canada,Vegreville,0.0,48,53.49997601,-112.0499671
+Canada,Lac La Biche,0.0,72,54.77193972,-111.964701
+Poland,Gliwice,0.0,59,50.3303762,18.67001257
+Bosnia and Herzegovina,Tuzla,0.0,140,44.5504706,18.6800378
+Italy,Treviso,0.0,61,45.67001467,12.24001745
+Chile,La Serena,0.0,98,-29.89999795,-71.24997685
+Mexico,Guaymas,0.0,43,27.93001223,-110.8899862
+China,Wuhan,0.0,28,30.58003135,114.270017
+Canada,Dauphin,0.0,110,51.15001609,-100.0499502
+New Zealand,Levin,1.0,168,-40.61236733,175.2772493
+Canada,Smithers,0.0,110,54.76659121,-127.1665896
+United States of America,Burley,0.0,133,42.53581321,-113.7918763
+Malaysia,Sungai Petani,0.0,56,5.649718444,100.4793343
+Brazil,Americana,0.0,46,-22.74994342,-47.32998987
+Cambodia,Siem Reap,0.0,4,13.36663759,103.8500329
+Chile,Puerto Montt,0.0,45,-41.4699894,-72.92997766
+Indonesia,Medan,0.0,98,3.579973978,98.65004024
+Turkey,Bursa,0.0,256,40.1999868,29.06999792
+United States of America,Guymon,0.0,95,36.68580853,-101.4795012
+France,Nancy,0.0,168,48.68368085,6.200024372
+Sweden,Visby,1.0,108,57.63365135,18.30000932
+Australia,Mandurah,0.0,5,-32.52348259,115.7470567
+Italy,Bari,0.0,193,41.1142204,16.87275793
+United States of America,Wrangell,0.0,86,56.47126752,-132.3715949
+Mexico,Tepic,0.0,76,21.50539146,-104.8799913
+Italy,Cagliari,0.0,66,39.22239789,9.103981485
+Italy,Bolzano,0.0,108,46.5004291,11.36001949
+United Kingdom,Dover,1.0,130,51.13371218,1.300013386
+France,Angers,0.0,155,47.48000755,-0.530029949
+Romania,Brasov,0.0,409,45.64753542,25.6071602
+United States of America,Kingsville,1.0,76,27.51595481,-97.8558464
+Ecuador,Ibarra,0.0,35,0.360377216,-78.12999618
+Argentina,Neuquen,0.0,38,-38.95003986,-68.05999068
+Venezuela,Barcelona,0.0,58,10.13037518,-64.72001367
+United States of America,Wallace,1.0,65,47.47421979,-115.9268881
+Italy,Pescara,0.0,66,42.45543052,14.21865637
+Kazakhstan,Almaty,1.0,171,43.32498985,76.91503617
+Japan,Kanazawa,0.0,18,36.56000226,136.6400211
+Mexico,Colima,0.0,74,19.22997479,-103.7200104
+Japan,Hachioji,0.0,10,35.65770591,139.3260587
+Germany,Ulm,0.0,237,48.40039064,9.999999144
+Germany,Bremerhaven,2.0,127,53.55043805,8.579982461
+Portugal,Viseu,0.0,88,40.65699611,-7.910000431
+New Zealand,Gisborne,0.0,82,-38.64478717,178.0152217
+United States of America,Winslow,0.0,123,35.28470542,-110.7006954
+Germany,Rostock,0.0,152,54.07038047,12.14999711
+Portugal,Leiria,0.0,62,39.73899603,-8.804996462
+Mexico,Irapuato,0.0,24,20.67001609,-101.4999909
+Italy,Novara,0.0,133,45.45000226,8.61998002
+Bosnia and Herzegovina,Mostar,0.0,152,43.35049217,17.82003861
+India,Gurgaon,1.0,467,28.45000633,77.01999101
+Norway,Skien,1.0,211,59.19998985,9.600023558
+Bulgaria,Plovdiv,0.0,346,42.15397605,24.7539823
+United States of America,Hardin,0.0,32,45.731768,-107.612486
+China,Foshan,0.0,10,23.03005292,113.1200097
+Canada,Parry Sound,0.0,94,45.33370445,-80.03300663
+New Zealand,Timaru,0.0,78,-44.38159463,171.2185823
+Iraq,Baghdad,0.0,162,33.3386485,44.39386877
+Mexico,Saltillo,0.0,93,25.41995872,-101.0049823
+Japan,Gifu,0.0,14,35.42309491,136.7627526
+United States of America,Boulder City,0.0,303,35.97895245,-114.8315802
+France,Tours,0.0,85,47.38037539,0.699946654
+France,Amiens,0.0,39,49.90037661,2.300004027
+Norway,Hamar,0.0,111,60.82000207,11.06900156
+Norway,Harstad,1.0,120,68.7879059,16.51557043
+China,Ningbo,0.0,6,29.87997072,121.5500378
+Indonesia,Balikpapan,0.0,19,-1.250015443,116.8300158
+Peru,Cusco,0.0,18,-13.52502846,-71.97215499
+Vietnam,Da Lat,0.0,4,11.93042035,108.4199865
+Zambia,Lusaka,0.0,380,-15.41664427,28.28332759
+Ukraine,Kharkiv,0.0,126,49.99998293,36.25002478
+Italy,Modena,2.0,143,44.65002525,10.91999467
+Canada,Gimli,0.0,72,50.63330345,-96.99998133
+France,Brest,0.0,66,48.39044293,-4.49500757
+Brazil,Vila Velha,0.0,75,3.21666282,-51.21665186
+Brazil,Vila Velha,0.0,75,-20.36760822,-40.31798893
+Canada,Wiarton,1.0,84,44.73368939,-81.13330123
+Bosnia and Herzegovina,Banja Luka,0.0,219,44.78040489,17.17997432
+India,Patna,0.0,186,25.62495913,85.13003861
+Australia,Ivanhoe,0.0,35,-32.89960814,144.3000187
+Malaysia,Batu Pahat,0.0,6,1.850363789,102.9333447
+Liberia,Monrovia,0.0,101,6.31055666,-10.80475163
+China,Zhenjiang,0.0,10,32.21998293,119.4300122
+New Zealand,Blenheim,0.0,96,-41.52099404,173.9592419
+China,Zhengzhou,0.0,16,34.75499615,113.6650927
+Cameroon,Douala,0.0,173,4.060409769,9.709991006
+United Kingdom,Penzance,1.0,112,50.13372154,-5.550033611
+Indonesia,Mataram,0.0,16,-8.579542217,116.1350195
+France,Versailles,0.0,114,48.80046958,2.133347533
+Switzerland,Zug,2.0,216,47.17899903,8.487000565
+Ecuador,Ambato,0.0,42,-1.269600811,-78.61999211
+India,Coimbatore,0.0,118,10.99996035,76.95002112
+Canada,Kapuskasing,0.0,44,49.4166852,-82.43332524
+Japan,Kagoshima,0.0,14,31.58596478,130.561064
+Ecuador,Manta,0.0,85,-0.980006084,-80.72996668
+Brazil,Santa Maria,0.0,47,-29.68331867,-53.80000838
+Italy,Trieste,0.0,346,45.65037762,13.80002559
+United Kingdom,Omagh,1.0,68,54.60001223,-7.300004315
+Chile,Iquique,0.0,106,-20.24999266,-70.12996769
+China,Hefei,0.0,24,31.85003135,117.2800142
+Brazil,Pelotas,0.0,19,-31.75001422,-52.33002059
+South Africa,Pietermaritzburg,2.0,296,-29.61004148,30.39002071
+Spain,Vitoria,0.0,99,42.84998008,-2.669976849
+China,Chongqing,0.0,38,29.56497703,106.5949816
+Spain,Tarragona,0.0,200,41.12036989,1.249990599
+Belgium,Hasselt,0.0,202,50.96400317,5.483997561
+Finland,Oulu,1.0,269,64.99999758,25.47001094
+Sweden,Kiruna,0.0,34,67.8500045,20.21663651
+Germany,Potsdam,1.0,101,52.40040489,13.06999263
+Brazil,Blumenau,0.0,54,-26.9200248,-49.0899858
+Canada,Marathon,0.0,28,48.75039512,-86.36665104
+Italy,Parma,0.0,114,44.81042889,10.32003129
+United States of America,Salmon,0.0,88,45.17567792,-113.8949966
+India,Lucknow,1.0,346,26.85503908,80.91499874
+Poland,Bialystok,2.0,128,53.15035911,23.1699963
+Netherlands,Middelburg,0.0,116,51.50199618,3.609999541
+Brazil,Piracicaba,0.0,91,-22.70999754,-47.63999679
+Norway,Alta,0.0,44,69.96664532,23.24167151
+Germany,Kassel,0.0,275,51.30000694,9.500029662
+Chile,Osorno,0.0,140,-40.56999266,-73.1600153
+Israel,Jerusalem,1.0,478,31.77840782,35.20662593
+Romania,Sibiu,0.0,168,45.79711285,24.13712073
+United States of America,Crookston,0.0,49,47.77376223,-96.60773137
+Australia,Newcastle,0.0,8,-32.84534788,151.8150122
+Italy,Ancona,0.0,90,43.60037355,13.49994055
+Finland,Vaasa,0.0,82,63.09998435,21.60001461
+Turkey,Antalya,0.0,303,36.88998212,30.69997595
+Romania,Pitesti,0.0,107,44.85631757,24.87583533
+France,Dijon,0.0,125,47.33040428,5.030018268
+Australia,Melton,0.0,12,-37.68954832,144.570028
+India,Ludhiana,0.0,90,30.92776206,75.87225745
+South Korea,Changwon,0.0,21,35.21910219,128.583562
+South Africa,Port Elizabeth,0.0,290,-33.97003375,25.60002885
+Sweden,Falun,0.0,75,60.61300204,15.64700455
+Poland,Lublin,0.0,215,51.25039756,22.57272009
+United States of America,Fort Stockton,0.0,48,30.89169191,-102.8849968
+Japan,Toyama,0.0,6,36.69999371,137.2300109
+Italy,Ravenna,0.0,38,44.42037518,12.22001868
+Australia,Cranbourne,0.0,15,-38.09960081,145.2833695
+United Kingdom,Newcastle,0.0,138,55.00037539,-1.59999048
+Romania,Galati,0.0,93,45.45589337,28.04587439
+United States of America,White Sulphur Springs,0.0,42,37.79388043,-80.30348108
+United States of America,Tonopah,0.0,56,38.06699038,-117.2289791
+Poland,Gdynia,0.0,121,54.52037884,18.53002112
+Indonesia,Kupang,0.0,20,-10.17866941,123.5829886
+Norway,Molde,0.0,116,62.74830039,7.183323526
+Chile,Punta Arenas,0.0,63,-53.16498615,-70.93999577
+Brazil,Uberaba,0.0,34,-19.7799955,-47.9500037
+Denmark,Viborg,2.0,220,56.43333701,9.399984089
+Ukraine,Odessa,0.0,246,46.4900163,30.71000118
+Hungary,Debrecen,0.0,209,47.53046958,21.63003861
+Netherlands,Zwolle,0.0,240,52.52400009,6.096996529
+Australia,Cairns,0.0,24,-16.88783986,145.7633309
+Thailand,Nakhon Ratchasima,0.0,21,15.00002626,102.1000105
+Angola,Luanda,0.0,186,-8.838286114,13.23442704
+Morocco,Kenitra,0.0,85,34.27040041,-6.579996583
+Russia,Krasnodar,0.0,60,45.01997683,39.0000378
+Canada,Victoriaville,0.0,62,46.05040489,-71.96667729
+Japan,Nagano,0.0,34,36.64999676,138.1700052
+Canada,Red Lake,0.0,40,51.03369244,-93.83330123
+Germany,Ingolstadt,0.0,120,48.77041974,11.44998816
+Spain,Palma,2.0,131,39.57426271,2.65424597
+Mexico,Veracruz,0.0,97,19.17734235,-96.15998092
+Germany,Erfurt,0.0,75,50.97005292,11.02996212
+Thailand,Surat Thani,0.0,88,9.1500991,99.34012732
+Australia,Queanbeyan,1.0,24,-35.3546004,149.2113468
+Chile,Valdivia,0.0,90,-39.7950012,-73.24502303
+South Korea,Jeju,0.0,18,33.51013674,126.5219307
+Canada,Shawinigan,0.0,50,46.55037437,-72.733323
+Germany,Duisburg,1.0,234,51.42997316,6.750016641
+Russia,Kazan,1.0,89,55.74994204,49.12634477
+Italy,Bergamo,1.0,106,45.70040041,9.669993448
+China,Jinan,0.0,55,36.67498232,116.9950187
+Turkey,Adana,0.0,176,36.99498863,35.32000403
+Poland,Bydgoszcz,0.0,133,53.12041262,18.01000118
+India,Indore,0.0,206,22.71505922,75.86502274
+United States of America,Goodland,0.0,41,39.34848838,-101.7110374
+Finland,Kuopio,0.0,81,62.89428632,27.69493974
+Russia,Tyumen,0.0,45,57.14001223,65.52999467
+Brazil,Campo Grande,0.0,88,-20.45003213,-54.61662521
+Malaysia,Alor Setar,0.0,4,6.113307718,100.3729325
+Germany,Oldenburg,1.0,304,53.1299986,8.220004434
+Venezuela,Maracay,0.0,76,10.2468797,-67.59580713
+China,Dalian,1.0,12,38.92283839,121.6298308
+Chile,Arica,0.0,41,-18.50002195,-70.28998377
+Russia,Omsk,0.0,68,54.98998842,73.39995357
+Pakistan,Abbottabad,0.0,38,34.1495034,73.19950069
+Netherlands,Assen,0.0,105,53.00000109,6.550002585
+United States of America,John Day,0.0,40,44.41652529,-118.9520264
+Thailand,Phitsanulok,0.0,40,16.8283126,100.2728869
+Japan,Takamatsu,0.0,6,34.34473696,134.044779
+Indonesia,Samarinda,0.0,18,-0.500035381,117.1499963
+Costa Rica,Quesada,0.0,52,10.33049217,-84.43997278
+Mexico,Villahermosa,0.0,42,17.99997235,-92.89997319
+Poland,Rzeszow,0.0,60,50.07046958,22.00004187
+Colombia,Cartagena,0.0,64,10.39973859,-75.51439356
+Philippines,Baguio City,0.0,15,16.42999066,120.5699426
+Canada,Hay River,0.0,36,60.84999249,-115.7000027
+United States of America,Nome,0.0,61,64.50610008,-165.4063744
+Honduras,La Ceiba,0.0,18,15.7631063,-86.79698653
+Zambia,Sesheke,0.0,22,-17.46954222,24.30000484
+Colombia,Pereira,0.0,104,4.81038983,-75.67999068
+Canada,La Ronge,0.0,36,55.10000755,-105.3000173
+Canada,Joliette,0.0,60,46.03332583,-73.43330611
+Egypt,Tanta,1.0,85,30.79043194,31.00000932
+Canada,Digby,0.0,36,44.62258506,-65.7604928
+Mexico,Nuevo Laredo,0.0,40,27.4999868,-99.55000655
+Croatia,Pula,0.0,40,44.86871991,13.84808467
+Japan,Niigata,0.0,6,37.91999676,139.0400297
+Canada,Fort Nelson,0.0,10,58.81670575,-122.5329706
+South Korea,Yeosu,0.0,12,34.73678021,127.7458353
+Costa Rica,Puntarenas,0.0,37,9.970164098,-84.83358954
+Mozambique,Maputo,1.0,311,-25.95527749,32.58916296
+Romania,Braila,0.0,50,45.29199615,27.96900354
+Romania,Buzau,0.0,38,45.15650596,26.80651851
+Australia,Caboolture,0.0,28,-27.08296059,152.9499816
+Canada,Stephenville,0.0,90,48.55040733,-58.56656498
+Algeria,Oran,0.0,12,35.71000246,-0.61997278
+Germany,Magdeburg,0.0,167,52.13042137,11.62000362
+Canada,Rimouski,1.0,92,48.43374778,-68.51668115
+Turkey,Balikesir,0.0,54,39.6503821,27.89001827
+South Korea,Gwangju,0.0,16,35.1709656,126.9104341
+Australia,Devonport,0.0,36,-41.19266757,146.3311017
+France,Caen,0.0,127,49.18375368,-0.349989259
+India,Faridabad,1.0,70,28.4333333,77.3166667
+Mexico,Santiago Ixcuintla,0.0,21,21.81999758,-105.2200481
+Turkey,Hatay,0.0,16,36.2303583,36.12000688
+Colombia,Bucaramanga,0.0,54,7.1300932,-73.12588302
+Thailand,Hua Hin,0.0,8,12.56970949,99.94432816
+United States of America,Plattsburg,1.0,132,44.69498374,-73.45798161
+Japan,Shizuoka,0.0,61,34.98583478,138.3853926
+Argentina,Posadas,0.0,6,-27.3578321,-55.88510735
+Malaysia,Kuantan,0.0,28,3.829958719,103.3200394
+Canada,Melville,0.0,6,50.93331097,-102.7999891
+Morocco,Oujda,0.0,70,34.69001304,-1.909971559
+South Korea,Cheongju,0.0,4,36.64389895,127.5011991
+Portugal,Viana Do Castelo,0.0,75,41.69623514,-8.844137484
+New Zealand,Ashburton,0.0,18,-43.89790322,171.7300756
+China,Changsha,0.0,48,28.19996991,112.969993
+Bhutan,Thimphu,0.0,64,27.47298586,89.63901404
+Mexico,Guanajuato,0.0,50,21.02040814,-101.2799785
+Chile,Talca,0.0,33,-35.45500771,-71.67000289
+United States of America,Kotzebue,1.0,77,66.89869305,-162.5965975
+Italy,Taranto,0.0,89,40.50839174,17.22999711
+Canada,Iqaluit,1.0,60,63.75045938,-68.50019175
+Turkey,Edirne,0.0,26,41.67043968,26.56999548
+Switzerland,Schaffhausen,0.0,32,47.70600309,8.632998523
+Canada,Amos,0.0,10,48.56663373,-78.11666366
+Belgium,Mons,0.0,92,50.44599911,3.939003561
+Romania,Oradea,0.0,125,47.04998212,21.91999508
+Spain,Salamanca,0.0,170,40.97040489,-5.670000449
+Italy,Perugia,0.0,122,43.11037762,12.38998246
+Mexico,Reynosa,0.0,41,26.07999595,-98.30003117
+China,Zhuhai,0.0,10,22.2769444,113.5677778
+United States of America,Needles,1.0,56,34.84842714,-114.6133507
+Brazil,Bauru,0.0,21,-22.33002073,-49.08001225
+Italy,Udine,0.0,149,46.07001609,13.2400081
+Czech Republic,Ostrava,2.0,130,49.83035504,18.24998653
+India,Guwahati,0.0,154,26.16001691,91.76999508
+Japan,Matsumoto,0.0,6,36.2404352,137.9700175
+Finland,Lahti,0.0,130,60.99385968,25.66493445
+Chile,Copiapo,0.0,18,-27.35999795,-70.33998071
+New Zealand,Whakatane,0.0,55,-37.98291543,176.9999865
+Canada,Athabasca,0.0,22,54.71703351,-113.2665853
+India,Ghaziabad,0.0,136,28.66038108,77.40839107
+Romania,Arad,1.0,144,46.17000999,21.31998002
+Ecuador,Portoviejo,0.0,46,-1.060001201,-80.45998316
+United States of America,Dillingham,0.0,64,59.05656031,-158.4803121
+Ghana,Kumasi,0.0,50,6.689990864,-1.630014487
+China,Kunming,0.0,29,25.06998008,102.6799751
+Philippines,Pasay City,1.0,24,14.5504413,120.9999939
+Spain,Cadiz,0.0,90,36.53499086,-6.225005332
+Australia,Hamilton,0.0,24,-37.73119953,142.0234135
+India,Chandigarh,0.0,214,30.71999697,76.78000565
+France,Metz,0.0,91,49.1203467,6.180025593
+Germany,Koblenz,0.0,62,50.35047833,7.599990599
+Canada,Inuvik,0.0,38,68.34997398,-133.6999893
+United States of America,Thermopolis,0.0,26,43.64597801,-108.2146715
+Norway,Narvik,0.0,66,68.38315025,17.28999345
+Argentina,Santa Fe,0.0,119,-31.62387205,-60.69000126
+Argentina,San Rafael,0.0,33,-34.60002114,-68.33333317
+Slovakia,Trnava,0.0,113,48.36659426,17.60000036
+India,Salem,2.0,54,11.66999697,78.18007523
+Burkina Faso,Ouagadougou,0.0,31,12.37031598,-1.524723756
+Turkey,Konya,0.0,126,37.87501243,32.47500972
+India,Madurai,0.0,40,9.920026264,78.12002722
+South Korea,Gangneung,0.0,6,37.75587242,128.8961527
+Argentina,San Martin,0.0,41,-33.06998533,-68.49001612
+Spain,Badajoz,0.0,44,38.8804291,-6.96997278
+Switzerland,Saint Gallen,0.0,129,47.42299807,9.361998557
+Colombia,Barranquilla,0.0,68,10.95998863,-74.79996688
+France,Reims,0.0,146,49.25039044,4.029975951
+New Zealand,Masterton,0.0,26,-40.94392332,175.6456506
+Chile,Rancagua,0.0,34,-34.17002155,-70.73998214
+Monaco,Monaco,0.0,112,43.73964569,7.406913173
+Ukraine,Ternopil,0.0,12,49.53598024,25.5821488
+Ireland,Killarney,0.0,50,52.05040041,-9.516664878
+Romania,Suceava,0.0,53,47.63769818,26.25931677
+China,Quanzhou,0.0,6,24.9000163,118.5799865
+Mexico,Zacatecas,0.0,25,22.77043052,-102.5800025
+Brazil,Canoas,1.0,42,-29.91999673,-51.17998743
+Mexico,Manzanillo,0.0,34,19.04958662,-104.3230851
+Norway,Steinkjer,0.0,24,64.01706016,11.50001094
+Thailand,Krabi,1.0,20,8.052003097,98.91199867
+France,Limoges,0.0,74,45.82997906,1.249990599
+Brazil,Aracaju,0.0,50,-10.90002073,-37.11996708
+Bulgaria,Stara Zagora,0.0,58,42.42313275,25.6227148
+Thailand,Kamphaeng Phet,0.0,16,16.47299704,99.52900267
+Japan,Otsu,0.0,6,35.006402,135.8674068
+Brazil,Cascavel,0.0,60,-24.95957599,-53.46002914
+Brazil,Volta Redonda,0.0,16,-22.51956989,-44.09496769
+Poland,Olsztyn,0.0,52,53.80003522,20.48003129
+Pakistan,Multan,0.0,100,30.19997703,71.45500769
+Italy,Trento,0.0,106,46.08042889,11.11998246
+Mexico,Tampico,0.0,18,22.30001996,-97.87000574
+Taiwan,Nantou,0.0,6,23.91666667,120.6833333
+China,Changzhou,0.0,32,31.77998395,119.9699792
+Russia,Ufa,0.0,40,54.78997479,56.04003129
+Pakistan,Peshawar,0.0,228,34.00501609,71.53500281
+Chile,Chillan,0.0,31,-36.60000242,-72.10599695
+Norway,Arendal,0.0,121,58.46475606,8.766000553
+Uganda,Kampala,0.0,342,0.316658955,32.58332353
+Turkey,Kahramanmaras,0.0,22,37.60998985,36.94502112
+United States of America,Mobridge,0.0,12,45.54012596,-100.4347071
+Ecuador,Loja,0.0,61,-3.990003236,-79.21000777
+Japan,Maebashi,0.0,5,36.39269981,139.0726892
+Saudi Arabia,Makkah,0.0,162,21.43002138,39.82003943
+India,Aizawl,0.0,38,23.71039899,92.72001461
+Samoa,Apia,0.0,12,-13.84154504,-171.7386416
+United Kingdom,Kirkwall,0.0,60,58.96698081,-2.950011435
+Lithuania,Siauliai,0.0,79,55.93863853,23.32502559
+France,Perpignan,0.0,116,42.69998924,2.899967406
+China,Xuzhou,0.0,6,34.28001223,117.1800203
+Romania,Satu Mare,0.0,36,47.79199816,22.88500248
+Russia,Novosibirsk,0.0,90,55.02996014,82.96004187
+Turkey,Mugla,1.0,157,37.21637046,28.36389115
+Argentina,Bahia Blanca,0.0,60,-38.74002684,-62.2650214
+Cape Verde,Praia,0.0,12,14.91669802,-23.51668889
+Australia,Ballarat,0.0,31,-37.55958209,143.8400468
+Mexico,Acapulco,0.0,36,16.84999086,-99.91597905
+Nepal,Lalitpur,0.0,8,27.66661745,85.3333337
+Rwanda,Kigali,0.0,307,-1.953590069,30.06053178
+United States of America,Fort Yukon,0.0,24,66.56468243,-145.2737789
+Panama,Panama City,0.0,8,8.96801719,-79.53303715
+Mali,Bamako,0.0,56,12.65001467,-8.000039105
+Philippines,Davao,0.0,4,7.110016906,125.6299955
+Italy,Salerno,0.0,26,40.68039675,14.76994055
+Belgium,Brugge,0.0,170,51.22037355,3.230024779
+Serbia,Kragujevac,0.0,32,44.01996035,20.92000443
+Canada,Tofino,0.0,44,49.15207146,-125.9031487
+Egypt,Suez,0.0,12,30.00497601,32.54994055
+Japan,Kawagoe,0.0,8,35.91769004,139.4910616
+Mexico,Matamoros,0.0,2,25.87998232,-97.50000248
+Serbia,Zrenjanin,0.0,22,45.3786371,20.39946773
+Indonesia,Manado,0.0,4,1.480024637,124.8499914
+Spain,Guadalajara,0.0,24,40.63370709,-3.166587363
+Canada,Fort Smith,0.0,26,60.00001853,-111.8833364
+Argentina,Tandil,0.0,14,-37.32001015,-59.15004358
+China,Nanchang,0.0,6,28.67999229,115.8799963
+Bosnia and Herzegovina,Prijedor,0.0,10,44.98039268,16.70000362
+Hungary,Szeged,0.0,180,46.25039268,20.15002559
+Lithuania,Klaipeda,0.0,204,55.72040896,21.11994055
+Japan,Matsuyama,0.0,4,33.84554262,132.765839
+Malaysia,Kuala Terengganu,0.0,52,5.330409769,103.12
+Uzbekistan,Tashkent,0.0,143,41.31170188,69.29493282
+Argentina,San Juan,0.0,39,-31.55002643,-68.51998845
+Japan,Tokushima,0.0,4,34.06738955,134.5525
+Japan,Oita,0.0,3,33.24322797,131.5978999
+Japan,Hakodate,0.0,14,41.79497988,140.7399776
+Kyrgyzstan,Bishkek,0.0,68,42.87307945,74.58520422
+Iceland,Selfoss,0.0,18,63.93342185,-20.99694605
+Australia,Traralgon,0.0,26,-38.19959471,146.5300118
+Canada,Lillooet,0.0,18,50.68371381,-121.9332656
+Poland,Kielce,0.0,60,50.8903937,20.6600203
+Dominican Republic,La Romana,0.0,38,18.41700116,-68.96660201
+Romania,Giurgiu,0.0,6,43.92999911,25.8399995
+Spain,Toledo,0.0,46,39.86703554,-4.016716351
+Chile,Los Angeles,0.0,24,-37.46000161,-72.35998661
+Mexico,Los Mochis,0.0,13,25.78998781,-108.9999982
+Mexico,Cozumel,0.0,25,20.51000002,-86.95000045
+Brazil,Itu,1.0,13,-23.26004148,-47.30001754
+Venezuela,Cabimas,0.0,7,10.42999514,-71.44999048
+United States of America,Chadron,0.0,33,42.82791424,-103.0030774
+Sweden,Mariestad,0.0,18,58.70500209,13.82799659
+Indonesia,Pontianak,0.0,18,-0.029986553,109.3199833
+Romania,Deva,0.0,54,45.88332304,22.91667357
+Jamaica,May Pen,0.0,16,17.96661521,-77.23328089
+Czech Republic,Liberec,0.0,48,50.79995994,15.07999914
+Moldova,Balti,0.0,50,47.75908612,27.90531449
+Russia,Petrozavodsk,0.0,38,61.84998313,34.28001583
+Taiwan,Changhua,0.0,6,24.07340008,120.5134086
+Brazil,Franca,0.0,32,-20.53002724,-47.39001205
+Russia,Yekaterinburg,0.0,137,56.85002993,60.59995967
+Portugal,Castelo Branco,0.0,38,39.81099615,-7.487999559
+Mexico,Tapachula,1.0,10,14.89998069,-92.2699858
+Spain,Albacete,0.0,38,39.00034426,-1.869999839
+Italy,Livorno,0.0,70,43.55113366,10.3022747
+United States of America,Pecos,0.0,79,31.41579429,-103.4998947
+Australia,Warrnambool,0.0,6,-38.37999713,142.4700012
+Kazakhstan,Astana,0.0,111,51.1811253,71.42777421
+Turkey,Eskisehir,0.0,156,39.7949986,30.52996049
+Mexico,Orizaba,0.0,19,18.85002382,-97.12999923
+Chile,Puerto Varas,1.0,54,-41.32999795,-72.98999984
+Canada,Deer Lake,0.0,16,49.17440025,-57.42691878
+Canada,Deer Lake,0.0,16,52.61703249,-94.06659448
+Australia,Caloundra,1.0,33,-26.80003213,153.1333296
+Switzerland,Neuchatel,0.0,182,46.99899914,6.922998615
+Romania,Tulcea,0.0,36,45.19934572,28.79668127
+Romania,Bacau,0.0,97,46.57843467,26.91963822
+Japan,Fukushima,0.0,10,37.74000775,140.4700199
+Mexico,Nogales,0.0,22,31.30500002,-110.9449958
+Turkey,Gaziantep,0.0,62,37.07498374,37.38499426
+Russia,Samara,0.0,53,53.19500755,50.15129512
+Czech Republic,Ceske Budejovice,0.0,59,48.98001935,14.46003699
+Croatia,Slavonski Brod,0.0,38,45.16027834,18.01558223
+Japan,Utsunomiya,0.0,4,36.54997703,139.8700048
+Indonesia,Padang,0.0,10,-0.960007305,100.3600134
+Portugal,Vila Real,0.0,30,41.29399815,-7.73700249
+Norway,Hammerfest,0.0,33,70.66127993,23.68800085
+South Africa,Benoni,1.0,105,-26.14958087,28.32993974
+Germany,Cottbus,0.0,22,51.7704175,14.32996741
+India,Vadodara,0.0,112,22.31001935,73.18001868
+Canada,Dawson City,0.0,6,64.0666437,-139.4166687
+Switzerland,Aarau,3.0,147,47.3900041,8.03400361
+Peru,Arequipa,0.0,114,-16.41999388,-71.53001144
+Brazil,Nova Friburgo,0.0,12,-22.25999917,-42.54004968
+Indonesia,Palembang,0.0,26,-2.980039043,104.7500297
+Canada,Atikokan,0.0,58,48.75039512,-91.61658899
+Belgium,Namur,0.0,40,50.47039349,4.870028034
+Afghanistan,Kabul,0.0,40,34.51669029,69.18326005
+Denmark,Svendborg,0.0,124,55.07042279,10.61665401
+Argentina,Resistencia,0.0,40,-27.45999184,-58.99002751
+Germany,Schwerin,0.0,20,53.63330408,11.41669861
+United States of America,Dumas,0.0,120,35.86239626,-101.9668875
+Thailand,Nakhon Si Thammarat,0.0,4,8.399989847,99.97001135
+Belize,Corozal,0.0,6,18.39799811,-88.3880005
+Germany,Chemnitz,1.0,125,50.82998395,12.91997595
+Argentina,Ushuaia,0.0,16,-54.79000324,-68.31000126
+India,Bhopal,0.0,154,23.24998781,77.40999304
+Argentina,Salta,0.0,50,-24.78335936,-65.41663782
+Argentina,San Justo,0.0,38,-30.78288979,-60.58328943
+Australia,Gympie,0.0,4,-26.18859658,152.6709289
+Chile,Talcahuano,0.0,7,-36.71668781,-73.11665877
+El Salvador,Santa Ana,0.0,34,13.9946096,-89.55976363
+Austria,Wiener Neustadt,0.0,10,47.81598187,16.24995357
+Italy,Lecce,0.0,36,40.36039044,18.14999263
+Germany,Jena,1.0,115,50.93044293,11.58000606
+United States of America,Childress,0.0,8,34.4248871,-100.2139195
+Canada,Burns Lake,0.0,6,54.21701235,-125.7665975
+Papua New Guinea,Kerema,0.0,10,-7.927001897,145.8379987
+Bosnia and Herzegovina,Zenica,0.0,68,44.21997398,17.91998083
+Argentina,Santa Rosa,0.0,8,-36.6200012,-64.29998763
+Bulgaria,Pleven,0.0,47,43.42376935,24.61337073
+Brazil,Santa Rosa,0.0,6,-27.86952757,-54.4599681
+Brazil,Presidente Prudente,0.0,20,-22.12000771,-51.39000045
+Vietnam,Can Tho,0.0,26,10.04999249,105.7700191
+Portugal,Horta,0.0,6,38.53465595,-28.64475681
+Canada,Lake Louise,1.0,26,51.43369387,-116.1832807
+Argentina,Rosario,0.0,33,-32.95112954,-60.66630762
+Slovakia,Presov,0.0,105,48.99973391,21.23936479
+China,Yantai,0.0,6,37.53040814,121.4000211
+Brazil,Novo Hamburgo,0.0,35,-29.70962197,-51.13998987
+China,Changchun,0.0,22,43.86500856,125.3399873
+Russia,Volgograd,0.0,55,48.71000999,44.49996049
+France,Arras,0.0,16,50.28332481,2.783333698
+Australia,Bunbury,0.0,6,-33.34428384,115.6502429
+Indonesia,Malang,0.0,12,-7.97999225,112.610015
+Mexico,Durango,0.0,32,24.03110292,-104.67003
+Nigeria,Ibadan,0.0,63,7.380026264,3.929982054
+Croatia,Zadar,0.0,50,44.12013511,15.26226192
+France,Annecy,0.0,69,45.89997479,6.116670287
+China,Nanning,0.0,24,22.81998822,108.3200443
+Spain,Huelva,0.0,111,37.25037355,-6.929949383
+India,Kochi,0.0,40,10.01500755,76.22391557
+Brazil,Cabo Frio,0.0,20,-22.88998655,-42.03997685
+Canada,Watson Lake,0.0,12,60.1166264,-128.80003
+Colombia,Manizales,0.0,32,5.059986998,-75.52000045
+China,Guiyang,0.0,6,26.58004295,106.7200386
+India,Surat,0.0,96,21.19998374,72.84003943
+Argentina,Villa Maria,0.0,36,-32.41002562,-63.26002527
+Canada,Flin Flon,0.0,52,54.76659121,-101.8833008
+Guyana,Linden,0.0,14,5.99000775,-58.2699681
+Argentina,San Luis,0.0,16,-33.29999713,-66.35001754
+Canada,Wawa,0.0,52,48.00041506,-84.78333683
+Romania,Targoviste,0.0,37,44.93799913,25.4590025
+Egypt,Ismailia,0.0,12,30.5903408,32.25998409
+India,Pondicherry,0.0,36,11.93499371,79.83000037
+El Salvador,San Miguel,0.0,38,13.48334881,-88.18333602
+Romania,Baia Mare,0.0,69,47.65945396,23.57906693
+Argentina,El Calafate,0.0,8,-50.33332436,-72.30001612
+Argentina,Parana,0.0,18,-31.73332273,-60.53334416
+Spain,Algeciras,0.0,74,36.12671215,-5.466530363
+Germany,Flensburg,0.0,58,54.78374778,9.433315388
+Ukraine,Donetsk,0.0,38,48.00000165,37.82998002
+India,Nagpur,1.0,73,21.16995974,79.08999385
+Switzerland,Solothurn,2.0,68,47.2120021,7.536996608
+Australia,Sunbury,0.0,4,-37.56960732,144.7100195
+Czech Republic,Jihlava,0.0,51,49.40038129,15.58332759
+Ukraine,Cherkasy,0.0,38,49.43472028,32.07090002
+Indonesia,Palu,0.0,6,-0.907038962,119.8330367
+Turkey,Trabzon,0.0,30,40.97999086,39.71999385
+South Africa,Middelburg,0.0,21,-25.75963051,29.47002519
+South Africa,Middelburg,0.0,21,-31.50000364,25.00998734
+Canada,Moosonee,0.0,6,51.28060244,-80.65798141
+Brazil,Ponta Grossa,0.0,58,-25.09000731,-50.16004968
+Indonesia,Pekanbaru,0.0,10,0.564964212,101.425013
+Japan,Mito,0.0,4,36.37042727,140.4800451
+Czech Republic,Olomouc,0.0,71,49.63003135,17.24999589
+France,Roanne,0.0,76,46.03332583,4.066666218
+Italy,Vibo Valentia,0.0,6,38.66659202,16.10004024
+Bulgaria,Pernik,0.0,18,42.60999473,23.02271846
+Seychelles,Victoria,0.0,101,-4.616631654,55.44998979
+Thailand,Songkhla,0.0,12,7.209959126,100.5600012
+South Africa,George,0.0,60,-33.95003497,22.45004024
+France,Troyes,0.0,48,48.34039431,4.083357705
+India,Guntur,0.0,24,16.32999676,80.4500142
+Philippines,Dagupan,0.0,8,16.04789512,120.3408093
+Austria,Bregenz,0.0,30,47.51669707,9.766701588
+Italy,Como,0.0,60,45.81000612,9.08000362
+Pakistan,Hyderabad,0.0,38,25.379987,68.37498897
+Finland,Rovaniemi,0.0,34,66.50003522,25.71593909
+Argentina,Junin,0.0,6,-34.58456989,-60.95887374
+Mexico,Ciudad Valles,0.0,5,21.97998781,-99.02001306
+Brazil,Botucatu,0.0,20,-22.87959959,-48.44999903
+Chile,Calama,0.0,20,-22.45001341,-68.91998987
+Russia,Irkutsk,0.0,6,52.31997052,104.2450476
+Swaziland,Mbabane,0.0,30,-26.31665078,31.13333451
+Italy,Siena,0.0,120,43.31703168,11.34999426
+Ukraine,Lutsk,0.0,8,50.7471983,25.33337846
+Moldova,Tiraspol,0.0,34,46.85309491,29.63998897
+Russia,Saratov,0.0,80,51.57998985,46.0299963
+Bulgaria,Shumen,0.0,52,43.27000612,26.92935339
+Australia,Port Macquarie,0.0,6,-31.44501992,152.9186657
+South Korea,Ansan,0.0,28,37.34806785,126.8595328
+United States of America,Apalachicola,0.0,33,29.72561322,-84.99252303
+United States of America,Tombstone,0.0,14,31.71314048,-110.066884
+Australia,Byron Bay,0.0,4,-28.65650796,153.6128869
+Russia,Kaliningrad,0.0,34,54.70000612,20.49734289
+Brazil,Campos,0.0,6,-21.74995278,-41.32002079
+Morocco,El Jadida,0.0,55,33.2603587,-8.509982138
+Romania,Focsani,0.0,46,45.69655052,27.186547
+Morocco,Tangier,0.0,14,35.74728701,-5.832703696
+Canada,Geraldton,0.0,42,49.71664105,-86.96664026
+Brazil,Campina Grande,0.0,34,-7.230012188,-35.88001693
+Venezuela,Los Teques,0.0,18,10.41996991,-67.02002832
+Georgia,Batumi,0.0,6,41.6000047,41.63000647
+Argentina,Corrientes,0.0,16,-27.48996417,-58.80998682
+Solomon Islands,Honiara,0.0,4,-9.437994295,159.9497657
+Turkey,Sakarya,0.0,45,40.76666114,30.40000251
+China,Shaoxing,0.0,6,30.00037681,120.5700459
+Tajikistan,Dushanbe,0.0,6,38.56003522,68.77387935
+South Korea,Chuncheon,0.0,11,37.87470237,127.7341565
+Taiwan,Miaoli,0.0,6,24.57,120.82
+Norway,Namsos,0.0,30,64.48331077,11.50001094
+Ukraine,Chernivtsi,0.0,44,48.30530601,25.92155961
+Bulgaria,Dobrich,0.0,31,43.58505149,27.83999548
+El Salvador,Sonsonate,0.0,17,13.7199752,-89.7299858
+Macedonia,Tetovo,0.0,44,42.00923037,20.9700789
+Mexico,Campeche,0.0,12,19.82998985,-90.49999048
+Chile,Castro,0.0,6,-42.48076159,-73.76233415
+New Zealand,Upper Hutt,0.0,6,-41.13548786,175.0290474
+Canada,Gillam,0.0,40,56.34998293,-94.69996668
+France,Le Mans,0.0,46,48.00041506,0.099983275
+Russia,Saransk,0.0,6,54.17037437,45.18002234
+Turkey,Denizli,0.0,42,37.77039349,29.08002315
+Portugal,Guarda,0.0,8,40.54100414,-7.262000512
+Hungary,Gyor,0.0,28,47.70035585,17.63002437
+Chile,Quillota,0.0,34,-32.87997109,-71.26000208
+Russia,Pskov,0.0,42,57.82999595,28.32993974
+Thailand,Chanthaburi,0.0,14,12.61327272,102.0978918
+Cyprus,Paphos,0.0,46,34.75591516,32.42245666
+Chile,Coquimbo,0.0,51,-29.95291461,-71.34361454
+South Africa,Worcester,0.0,20,-33.64002806,19.43993974
+Mexico,Coatzacoalcos,1.0,18,18.12040428,-94.4200096
+Norway,Kirkenes,0.0,28,69.72500633,30.05164343
+Taiwan,Pingtung,0.0,23,22.68170209,120.4816792
+Finland,Porvoo,0.0,67,60.40035585,25.66601965
+Guatemala,Antigua Guatemala,0.0,12,14.5666981,-90.73330161
+France,La Rochelle,0.0,132,46.16665102,-1.149992108
+Romania,Targu Jiu,0.0,38,45.04500004,23.27400062
+Kenya,Mombasa,1.0,58,-4.040026022,39.68991817
+Mauritania,Nouakchott,0.0,12,18.08642702,-15.97534041
+Mexico,Uruapan,0.0,21,19.42037661,-102.0700078
+Greenland,Ilulissat,0.0,7,69.21666526,-51.09996647
+Brazil,Passo Fundo,0.0,30,-28.25002114,-52.41998926
+Slovakia,Zilina,0.0,44,49.21982383,18.74938757
+Malaysia,Bintulu,0.0,4,3.16640749,113.0359838
+Sudan,Khartoum,0.0,17,15.58807823,32.53417924
+India,Srinagar,0.0,30,34.09997154,74.81500932
+Australia,Burnie,1.0,16,-41.06660317,145.9166642
+India,Mangalore,1.0,51,12.90002525,74.84999426
+Italy,Caserta,0.0,10,41.05996014,14.33735714
+Canada,Stettler,0.0,32,52.33296714,-112.6832876
+Turkey,Kayseri,0.0,64,38.73495994,35.49001949
+Hungary,Miskolc,0.0,37,48.10040896,20.78001298
+Lesotho,Maseru,0.0,121,-29.31667438,27.48327307
+South Africa,Potchefstroom,0.0,12,-26.69957314,27.09998897
+Pakistan,Quetta,0.0,66,30.22000165,67.02499385
+India,Mysore,0.0,42,12.30998374,76.66001298
+United States of America,Skagway,0.0,25,59.45832033,-135.3138959
+Malaysia,Muar,0.0,10,2.033737609,102.566597
+Bulgaria,Razgrad,0.0,27,43.53399903,26.53599663
+Belize,Dangriga,0.0,6,16.97003522,-88.22000045
+France,Melun,0.0,26,48.53330243,2.666648314
+Argentina,Catamarca,0.0,64,-28.47000771,-65.78000065
+Australia,Coffs Harbour,0.0,4,-30.3070532,153.1122973
+Portugal,Beja,0.0,30,38.01400214,-7.86300241
+Romania,Bistrita,0.0,27,47.13800409,24.51300358
+Russia,Kaluga,0.0,20,54.52037884,36.27002356
+Italy,Brindisi,0.0,6,40.64034751,17.93000606
+China,Kaifeng,0.0,18,34.85000327,114.3500122
+Mexico,Piedras Negras,0.0,7,28.70763918,-100.5316521
+Tunisia,Zaghouan,0.0,4,36.39999616,10.14699661
+Switzerland,Geneva,0.0,30,46.21000755,6.140028034
+Czech Republic,Zlin,0.0,50,49.2304175,17.65002315
+Canada,Kuujjuaq,0.0,10,58.10000531,-68.39999577
+Thailand,Phetchaburi,0.0,24,13.11329388,99.9411759
+Bangladesh,Narayanganj,0.0,12,23.62040448,90.49999508
+Spain,Lorca,0.0,18,37.68856386,-1.698511598
+Turkey,Bolu,0.0,26,40.73625897,31.60612219
+Nicaragua,Masaya,0.0,10,11.96900098,-86.09499852
+France,Mulhouse,0.0,136,47.75040448,7.34998002
+Turkey,Batman,0.0,12,37.89041201,41.14001054
+Australia,Sale,0.0,4,-38.10957436,147.0600052
+Belize,Orange Walk,0.0,6,18.09043194,-88.5599797
+Chile,Ovalle,0.0,20,-30.59003335,-71.20005742
+Brazil,Limeira,0.0,40,-22.54954222,-47.40001144
+Taiwan,Chiayi,0.0,6,23.47545209,120.4350671
+India,Aligarh,0.0,22,27.89221092,78.06178788
+Mexico,Tlaxcala,0.0,10,19.31999514,-98.2300096
+Bulgaria,Sliven,0.0,24,42.67937034,26.33001013
+Latvia,Jelgava,0.0,70,56.65270347,23.71280554
+Turkey,Isparta,0.0,12,37.76998008,30.52996049
+Turkey,Samsun,0.0,34,41.27999839,36.34366247
+China,Xinxiang,0.0,12,35.32043968,113.8699898
+Russia,Ulyanovsk,0.0,28,54.32997703,48.41000606
+Ukraine,Rivne,0.0,25,50.61658612,26.25280554
+Greece,Kos,0.0,52,36.89372866,27.28881466
+Canada,Hearst,0.0,10,49.70049217,-83.66658329
+Hungary,Eger,1.0,44,47.89500314,20.38300258
+China,Weihai,1.0,18,37.49997072,122.0999784
+Germany,Emden,0.0,12,53.36667666,7.216654824
+Guinea,Conakry,1.0,52,9.531522846,-13.68023503
+Russia,Yaroslavl,0.0,18,57.61998293,39.87001054
+Italy,Ferrara,0.0,28,44.85042645,11.60992672
+Finland,Kemi,0.0,10,65.73331199,24.58169307
+Nicaragua,Bluefields,0.0,16,11.99997683,-83.76494938
+China,Jiangmen,0.0,6,22.58039044,113.0800122
+Egypt,Hurghada,0.0,23,27.23000327,33.83001745
+Russia,Kirov,0.0,79,54.08518577,34.30482051
+Russia,Kirov,0.0,79,58.59005292,49.66998083
+Turkey,Kirklareli,0.0,10,41.74299917,27.22599962
+Poland,Zielona Gora,0.0,42,51.95040651,15.50002519
+United States of America,Parowan,0.0,12,37.84253379,-112.8272065
+Australia,Grafton,0.0,2,-29.71199909,152.9376827
+Italy,Messina,0.0,37,38.2004706,15.5499963
+Russia,Elista,0.0,27,46.32865664,44.20871212
+Malaysia,Malacca,0.0,4,2.206414407,102.2464615
+Algeria,Chlef,0.0,47,36.17041363,1.319960489
+Mexico,Pachuca,0.0,26,20.17043418,-98.73003076
+Spain,Cartagena,2.0,44,37.60042971,-0.980028322
+Mexico,Isla Mujeres,0.0,20,21.20839057,-86.7114549
+India,Vellore,0.0,17,12.92038576,79.15004187
+India,Patiala,0.0,42,30.32040895,76.38499101
+India,Amritsar,0.0,30,31.63999249,74.86999304
+Argentina,Rio Grande,0.0,5,-53.79144552,-67.6989952
+Turkey,Giresun,0.0,18,40.91300115,38.39000452
+Pakistan,Gujrat,0.0,12,32.5799868,74.08001542
+Italy,Genoa,0.0,56,44.40998822,8.930038614
+Hungary,Zalaegerszeg,0.0,16,46.84400103,16.83999959
+Cyprus,Larnaka,0.0,8,34.9170031,33.63599757
+Italy,Sassari,0.0,32,40.73000612,8.57000891
+Brazil,Governador Valadares,0.0,24,-18.87002521,-41.97000696
+Ukraine,Simferopol,0.0,66,44.94915428,34.0987349
+Denmark,Frederikshavn,1.0,45,57.43368939,10.53329993
+Zambia,Nchelenge,1.0,104,-9.349572735,28.73001868
+Malaysia,George Town,0.0,6,5.413613156,100.3293679
+Guatemala,Zacapa,0.0,7,14.97200398,-89.52900256
+China,Lanzhou,0.0,18,36.05602785,103.7920003
+Belgium,Charleroi,0.0,89,50.42039654,4.450001992
+Argentina,Formosa,0.0,4,-26.17283527,-58.1828158
+Australia,Ballina,0.0,8,-28.86135333,153.5679801
+India,Varanasi,0.0,6,25.32999005,83.00003943
+Canada,Nipigon,0.0,10,49.01704551,-88.24997278
+India,Aurangabad,1.0,20,24.7704118,84.38000688
+India,Aurangabad,1.0,20,19.89569643,75.32030147
+Australia,Armidale,0.0,27,-30.51231199,151.667476
+Ukraine,Sumy,0.0,12,50.92429344,34.78086381
+Bolivia,Tarija,0.0,24,-21.51668537,-64.749986
+Hungary,Szombathely,0.0,30,47.22534609,16.62874182
+Germany,Coburg,1.0,38,50.26660748,10.96660681
+Australia,Orange,0.0,10,-33.27999835,149.0999841
+Switzerland,Sion,1.0,56,46.23900303,7.353999482
+Mexico,Chilpancingo,0.0,17,17.54997398,-99.5000096
+Turkey,Ordu,0.0,12,41.00042889,37.8699259
+Canada,Port Burwell,0.0,6,60.26646222,-64.74109766
+India,Moradabad,0.0,22,28.8417912,78.75678422
+Mexico,Monclova,1.0,1,26.89999758,-101.4199958
+China,Zibo,0.0,6,36.79998761,118.049993
+Peru,Callao,0.0,4,-12.07002684,-77.13496647
+Chile,Los Andes,0.0,10,-32.82958657,-70.59999068
+Switzerland,Liestal,0.0,30,47.48300112,7.737003468
+Italy,Arezzo,0.0,18,43.46172569,11.87497514
+Bolivia,Oruro,0.0,4,-17.97995034,-67.12999577
+Georgia,Kutaisi,0.0,6,42.24999086,42.72999101
+Estonia,Viljandi,0.0,49,58.3638889,25.59
+Argentina,Villa Carlos Paz,0.0,60,-31.42000853,-64.50000126
+India,Meerut,0.0,24,29.00041201,77.70000118
+Czech Republic,Hradec Kralove,0.0,56,50.20599617,15.81200153
+India,Vijayawada,0.0,28,16.51995933,80.63000321
+Finland,Kokkola,0.0,67,63.83329877,23.11666622
+Germany,Gera,0.0,58,50.87036908,12.07000199
+Greenland,Nuuk,0.0,43,64.19828147,-51.73265879
+Mexico,Chetumal,0.0,14,18.50001935,-88.29999557
+United States of America,Nephi,0.0,19,39.71027508,-111.8354841
+India,Jodhpur,0.0,18,26.29176597,73.01677283
+Chile,Curico,0.0,16,-34.97999795,-71.24002914
+Estonia,Narva,0.0,12,59.37762758,28.16028601
+Egypt,Sohag,0.0,6,26.55040651,31.70001827
+Argentina,San Nicolas,0.0,16,-33.33002114,-60.24000289
+Russia,Taganrog,0.0,4,47.22999697,38.91999101
+Kuwait,Hawalli,0.0,6,29.33334002,47.99999756
+Russia,Cheboksary,0.0,6,56.12997052,47.25002519
+Mozambique,Nampula,0.0,6,-15.13604124,39.29304317
+Mexico,Iguala,0.0,12,18.37000144,-99.53998133
+Bangladesh,Chittagong,0.0,110,22.32999229,91.79996741
+Austria,Klagenfurt,0.0,53,46.62034426,14.3100203
+India,Rajkot,0.0,38,22.31001935,70.80000891
+Venezuela,Barinas,0.0,4,8.59997764,-70.25001205
+Russia,Podolsk,0.0,36,55.38042971,37.52994665
+Poland,Bytom,0.0,40,50.35003908,18.90999792
+New Zealand,Waitakere,0.0,11,-36.84959959,174.5500069
+India,Ambala,0.0,42,30.32002138,76.82000321
+India,Siliguri,0.0,32,26.72042198,88.45500362
+Romania,Alexandria,0.0,14,43.90163107,25.28670654
+Pakistan,Sargodha,0.0,25,32.08536582,72.6749849
+Finland,Lappeenranta,0.0,72,61.06705935,28.1833337
+Colombia,Pasto,0.0,4,1.21360679,-77.28110742
+Canada,Liverpool,0.0,6,44.03995913,-64.72001367
+United Kingdom,Fort William,0.0,6,56.81647795,-5.112075806
+Mexico,Delicias,0.0,10,28.19996991,-105.4999793
+Spain,Linares,0.0,6,38.08332013,-3.633354738
+Czech Republic,Pardubice,1.0,41,50.04041974,15.76000932
+India,Kozhikode,0.0,4,11.25043601,75.76998979
+Colombia,Santa Marta,0.0,33,11.24720624,-74.20165715
+Latvia,Ventspils,0.0,18,57.38986778,21.56058549
+Colombia,Armenia,0.0,7,4.534282653,-75.68112757
+Brazil,Dourados,0.0,16,-22.23002684,-54.80999841
+Nicaragua,Granada,0.0,11,11.93372764,-85.94998397
+Somalia,Mogadishu,0.0,46,2.066681334,45.36667761
+Switzerland,Stans,0.0,82,46.95000307,8.383302547
+Japan,Kushiro,0.0,8,42.97495953,144.3746911
+Italy,Potenza,0.0,12,40.64200213,15.7989965
+Romania,Zalau,0.0,69,47.1750031,23.06300448
+Brazil,Palmas,0.0,1,-26.47999998,-51.99998906
+Brazil,Palmas,0.0,1,-10.23773558,-48.2877867
+France,Ajaccio,0.0,68,41.92706484,8.728293822
+India,Thanjavur,0.0,6,10.77041363,79.15004187
+India,Bulandshahr,0.0,14,28.4103705,77.84841589
+Argentina,Rafaela,0.0,6,-31.25004474,-61.49997766
 Ukraine,Melitopol,0.0,6,46.83782452,35.37746822
-Indonesia,Yogyakarta,0.0,4,-7.77995278,110.3750093
-Italy,Bari,0.0,4,41.1142204,16.87275793
-Macedonia,Tetovo,0.0,4,42.00923037,20.9700789
-United Kingdom,Omagh,0.0,4,54.60001223,-7.300004315
-India,Cuttack,0.0,4,20.47000246,85.88994055
-Ukraine,Cherkasy,0.0,4,49.43472028,32.07090002
-Romania,Targu Jiu,0.0,4,45.04500004,23.27400062
-Jamaica,Spanish Town,0.0,3,17.98333254,-76.94999068
+United States of America,Van Horn,0.0,6,31.04248374,-104.8322423
+Estonia,Haapsalu,0.0,18,58.9430556,23.5413889
+Turkey,Malatya,0.0,8,38.37043439,38.30002885
+Brazil,Imperatriz,0.0,12,-5.520039043,-47.49000594
+Czech Republic,Usti Nad Labem,0.0,22,50.66299816,14.08100455
+Thailand,Si Racha,0.0,6,13.15902753,100.9286608
+India,Dhanbad,0.0,4,23.80039349,86.41998572
+Brazil,Rio Branco,0.0,1,-9.966589336,-67.80000655
+China,Taizhou,0.0,6,32.4904057,119.9000093
+Tunisia,Sousse,0.0,6,35.82999514,10.62502559
+South Africa,Hermanus,0.0,10,-34.40959349,19.22992672
+Switzerland,Biel,0.0,34,47.16658999,7.2500378
+Pakistan,Gujranwala,0.0,51,32.16042584,74.18502193
+United States of America,Aniak,0.0,6,61.5787077,-159.5221857
+Morocco,Laayoune,0.0,4,27.14998232,-13.20000594
+Russia,Voronezh,0.0,84,51.72998069,39.26999548
+Finland,Joensuu,0.0,57,62.59998903,29.76664791
+China,Fushun,0.0,6,41.86538902,123.8699996
+Argentina,Balcarce,0.0,6,-37.83331216,-58.24999516
+Italy,Catanzaro,0.0,6,38.9003762,16.60000972
+Russia,Bryansk,0.0,5,53.25999066,34.42998083
+Bulgaria,Montana,0.0,8,43.41400203,23.23700161
+Israel,Nazareth,0.0,12,32.70398439,35.2955094
+Romania,Vaslui,0.0,15,46.63332908,27.73333859
+Russia,Engels,0.0,6,51.50040814,46.12001664
+Peru,Ica,0.0,40,-14.06799274,-75.72549178
+Mexico,Guasave,0.0,2,25.57049217,-108.4699789
+Djibouti,Djibouti,0.0,6,11.59501446,43.14800167
+Brazil,Alvorada,0.0,12,-12.47000242,-49.08200179
+South Africa,Polokwane,0.0,38,-23.89002887,29.45002641
+Nigeria,Port Harcourt,0.0,31,4.810002257,7.010000772
+South Africa,Klerksdorp,0.0,22,-26.88002724,26.62001827
+Switzerland,Herisau,0.0,72,47.38329903,9.283302472
+Brazil,Garanhuns,0.0,4,-8.890014222,-36.50003076
+Brazil,Montes Claros,0.0,18,-16.72002724,-43.86002079
+Brazil,Pouso Alegre,0.0,4,-22.22000161,-45.94002303
+China,Huizhou,0.0,6,23.07997235,114.3999833
+Honduras,Comayagua,0.0,20,14.46039512,-87.64998356
+South Africa,East London,0.0,71,-32.97004311,27.87001949
+Canada,Cambridge Bay,0.0,6,69.11695559,-105.0333153
+China,Changde,0.0,6,29.02999676,111.6800459
+United States of America,Raton,0.0,63,36.89739768,-104.439889
+Serbia,Subotica,0.0,34,46.07001609,19.68002844
+Russia,Tver,0.0,48,56.85997764,35.88999508
+China,Datong,0.0,6,40.08001996,113.2999987
+Russia,Smolensk,0.0,22,54.78268841,32.04733557
+Romania,Botosani,0.0,64,47.74841494,26.65965409
+Slovakia,Zvolen,0.0,44,48.58373863,19.13324011
+Chile,Linares,0.0,12,-35.83999713,-71.58998194
+Kazakhstan,Pavlodar,0.0,4,52.29999758,76.95002112
+Italy,Civitavecchia,1.0,6,42.10041343,11.79999263
+Russia,Abakan,0.0,12,53.70368451,91.44500199
+Russia,Penza,0.0,24,53.18002138,44.99998165
+Canada,Little Current,0.0,15,45.96702496,-81.93332992
+Argentina,Chascomus,0.0,25,-35.56621539,-58.01662439
+Australia,Nowra,0.0,8,-34.88284625,150.6000476
+Dominican Republic,La Vega,0.0,4,19.2165906,-70.51658492
+India,Kurnool,0.0,4,15.83000144,78.03000688
+India,Belgaum,0.0,4,15.86501223,74.5050024
+Australia,Colac,0.0,4,-38.33953449,143.5800109
+Russia,Krasnoyarsk,0.0,34,56.01398277,92.86600053
+Peru,Chiclayo,0.0,18,-6.762908916,-79.83658452
+Chile,San Felipe,0.0,4,-32.75000486,-70.7200092
+New Zealand,Greymouth,0.0,4,-42.47274975,171.2087246
+Spain,Arrecife,0.0,4,28.96904923,-13.53783283
+New Zealand,Westport,0.0,6,-41.77443223,171.5666665
+Egypt,Asyut,0.0,4,27.18997988,31.17994665
+Brazil,Erechim,0.0,1,-27.63000731,-52.26999841
+Argentina,Pergamino,0.0,10,-33.89959878,-60.56998275
+India,Gangtok,0.0,6,27.3333303,88.6166475
+Romania,Resita,0.0,28,45.2969625,21.88650875
+Russia,Rybinsk,0.0,4,58.05034426,38.81999711
+Russia,Belgorod,0.0,7,50.62999615,36.5999259
+Peru,Tarapoto,0.0,6,-6.50995278,-76.47996769
+India,Nellore,0.0,4,14.43998293,79.98993892
+El Salvador,Cojutepeque,,1,13.71670204,-88.9333016
+India,Kakinada,0.0,4,16.96747723,82.23750199
+Argentina,Puerto Madryn,0.0,4,-42.77001341,-65.04001998
+Canada,Norman Wells,0.0,16,65.28372703,-126.8499681
+Poland,Elblag,0.0,6,54.18995974,19.40268103
+Indonesia,Bengkulu,0.0,6,-3.800040671,102.2699743
+India,Gorakhpur,0.0,6,26.75039431,83.38001623
+Cameroon,Buea,0.0,4,4.155003087,9.231003513
+Finland,Pori,0.0,88,61.47889467,21.77493933
+Thailand,Chachoengsao,0.0,6,13.67900105,101.0760037
+Iraq,Basra,0.0,4,30.51352378,47.81355668
+Bangladesh,Sylhet,0.0,12,24.90355613,91.87360632
+Mexico,Salamanca,0.0,17,20.57040977,-101.2000092
+Namibia,Keetmanshoop,0.0,12,-26.57389606,18.12999385
+India,Panaji,0.0,28,15.491997,73.81800065
+Japan,Tottori,0.0,12,35.50037701,134.2332946
+Vietnam,Phan Thiet,0.0,6,10.933737,108.1000577
+Thailand,Phayao,0.0,6,19.17070192,99.90830969
+Iran,Tehran,0.0,16,35.67194277,51.42434403
+Finland,Mikkeli,0.0,26,61.68999617,27.28500348
+Brazil,Arapiraca,0.0,4,-9.750013409,-36.66999455
+Russia,Blagoveshchensk,0.0,4,50.26660748,127.5333418
+Algeria,Annaba,0.0,22,36.92000612,7.759980834
+Russia,Ryazan,0.0,6,54.61995933,39.71999385
+Austria,Eisenstadt,0.0,12,47.83329908,16.53329747
+Malawi,Blantyre,0.0,37,-15.79000649,34.98994665
+Canada,Fort Chipewyan,0.0,12,58.71709943,-111.1499962
+Russia,Barnaul,0.0,35,53.35499778,83.74500688
+India,Ahmednagar,0.0,4,19.11042137,74.75000037
+Brazil,Assis,0.0,6,-22.65961302,-50.41998214
+Russia,Vladivostok,0.0,6,43.13001467,131.9100256
+Russia,Tambov,0.0,11,52.73002301,41.43001868
+Mexico,Fresnillo,0.0,8,23.17043194,-102.8599854
+India,Akola,0.0,10,20.70998781,77.01001745
+Benin,Cotonou,0.0,41,6.400008564,2.519990599
+Turkey,Rize,0.0,24,41.02084108,40.52185705
+Brazil,Nova Lima,0.0,8,-19.98003497,-43.8500214
+Nigeria,Ilorin,0.0,6,8.490010192,4.549995889
+Ethiopia,Addis Ababa,0.0,56,9.033310363,38.70000443
+Poland,Opole,0.0,21,50.68497988,17.93134965
+India,Alappuzha,0.0,4,9.500413634,76.37000484
+India,Jabalpur,0.0,24,23.17505699,79.95505733
+India,Jorhat,1.0,8,26.7499809,94.21666744
+Mexico,Progreso,0.0,6,21.28331199,-89.66657882
+Canada,Bella Bella,0.0,4,52.14840476,-128.1172809
+Vietnam,Quang Ngai,0.0,31,15.15043052,108.8299873
+South Africa,Rustenburg,0.0,22,-25.6500248,27.2400321
+Russia,Chelyabinsk,0.0,66,55.15499127,61.43866817
+India,Raipur,0.0,24,21.23499453,81.63500647
+Colombia,Sincelejo,0.0,16,9.290426452,-75.37995732
+United Kingdom,Lerwick,0.0,10,60.15003522,-1.149992108
+China,Maoming,0.0,14,21.92040489,110.8700179
+Italy,Foggia,0.0,34,41.46047833,15.55996985
+Brazil,Ituiutaba,0.0,4,-18.97001911,-49.45998906
+France,Biarritz,0.0,16,43.47327537,-1.561594891
+France,Tarbes,0.0,34,43.23329002,0.083343464
+Brazil,Arapongas,0.0,4,-23.41000649,-51.43004968
+Madagascar,Antananarivo,0.0,44,-18.91663735,47.5166239
+Egypt,Benha,0.0,4,30.46666512,31.18333563
+Gabon,Libreville,0.0,13,0.38538861,9.457965046
+Ukraine,Zaporizhzhya,0.0,10,47.85729718,35.17680863
+Brazil,Itabuna,0.0,8,-14.78960244,-39.28001611
+Brazil,Ourinhos,0.0,6,-22.97003335,-49.86998987
+Ukraine,Poltava,0.0,53,49.57403994,34.57028235
+Burundi,Bujumbura,0.0,16,-3.37608722,29.36000606
+Russia,Gatchina,0.0,6,59.5706649,30.13334387
+Russia,Kursk,0.0,18,51.73998008,36.19002844
+Argentina,Campana,0.0,10,-34.15999632,-58.95997766
+Argentina,Lobos,0.0,4,-35.184895,-59.09467228
+Brazil,Passos,0.0,12,-20.71001626,-46.60998214
+Canada,Fort Simpson,0.0,6,61.84998313,-121.3332764
+India,Udaipur,0.0,40,24.59998293,73.73001094
+Malaysia,Teluk Intan,0.0,18,4.01185976,101.0314453
+Morocco,Safi,0.0,12,32.31997683,-9.239989259
+Brazil,Rio Grande,0.0,16,-32.04947915,-52.12000757
+France,Bourges,0.0,12,47.08372683,2.399997923
+Hungary,Szolnok,1.0,34,47.18635622,20.17937781
+India,Agra,0.0,10,27.17042035,78.01502071
+Romania,Slatina,0.0,38,44.43499814,24.37100156
+India,Cuttack,0.0,22,20.47000246,85.88994055
+Yemen,Sanaa,0.0,36,15.3547333,44.20659338
+India,Jammu,0.0,86,32.71178754,74.84673865
+Turkey,Manisa,0.0,31,38.63039268,27.43996822
+Italy,Asti,0.0,10,44.92998232,8.209979206
+Namibia,Walvis Bay,0.0,24,-22.95752765,14.50530554
+South Africa,Bethlehem,0.0,2,-28.21958372,28.29996741
+Argentina,Rio Tercero,0.0,7,-32.1796004,-64.12002446
+Canada,La Sarre,0.0,8,48.8000045,-79.20003422
+India,Rohtak,0.0,10,28.9000047,76.58001786
+India,Allahabad,0.0,44,25.45499534,81.84000688
+India,Jamshedpur,0.0,44,22.78753542,86.19751868
+China,Zhangzhou,0.0,6,24.52037539,117.6700162
+Brazil,Guarapuava,0.0,12,-25.38001544,-51.48002079
+Japan,Tsuruoka,0.0,4,38.70041424,139.830214
+Japan,Matsue,0.0,10,35.46699404,133.0666475
+Mexico,Juchitan,0.0,12,16.42999066,-95.01999882
+India,Thiruvananthapuram,0.0,8,8.499983743,76.95002112
+Russia,Perm,0.0,99,57.99995974,56.24999263
+Thailand,Pathum Thani,0.0,6,14.01711468,100.5333361
+China,Wuhu,0.0,6,31.3504236,118.3699735
+Kazakhstan,Atyrau,0.0,25,47.11269147,51.92002437
+Tunisia,Tunis,0.0,59,36.80277814,10.1796781
+India,Rajahmundry,0.0,6,17.03034161,81.78998409
+India,Shillong,0.0,12,25.57049217,91.8800142
+India,Panipat,0.0,12,29.40041343,76.96996822
+Japan,Yamagata,0.0,6,38.27049217,140.3200032
+India,Kanpur,0.0,94,26.4599986,80.3199963
+China,Zhuozhou,0.0,2,39.54005292,115.789976
+China,Nantong,0.0,6,32.0303821,120.8250175
+India,Khammam,1.0,15,17.28042971,80.16005774
+Turkey,Tekirdag,0.0,60,40.99086875,27.50998979
+Colombia,Villavicencio,0.0,10,4.153323994,-73.63499923
+Malta,Valletta,0.0,20,35.89973248,14.51471065
+India,Ranchi,0.0,20,23.37000633,85.33002641
+South Africa,Bloemfontein,0.0,56,-29.11999388,26.22991288
+Brazil,Ipatinga,0.0,12,-19.4796004,-42.51999923
+Kazakhstan,Shymkent,0.0,6,42.32001243,69.59501786
+Thailand,Samut Prakan,0.0,6,13.60690716,100.6114709
+China,Shantou,0.0,19,23.37000633,116.6700256
+India,Bhilai,0.0,22,21.2166667,81.4333333
+Argentina,Tres Arroyos,0.0,6,-38.3699719,-60.26994938
+Chile,Coronel,0.0,10,-37.02995034,-73.1600153
+China,Linyi,0.0,4,35.07998924,118.329976
+Argentina,Lujan,0.0,6,-34.57960895,-59.10999435
+France,Cherbourg,0.0,6,49.65039187,-1.649987428
+Bangladesh,Mymensingh,0.0,6,24.75041302,90.3800024
+India,Kalyan,0.0,44,19.25023195,73.16017493
+Russia,Stavropol,0.0,64,45.05000083,41.98001094
+India,Kolhapur,0.0,8,16.70000002,74.22000688
+Saudi Arabia,Medina,0.0,14,24.49998903,39.5800024
+Romania,Calarasi,0.0,46,44.20627972,27.32591833
+Ukraine,Uzhgorod,0.0,40,48.62998903,22.25000077
+Pakistan,Mardan,0.0,4,34.20004295,72.0399849
+France,Calais,0.0,7,50.95041587,1.833314167
+Russia,Almetyevsk,0.0,6,54.90040733,52.31994828
+Germany,Rosenheim,0.0,44,47.8503467,12.13330562
+India,Sonipat,0.0,6,28.9999986,77.01999101
+Canada,Biggar,0.0,6,52.05040041,-107.9832902
+Swaziland,Manzini,0.0,52,-26.49500106,31.3880045
+India,Kota,0.0,24,25.17999921,75.83499874
+Brazil,Sobral,0.0,10,-3.690021547,-40.35002832
+Vietnam,My Tho,0.0,10,10.35041343,106.3500354
+Russia,Makhachkala,0.0,16,42.98002382,47.49998409
+China,Jiujiang,0.0,6,29.72997988,115.9800419
+South Africa,Welkom,0.0,26,-27.96998655,26.72998572
+Australia,Murray Bridge,0.0,6,-35.12960122,139.2600162
+Turkey,Kirikkale,0.0,16,39.85036989,33.52998409
+Russia,Astrakhan,0.0,26,46.34865541,48.05498897
+China,Xining,0.0,6,36.6199986,101.7700048
+Mauritius,Curepipe,0.0,64,-20.31619017,57.51663367
+Canada,Taloyoak,0.0,6,69.5333126,-93.53331954
+Brazil,Uruguaiana,0.0,16,-29.76961831,-57.08998845
+Algeria,Batna,0.0,39,35.56995933,6.170000365
+Turkey,Aydin,0.0,20,37.8499752,27.85002071
+Russia,Sochi,0.0,16,43.59001243,39.72996741
+Venezuela,Valera,0.0,6,9.319959533,-70.6200153
+Bulgaria,Vratsa,0.0,14,43.20998395,23.56253048
+China,Langfang,0.0,12,39.5203642,116.6799991
+Ukraine,Kherson,0.0,47,46.63253718,32.60066489
+Argentina,General Roca,0.0,13,-39.01995807,-67.60996647
+India,Tiruvannamalai,0.0,4,12.26037437,79.09996741
+Latvia,Daugavpils,0.0,46,55.87995994,26.50999914
+South Africa,Vereeniging,0.0,44,-26.64960203,27.95998816
+United States of America,Unalakleet,0.0,10,63.87342552,-160.7880516
+Venezuela,Acarigua,0.0,6,9.580382913,-69.20002446
+Algeria,Constantine,0.0,18,36.35998863,6.599948281
+Algeria,Blida,0.0,1,36.4203467,2.829997517
+Thailand,Maha Sarakham,0.0,10,16.18399803,103.2980045
+Russia,Cherepovets,0.0,12,59.14043276,37.90997514
+India,Bhavnagar,0.0,4,21.77842389,72.12995357
+Pakistan,Bahawalpur,0.0,117,29.38997479,71.67499426
+Russia,Ukhta,0.0,4,63.55998212,53.68999385
+Argentina,Sunchales,0.0,4,-30.93290648,-61.56661442
+South Africa,Kimberley,0.0,24,-28.74683836,24.77000199
+Mexico,Caborca,0.0,2,30.71614707,-112.1642495
+Turkey,Zonguldak,0.0,13,41.43037681,31.78001339
+China,Shangqiu,0.0,12,34.45041526,115.6500362
+United States of America,Wainwright,0.0,77,70.63688865,-160.0383041
+Luxembourg,Grevenmacher,0.0,26,49.69999811,6.333300575
+United States of America,Tununak,0.0,6,60.58548667,-165.2557892
+Brazil,Apucarana,0.0,6,-23.54999795,-51.4700214
+Bolivia,Sucre,0.0,12,-19.04097085,-65.25951563
+India,Bhagalpur,0.0,4,25.22999615,86.98000321
+Brazil,Olinda,0.0,12,-7.999991029,-34.8499506
+India,Ajmer,1.0,14,26.44999921,74.63998124
+South Africa,Springs,0.0,8,-26.26957355,28.43003699
+India,Bhiwandi,0.0,10,19.35001914,73.12999589
+India,Sangli,0.0,10,16.86040367,74.57502397
+France,Bastia,0.0,6,42.70316734,9.450006875
+Brazil,Laguna,0.0,6,-28.48003294,-48.77997888
+India,Dispur,0.0,6,26.14402305,91.76663611
+India,Asansol,0.0,24,23.6833333,86.9833333
+Canada,Norway House,0.0,4,53.96658836,-97.83328963
+Iceland,Borgarnes,0.0,12,64.56950277,-21.86232219
+United States of America,Kodiak,0.0,7,57.78999839,-152.4069869
+Australia,Bongaree,0.0,14,-27.07872313,153.1508996
+Belgium,Arlon,0.0,8,49.68330313,5.816700472
+China,Yuci,0.0,6,37.68039899,112.7300077
+Germany,Stralsund,0.0,12,54.30041811,13.10001664
+Turkey,Sinop,0.0,7,42.02299802,35.1530015
+Mexico,Atlixco,0.0,4,18.90002077,-98.44999618
+Thailand,Surin,0.0,6,14.88682904,103.4914502
+Ukraine,Vinnytsya,0.0,28,49.22537905,28.48155839
+Ukraine,Chernihiv,0.0,12,51.50492983,31.3015413
+India,Karnal,0.0,8,29.68044802,76.96996822
+India,Silchar,0.0,11,24.79041058,92.79003617
+India,Mathura,0.0,4,27.4999868,77.67002885
+Mexico,Tehuantepec,0.0,8,16.32999676,-95.229986
+Russia,Izhevsk,0.0,13,56.85002993,53.23002193
+India,Tiruchirappalli,0.0,4,10.80999778,78.68996659
+China,Yulin,0.0,12,22.62997398,110.1500101
+China,Yulin,0.0,12,38.28330792,109.7332914
+India,Gandhinagar,0.0,24,23.30039817,72.63994828
+Finland,Kouvola,0.0,10,60.87600009,26.70900351
+Mexico,Salina Cruz,0.0,6,16.16706097,-95.19998784
+Japan,Hirosaki,0.0,6,40.56999005,140.4700199
+Canada,Churchill,0.0,56,58.76598533,-94.1659941
+Bulgaria,Kyustendil,0.0,29,42.28427818,22.6911108
+Nicaragua,Ocotal,0.0,50,13.62999605,-86.47299861
+Japan,Iwaki,0.0,6,37.0553467,140.8900459
+China,Liuzhou,0.0,4,24.28000246,109.2500134
+Russia,Kemerovo,0.0,6,55.33996706,86.08998002
+Brazil,Barbacena,0.0,20,-21.22001097,-43.77000045
+India,Saharanpur,0.0,8,29.97001691,77.55003617
+Brazil,Petrolina,0.0,4,-9.380010153,-40.50996688
+Australia,Albury,0.0,4,-36.06003538,146.9200138
+Mexico,Zumpango,0.0,8,19.81040448,-99.10998173
+Namibia,Swakopmund,0.0,40,-22.6688631,14.53501949
+Russia,Syktyvkar,0.0,6,61.65999473,50.81998816
+Russia,Murmansk,0.0,6,68.96998781,33.10003617
+New Zealand,Kaiapoi,0.0,1,-43.3776249,172.6400459
+Brazil,Caratinga,0.0,6,-19.79002073,-42.13999658
+Ukraine,Mariupol,0.0,18,47.09618085,37.55619828
+China,Jixi,0.0,6,45.29995974,130.9700313
+Turkey,Elazig,0.0,28,38.67997622,39.22999792
+Pakistan,Sukkur,0.0,12,27.71356549,68.8485518
+Canada,Dolbeau,0.0,22,48.86658958,-72.23332768
+India,Bareilly,0.0,8,28.34538739,79.41999955
+Russia,Novorossiysk,0.0,14,44.72996869,37.76993201
+Angola,Camabatela,0.0,6,-8.189591859,15.37000728
+Turkey,Bilecik,0.0,6,40.14999902,29.9829966
+Peru,Cajamarca,0.0,6,-7.150017071,-78.53002344
+Bangladesh,Khulna,0.0,18,22.839987,89.56000077
+India,Bilaspur,0.0,14,22.09042035,82.15998734
+India,Muzaffarnagar,0.0,4,29.48500775,77.69504024
+India,Karur,0.0,8,10.95037681,78.08333695
+Albania,Fier,0.0,6,40.73000402,19.5730026
+Poland,Inowroclaw,0.0,4,52.77994244,18.24998653
+Albania,Elbasan,0.0,16,41.12150677,20.08382808
+Switzerland,Bellinzona,1.0,12,46.19700013,9.019998609
+Canada,Cat Lake,0.0,30,51.71703575,-91.79998865
+South Africa,Knysna,0.0,6,-34.03292397,23.03331213
+Russia,Noyabrsk,0.0,4,63.1665436,75.61651078
+Argentina,Rio Gallegos,0.0,6,-51.63329669,-69.21658675
+South Africa,Queenstown,0.0,4,-31.89961749,26.8800024
+France,Vichy,0.0,4,46.117145,3.416680052
+Ethiopia,Nazret,0.0,1,8.549980691,39.26999548
+United States of America,Gila Bend,0.0,4,32.95037762,-112.7246546
+United States of America,Hooper Bay,0.0,4,61.53108787,-166.0965648
+Thailand,Phrae,0.0,4,18.15329632,100.1629195
+Mexico,Loreto,0.0,4,26.01333335,-111.3516635
+Brazil,Irati,0.0,6,-25.47003579,-50.65996749
+Brazil,Canela,0.0,10,-29.36003091,-50.81001001
+Saudi Arabia,Buraydah,0.0,6,26.36638674,43.96283565
+Russia,Serpukhov,0.0,6,54.93037966,37.43000443
+Namibia,Tsumeb,0.0,8,-19.24002846,17.71001949
+Ethiopia,Asosa,0.0,30,10.06699404,34.5333337
+Kazakhstan,Ridder,0.0,6,50.35538759,83.5149434
+Turkey,Erzurum,0.0,16,39.92039146,41.29002722
+France,Lorient,0.0,32,47.75040448,-3.366575156
+China,Lianyungang,0.0,6,34.60043194,119.170028
+South Africa,Tzaneen,0.0,12,-23.81954222,30.16998246
+India,Shimoga,0.0,4,13.93037579,75.56002844
+Canada,Baker Lake,0.0,10,64.31699017,-96.01665633
+Belarus,Brest,0.0,10,52.09998395,23.69998979
+Argentina,La Rioja,0.0,8,-29.40995034,-66.84996118
+India,Bhubaneshwar,0.0,6,20.27042808,85.82736039
+India,Gwalior,0.0,6,26.2299868,78.18007523
+Turkey,Nevsehir,0.0,12,38.62400404,34.72399852
+Zimbabwe,Bulawayo,0.0,6,-20.16999754,28.58000199
+Switzerland,Glarus,0.0,4,47.05000204,9.066699587
+Thailand,Kalasin,0.0,6,16.42799707,103.5090007
+United States of America,Atka,0.0,6,52.19648968,-174.2004887
+Russia,Surgut,0.0,16,61.25994163,73.42501664
+Liechtenstein,Vaduz,0.0,47,47.13372377,9.516669473
+China,Jingmen,0.0,6,31.03039146,112.1000203
+South Africa,Mossel Bay,0.0,4,-34.17002155,22.1300081
+Iran,Karaj,0.0,4,35.8003587,50.97000484
+Turkey,Nigde,0.0,6,37.97600412,34.69400163
+Russia,Volzhskiy,0.0,23,48.79481101,44.77436234
+United Kingdom,Stoke,0.0,4,53.00036826,-2.180006756
+Romania,Slobozia,0.0,30,44.56999806,27.38199659
+South Africa,Uitenhage,0.0,4,-33.75960732,25.39001583
+Brazil,Linhares,0.0,8,-19.38999347,-40.05002079
+Russia,Pyatigorsk,0.0,20,44.07995668,43.09002071
+South Africa,Paarl,0.0,6,-33.69955931,18.96002071
+Niger,Niamey,0.0,32,13.51670595,2.116656045
+Algeria,Mascara,0.0,2,35.40040895,0.14003251
+Iraq,Karbala,0.0,6,32.61492006,44.02448564
+Russia,Prokopyevsk,0.0,4,53.89997744,86.70999385
+Russia,Noginsk,0.0,6,55.87042564,38.48001786
+Russia,Noginsk,0.0,6,64.48331077,91.23333533
+India,Tirunelveli,0.0,12,8.730408955,77.68997595
+Kenya,Nakuru,0.0,12,-0.279997132,36.06998409
+Pakistan,Sahiwal,0.0,19,30.67173118,73.11180579
+Turkey,Sanliurfa,1.0,10,37.16999086,38.79498572
+Turkey,Diyarbakir,0.0,52,37.92043601,40.23004024
+Namibia,Gobabis,0.0,2,-22.455,18.96300054
+Kazakhstan,Taraz,0.0,4,42.89997703,71.36498734
+Zambia,Ndola,0.0,6,-12.99994424,28.65002356
+Mexico,Valladolid,0.0,6,20.67040367,-88.20000167
+India,Itanagar,0.0,6,27.10039878,93.61660071
+China,Linfen,0.0,6,36.08034161,111.520004
+Russia,Krasnogorsk,0.0,22,48.4615497,142.0899727
+Chile,Calbuco,0.0,4,-41.75220107,-73.14159106
+India,Tezpur,0.0,10,26.6337606,92.80000972
+South Africa,Ladysmith,0.0,4,-28.54948606,29.7800321
+Afghanistan,Herat,0.0,4,34.33000917,62.16999304
+Russia,Tula,0.0,13,54.19995913,37.62994055
+Australia,Clare,0.0,6,-33.8328845,138.6000048
+India,Bikaner,0.0,10,28.0303937,73.32993201
+Russia,Lipetsk,0.0,6,52.62000389,39.63999874
+India,Muzaffarpur,0.0,8,26.12043276,85.37994584
+Turkey,Izmit,0.0,6,40.77602399,29.93061723
+Mexico,Puerto Escondido,0.0,6,15.85918031,-97.06588835
+Canada,Radisson,0.0,6,53.78362795,-77.61656498
+Iran,Zanjan,0.0,1,36.67002138,48.50002641
+Nigeria,Abeokuta,0.0,2,7.160427265,3.350017455
+Germany,Cologne,0.0,12,50.93000368,6.950004434
+South Korea,Sokcho,0.0,4,38.20871299,128.5911584
+India,Jhansi,0.0,4,25.45295412,78.55746822
+India,Kohima,0.0,12,25.6669979,94.11657019
+Turkey,Karaman,0.0,6,37.18154055,33.21501623
+Russia,Vladikavkaz,0.0,12,43.05038129,44.66997595
+India,Hoshiarpur,0.0,6,31.51997398,75.98000281
+Iraq,Kirkuk,0.0,16,35.4722392,44.3922668
+Russia,Kolomna,0.0,12,55.07998293,38.78496049
+Canada,Gjoa Haven,0.0,6,68.63329002,-95.91666244
+China,Zunyi,0.0,6,27.70002626,106.9200264
+China,Fuyang,0.0,12,32.90040651,115.82
+China,Fuyang,0.0,12,30.0533333,119.9519444
+Georgia,Rustavi,0.0,48,41.57036826,45.05000443
+Turkey,Sivas,0.0,24,39.74541506,37.03498979
+Israel,Ramla,0.0,4,31.91670012,34.86670252
+Chile,Caldera,0.0,4,-27.06962807,-70.83002832
+Nigeria,Onitsha,0.0,2,6.140412007,6.779988972
+Namibia,Katima Mulilo,0.0,6,-17.4996179,24.26000728
+Russia,Ivanovo,0.0,6,57.01002016,41.00999263
+Australia,Bordertown,0.0,6,-36.31619546,140.7666426
+Russia,Kurgan,0.0,18,55.45995974,65.34499304
+South Africa,Port Alfred,0.0,6,-33.59951373,26.8800024
+France,Nevers,0.0,12,46.98373293,3.166669473
+Kazakhstan,Petropavlovsk,0.0,7,54.87999514,69.22000199
+Bangladesh,Comilla,0.0,4,23.47041363,91.16998002
+Russia,Dimitrovgrad,0.0,6,54.25042116,49.56001339
+Pakistan,Larkana,0.0,8,27.56176597,68.20678218
+South Africa,Upington,0.0,6,-28.46003416,21.23001135
+Russia,Orenburg,0.0,24,51.77997764,55.11001054
+India,Kumbakonam,0.0,4,10.98047833,79.40000077
+Canada,Resolute,0.0,6,74.68333417,-94.90000615
+Italy,Olbia,0.0,12,40.9142849,9.515071858
+Argentina,Pedro Luro,0.0,6,-39.48334064,-62.68331629
+Ukraine,Yalta,0.0,6,44.49931093,34.15940303
+Russia,Kostroma,0.0,6,57.77002545,40.94002274
+Poland,Koszalin,0.0,12,54.2,16.1833333
+Switzerland,Frauenfeld,0.0,4,47.56799717,9.108000502
+Sierra Leone,Freetown,0.0,12,8.470011412,-13.23421574
+Turkey,Yozgat,0.0,6,39.81799809,34.81499749
+Mozambique,Beira,0.0,4,-19.82004474,34.87000565
+Nigeria,Zaria,0.0,6,11.0799813,7.710009724
+Portugal,Portalegre,0.0,18,39.29000411,-7.423001549
+Russia,Bataysk,0.0,14,47.13682436,39.74485022
+Nigeria,Yola,0.0,6,9.209992085,12.48000281
+Brazil,Vacaria,0.0,11,-28.49961831,-50.94000208
+Turkey,Van,0.0,16,38.49543968,43.39997595
+Croatia,Dubrovnik,0.0,16,42.66094769,18.09139156
+Nigeria,Uyo,0.0,7,5.007996056,7.849998524
+Italy,Aosta,0.0,6,45.73700107,7.315002596
+Latvia,Rezekne,0.0,28,56.50002545,27.3165649
+Azerbaijan,Naxcivan,0.0,4,39.2092204,45.41220455
+Ukraine,Dnipropetrovsk,0.0,12,48.47997235,35.00002356
+Nigeria,Benin City,0.0,6,6.340477314,5.620008096
+China,Yiyang,0.0,12,28.60041058,112.3300321
+Ghana,Cape Coast,0.0,8,5.11037152,-1.249986004
+Russia,Kislovodsk,0.0,6,43.90996706,42.72001745
+Brazil,Ceres,0.0,4,-15.30331785,-49.60519983
+Russia,Maykop,0.0,6,44.60997601,40.12002112
+Russia,Armavir,0.0,3,45.00039146,41.13003699
+Poland,Elk,0.0,6,53.83370241,22.34999467
+Russia,Kumertau,0.0,6,52.7747748,55.7843363
+Algeria,Jijel,0.0,1,36.82199703,5.76600356
+Nigeria,Nsukka,0.0,6,6.867034321,7.383362995
+Russia,Arzamas,0.0,4,55.39998924,43.80000321
+Tunisia,Sfax,0.0,18,34.75003522,10.72000688
+Albania,Pogradec,0.0,6,40.89999612,20.66400062
+United States of America,Emmonak,0.0,12,62.77698081,-164.5229916
+Turkey,Kirsehir,0.0,4,39.14199917,34.1710026
+United States of America,Unalaska,0.0,61,53.868584,-166.5316028
+Russia,Novotroitsk,0.0,1,51.20001304,58.33002071
+Tunisia,Tataouine,0.0,6,33.00000315,10.46670359
+Kenya,Meru,0.0,4,0.059982116,37.64001745
+Algeria,Laghouat,0.0,12,33.80998924,2.880020303
+Russia,Leninogorsk,0.0,4,54.59869448,52.44872595
+Brazil,Novo Horizonte,0.0,8,-21.45958291,-49.2200037
+Ukraine,Kremenchuk,0.0,4,49.08352724,33.42962846
+Mozambique,Tete,0.0,4,-16.17003497,33.58000688
+India,Shahjahanpur,0.0,4,27.88037701,79.90503454
+South Africa,Kuruman,0.0,4,-27.4495532,23.42000688
+South Africa,Thohoyandou,0.0,6,-22.95003457,30.48004106
+Bangladesh,Tangail,0.0,6,24.24997845,89.92003048
+Ecuador,Chone,0.0,2,-0.689584535,-80.09000574
+Russia,Monchegorsk,0.0,6,67.92912111,32.8287349
+China,Jiayuguan,0.0,2,39.82000999,98.29998409
+Venezuela,Calabozo,0.0,4,8.930396748,-67.43997685
+Brazil,Paracatu,0.0,6,-17.19958453,-46.86999211
+Cuba,Havana,0.0,6,23.13195884,-82.36418217
+Mexico,Matehuala,0.0,6,23.6603762,-100.6500169
+Uganda,Jinja,0.0,6,0.44042401,33.19992672
+Russia,Bologoye,0.0,6,57.87216392,34.05176103
+Brazil,Viana,0.0,6,-3.209585756,-45.00000289
+Brazil,Lajes,0.0,6,-27.80958291,-50.30998885
+Australia,Cobram,0.0,4,-35.91963051,145.6500138
+Canada,Grise Fiord,0.0,4,76.44165061,-82.94998621
+Canada,Fort Resolution,0.0,4,61.16658815,-113.682994
+Russia,Kondopoga,0.0,4,62.20872093,34.28869747
+Paraguay,Hohenau,0.0,1,-27.07954995,-55.74996688

@@ -24,6 +24,9 @@ geo_df['country'][geo_df['country'] == "Iran, Islamic Republic Of"] = 'Iran'
 geo_df['country'][geo_df['country'] == "Cote D'Ivoire "] = 'Ivory Coast'
 
 uni_df = geo_df.merge(city_df, on=['country','city'], how='inner')
+sum_clicks = 
+uni_df[cols_to_norm] = uni_df[cols_to_norm].apply(lambda x: (x - x.mean()) / (x.max() - x.min()))
+
 for timeframe in uni_df['timeframe'].unique():
     with open("".join(['data/cities_',str(timeframe),".csv"]), 'wb') as output:
        timeframe_data = uni_df[(uni_df.timeframe == timeframe)].copy(deep=True)
