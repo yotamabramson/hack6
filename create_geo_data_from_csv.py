@@ -28,6 +28,6 @@ for timeframe in uni_df['timeframe'].unique():
     with open("".join(['data/cities_',str(timeframe),".csv"]), 'wb') as output:
        timeframe_data = uni_df[(uni_df.timeframe == timeframe)].copy(deep=True)
        print timeframe_data.head(10)
-       timeframe_data.to_csv(output, columns=['country', 'city','clicks','views'], index=False)
+       timeframe_data.to_csv(output, columns=['country', 'city','clicks','views','lat','lng'], index=False)
 
 
