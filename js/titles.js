@@ -8,14 +8,14 @@ height = height.substr(0, height.length - 2)
 
 var format = d3.format(",d");
 
-//var color = d3.scaleOrdinal(d3.schemeCategory20c);
+var color = d3.scaleOrdinal(d3.schemeCategory20c);
 
 var pack = d3.pack()
     .size([width, height])
     .padding(1.5);
 
 var dataN = 23;
-var dataIndex = 1;
+var dataIndex = 0;
 setInterval(function() {
     dataIndex += 1;
     if (dataIndex > dataN) {

@@ -652,3 +652,9 @@ p {
     from { opacity: 1 }
     to { opacity: 0.3}
 }
+
+#i {
+  width: 100vw;
+  height: 1000px;
+  border: none;
+}
