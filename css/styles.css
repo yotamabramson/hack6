@@ -239,6 +239,16 @@ h1 {
   #slide05 .bcg {
     background: url(../img/mnm.jpg) no-repeat center center;
     background-size: cover; }
+  #slide06 .bcg {
+    background-color: white; }
+  #slide07 .bcg {
+    background: url(../img/landScape.jpg) no-repeat center center;
+    background-size: cover; }
+  #slide08 .bcg {
+    background: url(../img/logo.jpg) no-repeat center center;
+    background-size: contain;
+    background-color: white;
+  }
   #slide02 .bcg {
     background: url(../img/cupcakes.jpg) no-repeat center center;
     background-size: cover;
@@ -350,6 +360,15 @@ p {
   .slide#slide05 .wrapper {
     /*position: absolute;*/
     top: 10%; }
+  .slide#slide06 .wrapper {
+    /*position: absolute;*/
+    top: 10%; }
+  .slide#slide07 .wrapper {
+    /*position: absolute;*/
+    top: 10%; }
+  .slide#slide08 .wrapper {
+    /*position: absolute;*/
+    top: 10%; }
   .slide#slide02 .wrapper {
     /*position: absolute;*/
     bottom: 10%; }
@@ -366,6 +385,12 @@ p {
   .slide#slide04 {
     background-color: #be4c2c; }
   .slide#slide05 {
+    background-color: black; }
+  .slide#slide06 {
+    background-color: black; }
+  .slide#slide07 {
+    background-color: black; }
+  .slide#slide08 {
     background-color: black; }
 
 .button {
@@ -479,9 +504,9 @@ p {
       text-align: left;
       width: 100%;
       margin: 0; }
-    .slide#slide01, .slide#slide02, .slide#slide03, .slide#slide04, .slide#slide05 {
+    .slide#slide01, .slide#slide02, .slide#slide03, .slide#slide04, .slide#slide05, .slide#slide06, .slide#slide07, .slide#slide08 {
       color: #212121; }
-      .slide#slide01 .wrapper, .slide#slide02 .wrapper, .slide#slide03 .wrapper, .slide#slide04 .wrapperm .slide#slide05 .wrapper {
+      .slide#slide01 .wrapper, .slide#slide02 .wrapper, .slide#slide03 .wrapper, .slide#slide04 .wrapper, .slide#slide05 .wrapper, .slide#slide06 .wrapper, .slide#slide07 .wrapper, .slide#slide08 .wrapper {
         top: 20%;
         text-align: center; }
 
@@ -678,6 +703,12 @@ p {
   border: none;
 }
 
+#cities {
+  width: 100vw;
+  height: 700px;
+  border: none;
+}
+
 #intro .title {
   font-size: 90px;
   color: white;
@@ -688,7 +719,7 @@ p {
 }
 
 #slide04 .slideInUp {
-  padding-left: 200px;
+  padding-right: 400px;
 }
 
 #slide05 .slideInUp {
@@ -702,4 +733,12 @@ p {
 
 #slide05 .slideInUp {
   text-align: center;
+}
+
+#slide06 .wrapper {
+  padding-top: 0;
+}
+
+#slide07 .slideInUp {
+  color: white;
 }

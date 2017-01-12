@@ -11,8 +11,7 @@ path {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://d3js.org/topojson.v0.min.js"></script>
 <script>
-var width = 960,
-    height = 500;
+var height = 700;
 
 var projection = d3.geo.mercator()
     .center([0, 5 ])
@@ -20,7 +19,7 @@ var projection = d3.geo.mercator()
     .rotate([-180,0]);
 
 var svg = d3.select("body").append("svg")
-    .attr("width", width)
+    .attr("width", "100%")
     .attr("height", height);
 
 var path = d3.geo.path()
@@ -95,19 +94,20 @@ g.selectAll("path")
       .attr("d", path)
 });
 
+g.attr('transform', 'scale(1.3)');
 // zoom and pan
-var zoom = d3.behavior.zoom()
-    .on("zoom",function() {
-        g.attr("transform","translate("+ 
-            d3.event.translate.join(",")+")scale("+d3.event.scale+")");
-        g.selectAll("circle")
-            .attr("d", path.projection(projection));
-        g.selectAll("path")  
-            .attr("d", path.projection(projection)); 
-
-  });
-
-svg.call(zoom)
+//var zoom = d3.behavior.zoom()
+//    .on("zoom",function() {
+//        g.attr("transform","translate("+
+//            d3.event.translate.join(",")+")scale("+d3.event.scale+")");
+//        g.selectAll("circle")
+//            .attr("d", path.projection(projection));
+//        g.selectAll("path")
+//            .attr("d", path.projection(projection));
+//
+//  });
+//
+//svg.call(zoom)
 }
 
 </script>

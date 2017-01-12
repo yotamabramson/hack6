@@ -4,10 +4,10 @@
     var controller = new ScrollMagic.Controller();
 
     // get all slides
-	var slides = ["#slide01", "#slide02", "#slide03", '#slide04', '#slide05'];
+	var slides = ["#slide01", "#slide02", "#slide03", '#slide04', '#slide05', '#slide06', '#slide07', '#slide08'];
 
 	// get all headers in slides that trigger animation
-	var headers = ["#slide01 header", "#slide02 header", "#slide03 header", '#slide04 header', '#slide05 header'];
+	var headers = ["#slide01 header", "#slide02 header", "#slide03 header", '#slide04 header', '#slide05 header', '#slide06 header', '#slide07 header', '#slide08 header'];
 
 	// get all break up sections
 	var breakSections = ["#cb01", "#cb02", "#cb03"];

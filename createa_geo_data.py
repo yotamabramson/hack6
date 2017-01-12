@@ -23,7 +23,7 @@ FROM
         pv.requests.servedItems.clicked click,
         1 view
       FROM
-      TABLE_DATE_RANGE([taboola_taz.pageviews_], TIMESTAMP('2017-01-04'), TIMESTAMP('2017-01-09'))
+      TABLE_DATE_RANGE([taboola_taz.percentile_pageviews_], TIMESTAMP('2017-01-04'), TIMESTAMP('2017-01-09'))
       WHERE
          pv.publisherId = 1040522
         ),pv.requests.servedItems),pv.requests) AS pv
@@ -53,32 +53,7 @@ with open(filename,'wb') as f:
    for line in lines:
        f.write(line)
    f.seek(0)
-geo_df = pd.read_csv(open(filename, 'rU'), encoding='utf-8', engine='c')
-geo_df = geo_df.convert_objects(convert_numeric=True)
+df = pd.read_csv(open(filename, 'rU'), encoding='utf-8', engine='c')
+df = df.convert_objects(convert_numeric=True)
 
-
-cities_file = 'cities3.csv'
-city_df = pd.read_csv(cities_file)
-city_df = city_df.convert_objects(convert_numeric=True)
-geo_df['country'] = geo_df['country'].str.lower().str.title()
-geo_df['country'][geo_df['country'] == "United States"] = 'United States of America'
-geo_df['country'][geo_df['country'] == "Korea, Republic Of"] = 'South Korea'
-geo_df['country'][geo_df['country'] == "Hong Kong"] = 'Hong Kong S.A.R.'
-geo_df['country'][geo_df['country'] == "Russian Federation"] = 'Russia'
-geo_df['country'][geo_df['country'] == "Trinidad And Tobago"] = 'Trinidad and Tobago'
-geo_df['country'][geo_df['country'] == "Bosnia And Herzegovina"] = 'Bosnia and Herzegovina'
-geo_df['country'][geo_df['country'] == "Macau"] = 'Macau S.A.R'
-geo_df['country'][geo_df['country'] == "Tanzania, United Republic Of"] = 'Moldova'
-geo_df['country'][geo_df['country'] == "Moldova, Republic Of"] = 'Moldova'
-geo_df['country'][geo_df['country'] == "France, Metropolitan"] = 'France'
-geo_df['country'][geo_df['country'] == "Iran, Islamic Republic Of"] = 'Iran'
-geo_df['country'][geo_df['country'] == "Cote D'Ivoire "] = 'Ivory Coast'
-
-uni_df = geo_df.merge(city_df, on=['country','city'], how='inner')
-for timeframe in uni_df['timeframe'].unique():
-    with open("".join(['data/cities_',str(timeframe),".csv"]), 'wb') as output:
-       timeframe_data = uni_df[(uni_df.timeframe == timeframe)].copy(deep=True)
-       print timeframe_data.head(10)
-       timeframe_data.to_csv(output, columns=['country', 'city','clicks','views','lat','lng'], index=False)
-
-
+print df.head(15)
