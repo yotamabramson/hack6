@@ -1,5 +1,3 @@
-<script src="js/d3-3-5-5.min.js"></script>
-<script>
 var USER_SPEED = "fast";
 
 var width = 780,
@@ -132,7 +130,7 @@ d3.tsv("data/test_output.tsv", function(error, data) {
 	var force = d3.layout.force()
 		.nodes(nodes)
 		.size([width, height])
-		// .links([])
+		 .links([])
 		.gravity(0)
 		.charge(0)
 		.friction(.9)
@@ -420,6 +418,3 @@ function minutesToTime(m) {
 	
 	return hh + ":" + mm + ampm
 }
-
-
-</script>
