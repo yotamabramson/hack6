@@ -1,0 +1,573 @@
+country,city,clicks,views
+United States of America,Los Angeles,2.0,493
+United States of America,New York,2.0,417
+United States of America,Seattle,0.0,647
+United States of America,Chicago,0.0,283
+United States of America,Portland,0.0,393
+United States of America,Portland,0.0,393
+United States of America,San Francisco,0.0,362
+United States of America,Houston,1.0,190
+United States of America,Philadelphia,0.0,103
+United States of America,Austin,1.0,145
+United States of America,San Diego,0.0,225
+United States of America,Denver,1.0,240
+United States of America,Minneapolis,0.0,211
+United States of America,San Jose,0.0,198
+United States of America,Atlanta,0.0,114
+Canada,Toronto,2.0,118
+United States of America,Las Vegas,0.0,101
+United States of America,Las Vegas,0.0,101
+United States of America,Oakland,1.0,126
+United States of America,Miami,0.0,76
+United States of America,Columbus,0.0,71
+United States of America,Columbus,0.0,71
+Singapore,Singapore,1.0,215
+United States of America,Charlotte,0.0,63
+United States of America,Phoenix,1.0,132
+United States of America,Dallas,0.0,49
+United States of America,Richmond,0.0,54
+United States of America,Richmond,0.0,54
+United States of America,Arlington,0.0,84
+United States of America,Rochester,0.0,89
+United States of America,Rochester,0.0,89
+United States of America,Orlando,0.0,56
+United States of America,Boston,1.0,64
+United States of America,Pittsburgh,0.0,68
+United States of America,Indianapolis,0.0,29
+United States of America,Louisville,0.0,34
+United States of America,Cincinnati,0.0,24
+United States of America,Sacramento,0.0,200
+United States of America,Ann Arbor,0.0,10
+United States of America,Madison,0.0,42
+Canada,Calgary,2.0,108
+United States of America,Springfield,0.0,42
+United States of America,Springfield,0.0,42
+United States of America,Springfield,0.0,42
+United States of America,Springfield,0.0,42
+United States of America,Springfield,0.0,42
+United States of America,San Antonio,0.0,82
+United States of America,Salt Lake City,0.0,85
+United States of America,Boise,0.0,52
+Canada,Ottawa,0.0,43
+United States of America,Wilmington,0.0,19
+United States of America,Wilmington,0.0,19
+Canada,Winnipeg,0.0,46
+United States of America,Colorado Springs,0.0,51
+United States of America,Newark,0.0,22
+United States of America,Raleigh,1.0,52
+United States of America,Fayetteville,1.0,39
+United States of America,Fayetteville,1.0,39
+United States of America,Buffalo,0.0,50
+United States of America,Columbia,0.0,58
+United States of America,Columbia,0.0,58
+United States of America,Columbia,0.0,58
+United States of America,Nashville,0.0,52
+United States of America,Alexandria,0.0,6
+United States of America,Alexandria,0.0,6
+United States of America,Canton,1.0,29
+United States of America,Kansas City,0.0,31
+United States of America,Kansas City,0.0,31
+United States of America,Baltimore,0.0,26
+United States of America,Pasadena,0.0,79
+United States of America,Pasadena,0.0,79
+United States of America,Charleston,0.0,68
+United States of America,Charleston,0.0,68
+United States of America,Fort Lauderdale,0.0,35
+United States of America,Bremerton,0.0,5
+Ireland,Dublin,0.0,27
+United States of America,Grand Rapids,0.0,12
+United States of America,Medford,1.0,43
+Canada,Edmonton,0.0,56
+United States of America,Knoxville,0.0,27
+United States of America,Honolulu,0.0,121
+United States of America,Omaha,0.0,31
+United States of America,Laurel,0.0,8
+United States of America,Lancaster,0.0,8
+United States of America,Lancaster,0.0,8
+United States of America,Lancaster,0.0,8
+United States of America,Virginia Beach,0.0,12
+United States of America,Durham,0.0,4
+Peru,Lima,1.0,18
+United States of America,Duluth,0.0,6
+United States of America,Milwaukee,0.0,44
+United States of America,Olympia,0.0,41
+United States of America,Albuquerque,1.0,104
+United States of America,Santa Cruz,0.0,98
+United States of America,Asheville,0.0,16
+United States of America,Scottsdale,0.0,32
+United Kingdom,London,0.0,80
+United States of America,Irvine,0.0,14
+United States of America,Oklahoma City,0.0,24
+United States of America,Greenville,0.0,4
+United States of America,Greenville,0.0,4
+United States of America,Greenville,0.0,4
+United States of America,Birmingham,0.0,42
+Canada,Vancouver,1.0,134
+United States of America,Eureka,0.0,4
+United States of America,Des Moines,0.0,10
+United States of America,Boulder,0.0,18
+United States of America,Berkeley,1.0,93
+United States of America,New Orleans,0.0,36
+United States of America,Riverside,0.0,28
+United States of America,Lexington,0.0,32
+United States of America,Aurora,1.0,51
+United States of America,Aurora,1.0,51
+United States of America,Cleveland,0.0,32
+United States of America,Lincoln,0.0,28
+United States of America,Jackson,0.0,32
+United States of America,Jackson,0.0,32
+United States of America,Tampa,0.0,51
+New Zealand,Auckland,0.0,66
+United States of America,Marietta,0.0,20
+United States of America,Lansing,0.0,4
+United States of America,Greensboro,0.0,36
+Australia,Brisbane,0.0,48
+United Kingdom,Glasgow,0.0,8
+United States of America,Bloomington,0.0,18
+United States of America,Bloomington,0.0,18
+United States of America,Jacksonville,0.0,35
+United States of America,Jacksonville,0.0,35
+United States of America,Tucson,1.0,105
+United States of America,Wichita,0.0,18
+United States of America,Las Cruces,0.0,4
+United States of America,Bakersfield,0.0,32
+Japan,Tokyo,0.0,19
+United States of America,San Marcos,0.0,20
+United States of America,Decatur,0.0,18
+South Korea,Seoul,0.0,64
+United States of America,Vancouver,0.0,37
+Germany,Berlin,0.0,18
+Canada,Courtenay,0.0,6
+United States of America,Memphis,0.0,14
+United States of America,Mesa,0.0,40
+United States of America,Spokane,0.0,68
+United States of America,Tacoma,1.0,113
+United States of America,Charlottesville,0.0,13
+Canada,Hamilton,0.0,4
+United States of America,Whittier,0.0,18
+United States of America,Chattanooga,0.0,10
+United States of America,Farmington,1.0,12
+United States of America,Salem,0.0,43
+United States of America,Salem,0.0,43
+United States of America,Fresno,0.0,54
+United States of America,Anchorage,0.0,130
+United States of America,Watertown,0.0,8
+United States of America,Cedar Rapids,0.0,12
+United States of America,West Palm Beach,0.0,16
+United States of America,Long Beach,0.0,26
+United States of America,Peoria,0.0,4
+United States of America,Modesto,0.0,2
+Canada,Saskatoon,0.0,58
+United States of America,Sarasota,0.0,12
+United States of America,Everett,0.0,33
+United States of America,Glendale,1.0,72
+United States of America,Hilo,0.0,18
+United States of America,Redding,0.0,11
+United States of America,Detroit,0.0,4
+United States of America,Dayton,0.0,28
+United States of America,Anderson,0.0,4
+United States of America,Athens,0.0,8
+United States of America,Los Alamos,0.0,18
+Canada,Victoria,0.0,92
+United States of America,Baton Rouge,0.0,27
+United States of America,Huntsville,0.0,4
+United States of America,Huntsville,0.0,4
+United States of America,Stamford,0.0,4
+United States of America,Lafayette,0.0,8
+United States of America,Lafayette,0.0,8
+United States of America,Appleton,0.0,4
+United States of America,Concord,0.0,28
+United States of America,Norfolk,0.0,22
+United States of America,Norfolk,0.0,22
+United States of America,Sanford,0.0,4
+United States of America,Murfreesboro,0.0,18
+United States of America,Davenport,0.0,4
+United States of America,San Mateo,0.0,63
+United States of America,Syracuse,0.0,44
+United Kingdom,Leeds,0.0,8
+United States of America,Erie,0.0,17
+United States of America,Clarksville,0.0,4
+United States of America,Reno,0.0,41
+United States of America,Albany,0.0,63
+United States of America,Albany,0.0,63
+United States of America,Albany,0.0,63
+United States of America,Toledo,0.0,4
+United States of America,Santa Barbara,0.0,37
+United States of America,Harrisburg,0.0,16
+United States of America,Roswell,0.0,10
+United States of America,Bay City,0.0,4
+United States of America,Bay City,0.0,4
+Malaysia,Kuala Lumpur,0.0,62
+United States of America,Trenton,0.0,9
+United States of America,Belleville,0.0,40
+United States of America,New Braunfels,0.0,6
+United States of America,Sioux Falls,0.0,6
+United States of America,Helena,0.0,6
+United States of America,Santa Rosa,0.0,10
+United States of America,Eugene,0.0,74
+United Kingdom,Nottingham,0.0,12
+United Kingdom,Manchester,0.0,16
+United States of America,Evanston,0.0,41
+United Kingdom,Aberdeen,0.0,6
+United States of America,Fredericksburg,0.0,4
+United States of America,Frankfort,0.0,28
+United States of America,Clarksburg,0.0,7
+United States of America,Youngstown,0.0,12
+Canada,Kitchener,1.0,12
+United States of America,Carson City,0.0,6
+United States of America,New Bedford,0.0,4
+United States of America,Bellingham,0.0,35
+United States of America,Ithaca,0.0,8
+United States of America,Denton,1.0,18
+United States of America,Bend,0.0,18
+United States of America,Grand Island,0.0,6
+United States of America,Covington,0.0,22
+United States of America,Auburn,0.0,25
+United States of America,Spartanburg,0.0,4
+Indonesia,Jakarta,0.0,68
+Philippines,Quezon City,0.0,42
+United States of America,Bangor,0.0,4
+United States of America,Laredo,0.0,6
+United States of America,Rockford,0.0,6
+France,Paris,0.0,15
+United States of America,Chico,0.0,17
+Australia,Sydney,0.0,13
+United States of America,Jamestown,0.0,10
+United States of America,Jamestown,0.0,10
+United States of America,Monroe,0.0,14
+United States of America,Muskegon,0.0,8
+United States of America,Marion,0.0,10
+United States of America,Astoria,1.0,24
+United States of America,Newport,0.0,4
+United States of America,Gainesville,0.0,14
+United States of America,Yuma,0.0,20
+United States of America,Pensacola,0.0,10
+United States of America,Naples,0.0,4
+United Kingdom,Birmingham,0.0,12
+Canada,Moncton,0.0,8
+United States of America,Racine,0.0,4
+United States of America,York,0.0,21
+United States of America,Roanoke,0.0,4
+United States of America,Augusta,0.0,12
+United States of America,Augusta,0.0,12
+United States of America,Clovis,0.0,4
+United States of America,Midland,0.0,6
+United States of America,San Bernardino,0.0,4
+United States of America,Titusville,0.0,6
+United Arab Emirates,Dubai,0.0,58
+Greece,Athens,0.0,12
+United States of America,Monticello,0.0,12
+United States of America,Grand Junction,0.0,13
+United States of America,Utica,0.0,6
+United States of America,La Crosse,0.0,4
+United States of America,Winchester,0.0,42
+Spain,Madrid,0.0,14
+United States of America,Stillwater,0.0,4
+United States of America,El Paso,0.0,16
+United States of America,Miami Beach,0.0,1
+United States of America,New Iberia,0.0,4
+United States of America,Traverse City,0.0,4
+Canada,Kelowna,0.0,4
+United States of America,Lakeville,0.0,6
+United States of America,Cheyenne,0.0,10
+Canada,Regina,0.0,12
+Belgium,Brussels,0.0,14
+United States of America,Oceanside,0.0,29
+Norway,Oslo,0.0,9
+United States of America,Carlsbad,0.0,20
+United States of America,Beaumont,0.0,6
+United States of America,Dublin,0.0,12
+Venezuela,Caracas,0.0,6
+United States of America,Topeka,0.0,10
+United States of America,Mankato,0.0,12
+United Kingdom,Leicester,0.0,8
+United States of America,Metairie,0.0,11
+United States of America,Wichita Falls,0.0,6
+United States of America,Janesville,0.0,4
+United States of America,Elgin,0.0,4
+United States of America,Danville,0.0,35
+Australia,Melbourne,0.0,51
+United States of America,Binghamton,0.0,1
+Canada,Windsor,0.0,8
+Canada,Windsor,0.0,8
+United States of America,Pueblo,0.0,4
+United States of America,Wausau,0.0,4
+United States of America,Centralia,0.0,12
+United Kingdom,Oxford,0.0,6
+United States of America,Stockton,0.0,22
+Belgium,Antwerpen,0.0,12
+United States of America,Monterey,0.0,8
+Kenya,Nairobi,0.0,24
+United States of America,Missoula,0.0,9
+United Kingdom,Southampton,0.0,4
+Canada,Chilliwack,0.0,10
+United States of America,Vallejo,0.0,6
+United States of America,Longview,0.0,6
+United States of America,Longview,0.0,6
+Portugal,Lisbon,0.0,7
+Australia,Canberra,0.0,4
+Canada,Abbotsford,0.0,6
+Puerto Rico,San Juan,0.0,7
+China,Qingdao,1.0,6
+United States of America,Killeen,0.0,12
+Spain,Granada,0.0,6
+United States of America,Green Bay,0.0,6
+Austria,Vienna,0.0,4
+Turkey,Istanbul,0.0,22
+United States of America,Manchester,0.0,4
+United States of America,Eau Claire,0.0,23
+Nigeria,Lagos,0.0,1
+United States of America,Jefferson City,0.0,6
+United States of America,Brunswick,0.0,18
+United States of America,Salisbury,0.0,15
+Thailand,Bangkok,0.0,10
+United Kingdom,Norwich,0.0,6
+Netherlands,Rotterdam,0.0,20
+United States of America,Homer,0.0,6
+United States of America,Meridian,0.0,7
+Jamaica,Kingston,0.0,2
+United States of America,Quincy,0.0,14
+Russia,Moscow,0.0,6
+United States of America,Montgomery,0.0,6
+United States of America,Visalia,0.0,18
+United States of America,Waterloo,0.0,6
+United States of America,Crestview,0.0,6
+United States of America,Aberdeen,0.0,4
+United States of America,Aberdeen,0.0,4
+United States of America,Provo,0.0,23
+United States of America,Yakima,0.0,4
+Canada,Peterborough,0.0,6
+United States of America,Amarillo,0.0,8
+United States of America,Shreveport,1.0,10
+Australia,Adelaide,0.0,10
+United States of America,Norman,0.0,9
+United States of America,New London,0.0,4
+United States of America,Daytona Beach,0.0,4
+United Kingdom,Edinburgh,0.0,18
+Italy,Milan,0.0,6
+Italy,Rome,0.0,2
+United Kingdom,Cambridge,0.0,4
+India,Hyderabad,0.0,4
+Canada,Lethbridge,0.0,4
+United States of America,Freeport,0.0,8
+United States of America,Corpus Christi,0.0,34
+United States of America,Kingsville,0.0,4
+United States of America,Kalispell,0.0,14
+Egypt,Cairo,0.0,11
+United States of America,Muncie,0.0,6
+United States of America,Salinas,0.0,34
+United States of America,Kissimmee,0.0,4
+United States of America,Casper,0.0,12
+United States of America,Conroe,0.0,11
+United States of America,Minot,0.0,4
+Ukraine,Kiev,0.0,4
+United States of America,Santa Maria,0.0,4
+United States of America,Rock Hill,0.0,8
+Taiwan,Taipei,0.0,24
+United States of America,Victorville,0.0,6
+United States of America,Ontario,0.0,18
+United States of America,Fort Collins,0.0,43
+United States of America,La Grange,0.0,5
+United States of America,Leesburg,0.0,6
+Canada,Kamloops,0.0,24
+United States of America,Corvallis,0.0,28
+United States of America,Kennewick,0.0,4
+Finland,Helsinki,0.0,24
+South Africa,Cape Town,0.0,24
+New Zealand,Hamilton,1.0,12
+United States of America,Hancock,0.0,8
+United States of America,Tulsa,0.0,47
+United States of America,Orangeburg,0.0,6
+United States of America,Dillon,0.0,6
+United States of America,Billings,0.0,12
+Pakistan,Lahore,0.0,26
+United States of America,Butte,0.0,10
+Australia,Perth,0.0,24
+United States of America,Fargo,0.0,4
+United States of America,Joplin,0.0,10
+United States of America,Valdosta,0.0,4
+Vietnam,Hanoi,0.0,12
+Germany,Leipzig,0.0,14
+Argentina,Santa Fe,0.0,7
+United States of America,San Luis Obispo,0.0,46
+Romania,Bucharest,0.0,42
+Canada,Whitehorse,0.0,18
+United States of America,Brownsville,0.0,4
+Netherlands,Amsterdam,0.0,25
+South Africa,Johannesburg,0.0,33
+United States of America,Richland,0.0,1
+Canada,Red Deer,0.0,18
+United States of America,Schenectady,0.0,4
+United States of America,Ogden,0.0,4
+United Kingdom,Cardiff,0.0,4
+India,Delhi,0.0,15
+New Zealand,Wellington,0.0,6
+United States of America,Dickinson,0.0,12
+United States of America,Conway,0.0,8
+United States of America,Waterbury,0.0,8
+United States of America,Harlingen,0.0,4
+United States of America,West Bend,0.0,6
+Canada,Barrie,0.0,4
+United States of America,Saginaw,0.0,16
+United States of America,Lake Charles,0.0,6
+Chile,Santiago,0.0,4
+United States of America,Coos Bay,0.0,9
+United States of America,Dalton,0.0,7
+Spain,Barcelona,0.0,16
+India,Bangalore,0.0,16
+Switzerland,Lausanne,0.0,1
+Romania,Timisoara,0.0,6
+Bulgaria,Sofia,0.0,6
+United States of America,Hickory,0.0,6
+United States of America,Twin Falls,0.0,4
+Spain,Valencia,0.0,12
+New Zealand,Tauranga,0.0,6
+United States of America,Savannah,0.0,8
+Cayman Islands,George Town,0.0,10
+United States of America,Sherman,0.0,10
+India,New Delhi,0.0,20
+United States of America,Niagara Falls,0.0,6
+Australia,Hobart,0.0,4
+United States of America,Baytown,0.0,4
+Norway,Moss,0.0,4
+United States of America,Juneau,0.0,4
+United States of America,Bridgeport,0.0,6
+United States of America,Cumberland,0.0,4
+United States of America,Montrose,1.0,19
+United States of America,San Angelo,0.0,14
+New Zealand,Christchurch,0.0,22
+United States of America,Palm Coast,0.0,10
+United States of America,Wenatchee,1.0,6
+United States of America,Santa Fe,0.0,16
+United States of America,Flint,0.0,4
+United States of America,Huntington,0.0,4
+United States of America,Yuba City,0.0,8
+United States of America,Key West,0.0,6
+United States of America,Logan,0.0,4
+Canada,Oshawa,0.0,6
+Turkey,Ankara,0.0,4
+United States of America,Ames,0.0,12
+Canada,Saint John,0.0,12
+Canada,Sydney,0.0,4
+Ecuador,Guayaquil,0.0,6
+United States of America,Laramie,0.0,6
+India,Chennai,0.0,22
+Hungary,Budapest,0.0,8
+United States of America,Scranton,0.0,5
+United States of America,Lake Havasu City,0.0,4
+Philippines,Manila,0.0,8
+Qatar,Doha,0.0,6
+United States of America,Waukegan,0.0,6
+United States of America,Lewiston,0.0,8
+United States of America,Lewiston,0.0,8
+United States of America,Parkersburg,0.0,4
+India,Mumbai,0.0,48
+Philippines,Cebu,0.0,21
+China,Shanghai,0.0,6
+Pakistan,Karachi,0.0,7
+United States of America,Tuscaloosa,0.0,10
+United States of America,Urbana,0.0,14
+Thailand,Chiang Rai,0.0,6
+Cambodia,Phnom Penh,0.0,7
+Australia,Richmond,0.0,6
+Australia,Richmond,0.0,6
+United States of America,Hopkinsville,0.0,8
+Belgium,Gent,0.0,1
+United States of America,Slidell,0.0,6
+Netherlands,Eindhoven,0.0,8
+United States of America,Waco,0.0,4
+United States of America,Selma,0.0,8
+Costa Rica,Heredia,0.0,6
+Hong Kong S.A.R.,Hong Kong,0.0,6
+United Kingdom,Coventry,0.0,6
+United States of America,Biloxi,0.0,4
+United States of America,Homestead,0.0,4
+United States of America,Klamath Falls,0.0,4
+Namibia,Windhoek,0.0,4
+United States of America,Wasilla,0.0,14
+South Africa,Pretoria,0.0,15
+United States of America,Ketchikan,0.0,4
+Saudi Arabia,Riyadh,0.0,20
+United Kingdom,York,0.0,6
+United States of America,Vicksburg,0.0,4
+United States of America,Terre Haute,0.0,6
+Mexico,Cuernavaca,0.0,1
+Switzerland,Bern,0.0,8
+Vietnam,Ho Chi Minh City,0.0,44
+United States of America,Sioux City,0.0,4
+India,Kolkata,0.0,16
+Kuwait,Kuwait,0.0,6
+United States of America,Carbondale,0.0,8
+United States of America,Del Rio,0.0,12
+Australia,Darwin,1.0,6
+Canada,Terrace,0.0,12
+Nepal,Kathmandu,0.0,1
+Japan,Fukuoka,0.0,6
+Bangladesh,Dhaka,0.0,10
+Canada,Prince Albert,0.0,4
+United States of America,Fairbanks,0.0,4
+Malaysia,Butterworth,0.0,6
+United States of America,Bryan,0.0,4
+United Arab Emirates,Sharjah,0.0,4
+India,Pune,0.0,16
+Sri Lanka,Colombo,0.0,12
+United Arab Emirates,Abu Dhabi,0.0,12
+United States of America,Walla Walla,0.0,16
+United States of America,Council Bluffs,0.0,4
+United States of America,Cordova,0.0,4
+Mexico,Monterrey,0.0,4
+China,Shenzhen,0.0,6
+United States of America,Enid,0.0,4
+New Zealand,Napier,0.0,4
+Australia,Launceston,1.0,12
+Malaysia,Johor Bahru,0.0,12
+Taiwan,Kaohsiung,0.0,6
+Malaysia,Kota Kinabalu,0.0,4
+United States of America,Tupelo,0.0,4
+Pakistan,Rawalpindi,0.0,27
+Canada,Powell River,0.0,4
+Oman,Muscat,0.0,6
+Maldives,Male,0.0,20
+Uzbekistan,Tashkent,0.0,14
+Romania,Iasi,0.0,6
+New Zealand,Dunedin,0.0,4
+Bahrain,Manama,0.0,12
+United States of America,Escanaba,0.0,4
+Georgia,Tbilisi,0.0,1
+Philippines,Pasay City,0.0,6
+Netherlands,Utrecht,0.0,6
+United States of America,Port Charlotte,0.0,6
+United States of America,Lufkin,0.0,8
+United States of America,Fort Stockton,0.0,4
+Bosnia and Herzegovina,Tuzla,0.0,17
+France,Nantes,0.0,16
+Thailand,Phetchaburi,0.0,12
+France,Lyon,0.0,12
+Canada,Prince George,0.0,10
+Russia,Yekaterinburg,0.0,8
+Japan,Nagasaki,0.0,6
+Turkey,Kayseri,0.0,6
+Romania,Ploiesti,0.0,6
+Liberia,Monrovia,0.0,6
+Mexico,Hermosillo,0.0,6
+United States of America,Bethel,0.0,6
+Malaysia,Kuantan,0.0,6
+Germany,Bonn,0.0,6
+United Kingdom,Peterborough,0.0,6
+Canada,Atikokan,0.0,6
+Bangladesh,Mymensingh,0.0,6
+United States of America,Nome,0.0,6
+Malaysia,Bintulu,0.0,6
+Rwanda,Kigali,0.0,6
+India,Sangli,0.0,6
+United States of America,Polson,0.0,6
+United States of America,Valdez,0.0,4
+France,Grenoble,0.0,4
+India,Lucknow,0.0,4
+India,Jaipur,0.0,4
+Austria,Salzburg,0.0,4
+Norway,Narvik,0.0,4
+Japan,Koriyama,0.0,4
+Germany,Bremen,0.0,4
+South Africa,Benoni,0.0,4
+Thailand,Phuket,0.0,4
