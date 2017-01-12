@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-filename = "geo_dataframe_1484216103.csv"
+filename = "geo_dataframe_1484224650.csv"
 
 geo_df = pd.read_csv(open(filename, 'rU'), encoding='utf-8', engine='c')
 geo_df = geo_df.convert_objects(convert_numeric=True)
@@ -24,9 +24,12 @@ geo_df['country'][geo_df['country'] == "Iran, Islamic Republic Of"] = 'Iran'
 geo_df['country'][geo_df['country'] == "Cote D'Ivoire "] = 'Ivory Coast'
 
 uni_df = geo_df.merge(city_df, on=['country','city'], how='inner')
-sum_clicks = 
-uni_df[cols_to_norm] = uni_df[cols_to_norm].apply(lambda x: (x - x.mean()) / (x.max() - x.min()))
+sum_clicks = uni_df['clicks'].sum()
+sum_views= uni_df['views'].sum()
 
+uni_df['clicks'] = uni_df['clicks'].apply(lambda x: (x*1./sum_clicks))
+uni_df['views'] = uni_df['views'].apply(lambda y: (y*1./sum_views))
+# uni_df = uni_df[~uni_df['views']==0]
 for timeframe in uni_df['timeframe'].unique():
     with open("".join(['data/cities_',str(timeframe),".csv"]), 'wb') as output:
        timeframe_data = uni_df[(uni_df.timeframe == timeframe)].copy(deep=True)
